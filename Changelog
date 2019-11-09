@@ -1,0 +1,7 @@
+Changelog version 2.0:
+
+- Detection de l'emplacement des fichiers necessaires (ScriptD3_Kadala et ScriptD3_ClicRoulette)
+- Desormais les actions sur l'inventaire ne comprennent plus d'exceptions d'emplacement
+- Plus besoin d'installer de logiciel tels que 7zip ou Autohotkey
+
+Merci a toinou, le beta-testeur :)
