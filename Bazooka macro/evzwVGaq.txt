@@ -1,0 +1,8 @@
+d::
+Send {x}
+Sleep 1250
+Send {RButton Down}
+Send {v}
+Send {RButton Up}
+Sleep 50
+end:

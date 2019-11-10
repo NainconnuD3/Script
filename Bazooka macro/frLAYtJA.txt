@@ -1,0 +1,14 @@
+s::
+Send {Shift Down}
+Send {c}
+Send {LButton Down}
+Sleep 960
+Send {LButton Up}
+Sleep 200
+Send {z}
+Sleep 50
+Send {LButton Down}
+Sleep 1350
+Send {LButton Up}
+Send {Shift Up}
+end:
