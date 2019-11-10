@@ -1,8 +1,0 @@
-﻿2019.11.09 07:22:13.169	19.10.1.0	namespace mismatch in plugin file: 'C:\Users\alex\Documents\Téléchargements\TurboHUD 19.10.1.0 (v9.1) STABLE for Diablo III 2.6.6.62433 (64 bit)\Plugins\Resu\skeletalmagesingularityessenceconfig.cs': namespace should be this: 'Turbo.Plugins.Resu
-2019.11.09 07:22:13.169	19.10.1.0	namespace mismatch in plugin file: 'C:\Users\alex\Documents\Téléchargements\TurboHUD 19.10.1.0 (v9.1) STABLE for Diablo III 2.6.6.62433 (64 bit)\Plugins\Resu\skeletalmagesingularityessenceplugin.cs': namespace should be this: 'Turbo.Plugins.Resu
-2019.11.09 07:25:58.633	19.10.1.0	namespace mismatch in plugin file: 'C:\Users\alex\Documents\Téléchargements\TurboHUD 19.10.1.0 (v9.1) STABLE for Diablo III 2.6.6.62433 (64 bit)\Plugins\Default\skeletalmagesingularityessenceconfig.cs': namespace should be this: 'Turbo.Plugins.Default
-2019.11.09 07:25:58.665	19.10.1.0	namespace mismatch in plugin file: 'C:\Users\alex\Documents\Téléchargements\TurboHUD 19.10.1.0 (v9.1) STABLE for Diablo III 2.6.6.62433 (64 bit)\Plugins\Resu\skeletalmagesingularityessenceplugin.cs': namespace should be this: 'Turbo.Plugins.Resu
-2019.11.09 07:44:40.875	19.10.1.0	error while compiling the plugins (System.UnauthorizedAccessException: L'accès au chemin d'accès 'C:\Users\alex\Documents\Téléchargements\TurboHUD 19.10.1.0 (v9.1) STABLE for Diablo III 2.6.6.62433 (64 bit)\plugins_compiled_9e88d471e1dae92b6bdc2af225913ef0c6592416.dll' est refusé.
-   à System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
-   à System.IO.File.InternalDelete(String path, Boolean checkHost)
-   à ⁯‫⁫‭‫‪⁭‌⁫‬⁯⁪​‏‬‬‍‍⁬‌‬‬‭⁮⁫‪‍⁬⁮⁮‎⁪‏‎‮​‎‫‬⁪‮.⁫‬‌‬‫‫‫⁮‭⁬⁫‏‮‎‪‭‏‬⁬‫⁯‌‏⁫⁮‍‎⁯‏⁯‬‎‮​‪‪⁭⁮‫⁫‮(CSharpCodeProvider , CompilerParameters , String[] ))
