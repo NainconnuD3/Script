@@ -1,0 +1,2723 @@
+﻿2019.11.15 04:55:27.677	new context [19.11.14.0] [Microsoft Windows NT 6.2.9200.0 / Windows 8]
+2019.11.15 04:55:31.766	scan started [19.11.14.0]
+2019.11.15 04:55:31.892	header load time: 117 (19621/495517)
+2019.11.15 04:55:31.903	ObjectManager found, ingame flag: 1
+2019.11.15 04:55:31.958	CK#1 sanity check triggered
+2019.11.15 04:55:31.971	deduction - world max index: 0
+2019.11.15 04:55:31.971	deduction - scene max index: 7
+2019.11.15 04:55:31.981	deduction - me: 0, 2001731664, 168314 (valid), 454021
+2019.11.15 04:55:31.982	deduction - actor max index: 141, valid: True
+2019.11.15 04:55:31.982	deduction - acd max index: 531, valid: True
+2019.11.15 04:55:31.995	deduction - highest actor dict: *84,*3
+2019.11.15 04:55:31.995	deduction - CK#1: 4210942371
+2019.11.15 04:55:31.995	deduction - me pos: 322.02:225.76:0.10
+2019.11.15 04:55:31.995	deduction - CK#2: 3672309122
+2019.11.15 04:55:31.995	deduction - A scene#0(161516): no overlap, 0-240, 0-240, CK3: 876649623, CK4: 2956488025
+2019.11.15 04:55:32.000	deduction - A scene#1(161510): 55, 240 - 480, 0 - 240, CK3: 876715158, CK4: 2956488025
+2019.11.15 04:55:32.000	deduction - A scene#2(161507): no overlap, 0-240, 240-480, CK3: 876780693, CK4: 2956488025
+2019.11.15 04:55:32.000	deduction - A scene#3(161513): no overlap, 240-480, 240-480, CK3: 876846228, CK4: 2956488025
+2019.11.15 04:55:32.000	deduction - A scene#4(185542): no overlap, 480-720, 0-240, CK3: 877436051, CK4: 2956488025
+2019.11.15 04:55:32.000	deduction - A scene#5(185545): no overlap, 480-720, 240-480, CK3: 877501586, CK4: 2956488025
+2019.11.15 04:55:32.000	deduction - CK#3: 876715158
+2019.11.15 04:55:32.000	deduction - CK#4: 2956488025
+2019.11.15 04:55:32.000	scan finished in 108 ms
+2019.11.15 04:55:32.268	new run: Necromancer, Hidden Camp, Difficulty: n
+2019.11.15 04:59:09.289	new area: Hidden Camp
+2019.11.15 04:59:09.682	new area: Rift Level 01
+2019.11.15 04:59:59.564	new area: Rift Level 01
+2019.11.15 05:00:00.376	new area: Rift Level 02
+2019.11.15 05:01:32.428	new area: Rift Level 02
+2019.11.15 05:01:33.345	new area: Rift Level 03
+2019.11.15 05:02:03.821	new area: Hidden Camp
+2019.11.15 05:02:10.242	force daf scan due to invalid containers [-1, 531, -1, 3, 1067, True]
+2019.11.15 05:02:10.260	scan started [19.11.14.0]
+2019.11.15 05:02:10.365	header load time: 105 (18493/498621)
+2019.11.15 05:02:10.365	ObjectManager found, ingame flag: 1
+2019.11.15 05:02:10.407	scan finished in 42 ms
+2019.11.15 05:02:10.408	force daf scan due to invalid containers [-1, 531, -1, 3, 1067, True]
+2019.11.15 05:02:10.415	scan started [19.11.14.0]
+2019.11.15 05:02:10.509	header load time: 93 (18469/485840)
+2019.11.15 05:02:10.509	ObjectManager found, ingame flag: 1
+2019.11.15 05:02:10.547	scan finished in 37 ms
+2019.11.15 05:02:10.548	force daf scan due to invalid containers [-1, 531, -1, 3, 1067, True]
+2019.11.15 05:02:10.554	scan started [19.11.14.0]
+2019.11.15 05:02:10.638	header load time: 84 (18469/485436)
+2019.11.15 05:02:10.638	ObjectManager found, ingame flag: 1
+2019.11.15 05:02:10.671	scan finished in 32 ms
+2019.11.15 05:02:10.672	force daf scan due to invalid containers [-1, 531, -1, 3, 1067, True]
+2019.11.15 05:02:10.679	scan started [19.11.14.0]
+2019.11.15 05:02:10.760	header load time: 81 (18469/485436)
+2019.11.15 05:02:10.760	ObjectManager found, ingame flag: 1
+2019.11.15 05:02:10.794	scan finished in 34 ms
+2019.11.15 05:02:10.795	force daf scan due to invalid containers [-1, 531, -1, 3, 1067, True]
+2019.11.15 05:02:10.801	scan started [19.11.14.0]
+2019.11.15 05:02:10.925	header load time: 123 (18469/485436)
+2019.11.15 05:02:10.925	ObjectManager found, ingame flag: 1
+2019.11.15 05:02:10.962	scan finished in 37 ms
+2019.11.15 05:02:10.963	force daf scan due to invalid containers [-1, 531, -1, 3, 1067, True]
+2019.11.15 05:02:10.968	scan started [19.11.14.0]
+2019.11.15 05:02:11.070	header load time: 102 (18469/485436)
+2019.11.15 05:02:11.070	ObjectManager found, ingame flag: 1
+2019.11.15 05:02:11.106	scan finished in 35 ms
+2019.11.15 05:02:11.107	force daf scan due to invalid containers [-1, 531, -1, 3, 1067, True]
+2019.11.15 05:02:11.113	scan started [19.11.14.0]
+2019.11.15 05:02:11.197	header load time: 83 (18469/485436)
+2019.11.15 05:02:11.197	ObjectManager found, ingame flag: 1
+2019.11.15 05:02:11.232	scan finished in 34 ms
+2019.11.15 05:02:11.233	force daf scan due to invalid containers [-1, 531, -1, 3, 1067, True]
+2019.11.15 05:02:11.239	scan started [19.11.14.0]
+2019.11.15 05:02:11.354	header load time: 115 (18469/485436)
+2019.11.15 05:02:11.354	ObjectManager found, ingame flag: 1
+2019.11.15 05:02:11.389	scan finished in 34 ms
+2019.11.15 05:02:11.390	force daf scan due to invalid containers [-1, 531, -1, 3, 1067, True]
+2019.11.15 05:02:11.396	scan started [19.11.14.0]
+2019.11.15 05:02:11.478	header load time: 82 (10305/485436)
+2019.11.15 05:02:11.478	ObjectManager found, ingame flag: 1
+2019.11.15 05:02:11.479	LevelArea candidate count: 3
+2019.11.15 05:02:11.479	can't find levelarea
+2019.11.15 05:02:11.520	scan finished in 41 ms
+2019.11.15 05:02:11.520	force daf scan due to invalid containers [-1, -1, -1, 3, -1, True]
+2019.11.15 05:02:11.526	scan started [19.11.14.0]
+2019.11.15 05:02:11.602	header load time: 76 (2951/460219)
+2019.11.15 05:02:11.603	ObjectManager candidate count: 3
+2019.11.15 05:02:11.603	can't find object manager
+2019.11.15 05:02:11.609	scan started [19.11.14.0]
+2019.11.15 05:02:11.700	header load time: 91 (2887/460178)
+2019.11.15 05:02:11.700	ObjectManager candidate count: 3
+2019.11.15 05:02:11.700	can't find object manager
+2019.11.15 05:02:11.706	scan started [19.11.14.0]
+2019.11.15 05:02:11.781	header load time: 74 (2887/460088)
+2019.11.15 05:02:11.781	ObjectManager candidate count: 3
+2019.11.15 05:02:11.781	can't find object manager
+2019.11.15 05:02:11.789	scan started [19.11.14.0]
+2019.11.15 05:02:11.850	header load time: 61 (2890/460350)
+2019.11.15 05:02:11.850	ObjectManager candidate count: 3
+2019.11.15 05:02:11.851	can't find object manager
+2019.11.15 05:02:11.857	scan started [19.11.14.0]
+2019.11.15 05:02:11.979	header load time: 122 (3103/460296)
+2019.11.15 05:02:11.979	ObjectManager candidate count: 4
+2019.11.15 05:02:11.979	can't find object manager
+2019.11.15 05:02:11.985	scan started [19.11.14.0]
+2019.11.15 05:02:12.071	header load time: 85 (3284/462605)
+2019.11.15 05:02:12.071	ObjectManager candidate count: 4
+2019.11.15 05:02:12.071	can't find object manager
+2019.11.15 05:02:12.077	scan started [19.11.14.0]
+2019.11.15 05:02:12.139	header load time: 61 (3287/465469)
+2019.11.15 05:02:12.139	ObjectManager found, ingame flag: 0
+2019.11.15 05:02:12.178	changed: GameStateAddress
+2019.11.15 05:02:12.178	changed: RealmAddress
+2019.11.15 05:02:12.178	scan finished in 38 ms
+2019.11.15 05:02:12.230	left the game
+2019.11.15 05:02:28.524	block sanity check triggered [RealmAddress]
+2019.11.15 05:02:28.524	scan started [19.11.14.0]
+2019.11.15 05:02:28.614	header load time: 90 (2951/461752)
+2019.11.15 05:02:28.614	ObjectManager candidate count: 3
+2019.11.15 05:02:28.614	can't find object manager
+2019.11.15 05:02:28.621	scan started [19.11.14.0]
+2019.11.15 05:02:28.704	header load time: 82 (2914/461699)
+2019.11.15 05:02:28.704	ObjectManager candidate count: 3
+2019.11.15 05:02:28.704	can't find object manager
+2019.11.15 05:02:28.710	scan started [19.11.14.0]
+2019.11.15 05:02:28.770	header load time: 59 (2907/461665)
+2019.11.15 05:02:28.770	ObjectManager candidate count: 3
+2019.11.15 05:02:28.770	can't find object manager
+2019.11.15 05:02:28.777	scan started [19.11.14.0]
+2019.11.15 05:02:28.862	header load time: 85 (2963/462152)
+2019.11.15 05:02:28.862	ObjectManager candidate count: 3
+2019.11.15 05:02:28.862	can't find object manager
+2019.11.15 05:02:28.868	scan started [19.11.14.0]
+2019.11.15 05:02:28.933	header load time: 65 (2967/462494)
+2019.11.15 05:02:28.933	ObjectManager candidate count: 3
+2019.11.15 05:02:28.933	can't find object manager
+2019.11.15 05:02:28.940	scan started [19.11.14.0]
+2019.11.15 05:02:29.001	header load time: 61 (3081/462785)
+2019.11.15 05:02:29.001	ObjectManager candidate count: 4
+2019.11.15 05:02:29.001	can't find object manager
+2019.11.15 05:02:29.007	scan started [19.11.14.0]
+2019.11.15 05:02:29.102	header load time: 94 (3321/463712)
+2019.11.15 05:02:29.102	ObjectManager candidate count: 4
+2019.11.15 05:02:29.102	can't find object manager
+2019.11.15 05:02:29.108	scan started [19.11.14.0]
+2019.11.15 05:02:29.202	header load time: 93 (3320/465138)
+2019.11.15 05:02:29.202	ObjectManager found, ingame flag: 1
+2019.11.15 05:02:29.202	LevelArea candidate count: 5
+2019.11.15 05:02:29.202	can't find levelarea
+2019.11.15 05:02:29.247	changed: GameStateAddress
+2019.11.15 05:02:29.247	changed: RealmAddress
+2019.11.15 05:02:29.247	scan finished in 45 ms
+2019.11.15 05:02:29.281	force daf scan due to invalid containers [-1, -1, -1, -1, -1, True]
+2019.11.15 05:02:29.288	scan started [19.11.14.0]
+2019.11.15 05:02:29.370	header load time: 81 (3317/465497)
+2019.11.15 05:02:29.370	ObjectManager found, ingame flag: 1
+2019.11.15 05:02:29.370	LevelArea candidate count: 5
+2019.11.15 05:02:29.370	can't find levelarea
+2019.11.15 05:02:29.405	scan finished in 35 ms
+2019.11.15 05:02:29.405	force daf scan due to invalid containers [-1, -1, -1, -1, -1, True]
+2019.11.15 05:02:29.411	scan started [19.11.14.0]
+2019.11.15 05:02:29.504	header load time: 93 (9254/503071)
+2019.11.15 05:02:29.504	ObjectManager found, ingame flag: 1
+2019.11.15 05:02:29.504	LevelArea candidate count: 6
+2019.11.15 05:02:29.504	can't find levelarea
+2019.11.15 05:02:29.543	scan finished in 38 ms
+2019.11.15 05:02:29.544	force daf scan due to invalid containers [-1, -1, -1, -1, -1, True]
+2019.11.15 05:02:29.550	scan started [19.11.14.0]
+2019.11.15 05:02:29.653	header load time: 102 (18443/473655)
+2019.11.15 05:02:29.653	ObjectManager found, ingame flag: 1
+2019.11.15 05:02:29.653	LevelArea candidate count: 6
+2019.11.15 05:02:29.653	can't find levelarea
+2019.11.15 05:02:29.654	can't find player data manager. candidate count: 1
+2019.11.15 05:02:29.660	scan started [19.11.14.0]
+2019.11.15 05:02:29.745	header load time: 84 (18449/480670)
+2019.11.15 05:02:29.745	ObjectManager found, ingame flag: 1
+2019.11.15 05:02:29.778	scan finished in 32 ms
+2019.11.15 05:02:33.742	force daf scan due to game jump without leaving to the menu
+2019.11.15 05:02:33.742	new run: Necromancer, New Tristram, Difficulty: t16
+2019.11.15 05:02:33.849	scan started [19.11.14.0]
+2019.11.15 05:02:33.986	header load time: 136 (19343/495142)
+2019.11.15 05:02:33.986	ObjectManager found, ingame flag: 1
+2019.11.15 05:02:34.024	scan finished in 38 ms
+2019.11.15 05:02:39.427	force daf scan due to invalid containers [-1, 532, 5, 1, 1065, True]
+2019.11.15 05:02:39.445	scan started [19.11.14.0]
+2019.11.15 05:02:39.562	header load time: 116 (19557/498202)
+2019.11.15 05:02:39.562	ObjectManager found, ingame flag: 1
+2019.11.15 05:02:39.599	scan finished in 37 ms
+2019.11.15 05:02:40.209	new area: New Tristram
+2019.11.15 05:02:40.418	new area: The Weeping Hollow
+2019.11.15 05:03:54.624	force daf scan due to invalid containers [-1, 550, 21, 4, 1101, True]
+2019.11.15 05:03:54.642	scan started [19.11.14.0]
+2019.11.15 05:03:54.748	header load time: 105 (20328/505588)
+2019.11.15 05:03:54.748	ObjectManager found, ingame flag: 1
+2019.11.15 05:03:54.789	scan finished in 41 ms
+2019.11.15 05:03:54.791	new area: The Weeping Hollow
+2019.11.15 05:03:55.162	new area: Den of the Fallen Level 1
+2019.11.15 05:03:55.959	force daf scan due to invalid containers [-1, 550, 23, 4, 1101, True]
+2019.11.15 05:03:55.977	scan started [19.11.14.0]
+2019.11.15 05:03:56.123	header load time: 145 (20380/505898)
+2019.11.15 05:03:56.123	ObjectManager found, ingame flag: 1
+2019.11.15 05:03:56.163	scan finished in 39 ms
+2019.11.15 05:03:56.165	new area: Den of the Fallen Level 1
+2019.11.15 05:03:56.670	new area: The Weeping Hollow
+2019.11.15 05:04:34.969	new area: The Weeping Hollow
+2019.11.15 05:04:35.613	new area: The Vault
+2019.11.15 05:06:37.482	new area: The Inner Sanctum
+2019.11.15 05:07:13.990	new area: New Tristram
+2019.11.15 05:07:47.213	force daf scan due to invalid containers [-1, 559, 18, 11, 1119, True]
+2019.11.15 05:07:47.231	scan started [19.11.14.0]
+2019.11.15 05:07:47.346	header load time: 114 (22286/513353)
+2019.11.15 05:07:47.346	ObjectManager found, ingame flag: 1
+2019.11.15 05:07:47.381	scan finished in 35 ms
+2019.11.15 05:07:48.268	new area: New Tristram
+2019.11.15 05:07:48.825	new area: Halls of Agony Level 3
+2019.11.15 05:09:14.230	new area: Chamber of Suffering
+2019.11.15 05:10:23.217	force daf scan due to invalid containers [-1, 566, 15, 13, 1133, True]
+2019.11.15 05:10:23.234	scan started [19.11.14.0]
+2019.11.15 05:10:23.331	header load time: 96 (22626/516556)
+2019.11.15 05:10:23.331	ObjectManager found, ingame flag: 1
+2019.11.15 05:10:23.366	scan finished in 34 ms
+2019.11.15 05:10:23.562	new area: Chamber of Suffering
+2019.11.15 05:10:23.800	new area: Ancient Waterway
+2019.11.15 05:10:27.887	new area: Ancient Waterway
+2019.11.15 05:10:28.156	new area: Western Channel Level 1
+2019.11.15 05:12:11.347	force daf scan due to invalid containers [-1, 566, 21, 16, 1133, True]
+2019.11.15 05:12:11.365	scan started [19.11.14.0]
+2019.11.15 05:12:11.460	header load time: 95 (23158/520335)
+2019.11.15 05:12:11.460	ObjectManager found, ingame flag: 1
+2019.11.15 05:12:11.501	scan finished in 40 ms
+2019.11.15 05:12:11.503	new area: Western Channel Level 1
+2019.11.15 05:12:12.367	new area: Western Channel Level 2
+2019.11.15 05:13:16.125	new area: Western Channel Level 2
+2019.11.15 05:13:16.647	new area: Desolate Sands
+2019.11.15 05:16:43.041	new area: Desolate Sands
+2019.11.15 05:16:43.168	new area: Hidden Camp
+2019.11.15 05:17:06.728	force daf scan due to invalid containers [-1, 566, 33, 30, 1133, True]
+2019.11.15 05:17:06.746	scan started [19.11.14.0]
+2019.11.15 05:17:06.853	header load time: 106 (23949/527288)
+2019.11.15 05:17:06.853	ObjectManager found, ingame flag: 1
+2019.11.15 05:17:06.895	scan finished in 42 ms
+2019.11.15 05:17:06.898	new area: Desolate Sands
+2019.11.15 05:19:51.222	new area: Desolate Sands
+2019.11.15 05:19:51.299	new area: Khasim Outpost
+2019.11.15 05:19:57.267	new area: Stinging Winds
+2019.11.15 05:20:30.285	new area: Khasim Outpost
+2019.11.15 05:20:40.781	new area: Stinging Winds
+2019.11.15 05:23:15.199	new area: Road to Alcarnus
+2019.11.15 05:23:16.687	new area: Stinging Winds
+2019.11.15 05:24:12.192	new area: Khasim Outpost
+2019.11.15 05:24:22.694	new area: Stinging Winds
+2019.11.15 05:25:18.534	new area: Black Canyon Mines
+2019.11.15 05:25:21.538	new area: Stinging Winds
+2019.11.15 05:26:18.521	new area: Khasim Outpost
+2019.11.15 05:26:27.187	new area: Khasim Outpost
+2019.11.15 05:26:27.522	new area: Command Post
+2019.11.15 05:26:29.055	new area: Khasim Outpost
+2019.11.15 05:26:33.519	new area: Stinging Winds
+2019.11.15 05:26:38.181	new area: Stinging Winds
+2019.11.15 05:26:38.269	new area: The Ruins Level 1
+2019.11.15 05:27:54.794	new area: The Ruins Level 1
+2019.11.15 05:27:56.018	new area: The Ruins Level 2
+2019.11.15 05:30:11.577	new area: The Ruins Level 2
+2019.11.15 05:30:12.097	new area: Hidden Camp
+2019.11.15 05:32:45.162	force daf scan due to invalid containers [-1, 584, -1, 51, 1179, True]
+2019.11.15 05:32:45.180	scan started [19.11.14.0]
+2019.11.15 05:32:45.351	header load time: 171 (55229/526300)
+2019.11.15 05:32:45.351	ObjectManager found, ingame flag: 1
+2019.11.15 05:32:45.386	scan finished in 35 ms
+2019.11.15 05:32:45.387	force daf scan due to invalid containers [-1, 584, -1, 51, 1179, True]
+2019.11.15 05:32:45.393	scan started [19.11.14.0]
+2019.11.15 05:32:45.576	header load time: 183 (50843/492406)
+2019.11.15 05:32:45.576	ObjectManager found, ingame flag: 1
+2019.11.15 05:32:45.608	scan finished in 32 ms
+2019.11.15 05:32:45.609	force daf scan due to invalid containers [-1, 584, -1, 51, 1179, True]
+2019.11.15 05:32:45.615	scan started [19.11.14.0]
+2019.11.15 05:32:45.746	header load time: 131 (50841/491617)
+2019.11.15 05:32:45.747	ObjectManager found, ingame flag: 1
+2019.11.15 05:32:45.778	scan finished in 31 ms
+2019.11.15 05:32:45.779	force daf scan due to invalid containers [-1, 584, -1, 51, 1179, True]
+2019.11.15 05:32:45.785	scan started [19.11.14.0]
+2019.11.15 05:32:45.935	header load time: 150 (50841/491617)
+2019.11.15 05:32:45.935	ObjectManager found, ingame flag: 1
+2019.11.15 05:32:45.969	scan finished in 33 ms
+2019.11.15 05:32:45.970	force daf scan due to invalid containers [-1, 584, -1, 51, 1179, True]
+2019.11.15 05:32:45.976	scan started [19.11.14.0]
+2019.11.15 05:32:46.119	header load time: 142 (50841/491617)
+2019.11.15 05:32:46.119	ObjectManager found, ingame flag: 1
+2019.11.15 05:32:46.154	scan finished in 34 ms
+2019.11.15 05:32:46.154	force daf scan due to invalid containers [-1, 584, -1, 51, 1179, True]
+2019.11.15 05:32:46.161	scan started [19.11.14.0]
+2019.11.15 05:32:46.308	header load time: 147 (50841/491617)
+2019.11.15 05:32:46.308	ObjectManager found, ingame flag: 1
+2019.11.15 05:32:46.343	scan finished in 34 ms
+2019.11.15 05:32:46.344	force daf scan due to invalid containers [-1, 584, -1, 51, 1179, True]
+2019.11.15 05:32:46.350	scan started [19.11.14.0]
+2019.11.15 05:32:46.484	header load time: 134 (50841/491617)
+2019.11.15 05:32:46.484	ObjectManager found, ingame flag: 1
+2019.11.15 05:32:46.516	scan finished in 31 ms
+2019.11.15 05:32:46.517	force daf scan due to invalid containers [-1, 584, -1, 51, 1179, True]
+2019.11.15 05:32:46.523	scan started [19.11.14.0]
+2019.11.15 05:32:46.657	header load time: 134 (32499/487860)
+2019.11.15 05:32:46.658	ObjectManager candidate count: 3
+2019.11.15 05:32:46.658	can't find object manager
+2019.11.15 05:32:46.666	scan started [19.11.14.0]
+2019.11.15 05:32:46.784	header load time: 117 (32334/462560)
+2019.11.15 05:32:46.784	ObjectManager candidate count: 3
+2019.11.15 05:32:46.784	can't find object manager
+2019.11.15 05:32:46.790	scan started [19.11.14.0]
+2019.11.15 05:32:46.917	header load time: 126 (32270/462711)
+2019.11.15 05:32:46.917	ObjectManager candidate count: 3
+2019.11.15 05:32:46.917	can't find object manager
+2019.11.15 05:32:46.923	scan started [19.11.14.0]
+2019.11.15 05:32:47.035	header load time: 111 (32274/463419)
+2019.11.15 05:32:47.036	ObjectManager candidate count: 3
+2019.11.15 05:32:47.036	can't find object manager
+2019.11.15 05:32:47.042	scan started [19.11.14.0]
+2019.11.15 05:32:47.170	header load time: 127 (32510/464186)
+2019.11.15 05:32:47.170	ObjectManager candidate count: 4
+2019.11.15 05:32:47.170	can't find object manager
+2019.11.15 05:32:47.176	scan started [19.11.14.0]
+2019.11.15 05:32:47.304	header load time: 127 (32636/467476)
+2019.11.15 05:32:47.304	ObjectManager found, ingame flag: 0
+2019.11.15 05:32:47.338	changed: GameStateAddress
+2019.11.15 05:32:47.338	changed: RealmAddress
+2019.11.15 05:32:47.338	scan finished in 34 ms
+2019.11.15 05:32:47.376	left the game
+2019.11.15 05:36:25.920	block sanity check triggered [RealmAddress]
+2019.11.15 05:36:25.920	scan started [19.11.14.0]
+2019.11.15 05:36:26.012	header load time: 91 (5659/468734)
+2019.11.15 05:36:26.012	ObjectManager candidate count: 3
+2019.11.15 05:36:26.012	can't find object manager
+2019.11.15 05:36:26.019	scan started [19.11.14.0]
+2019.11.15 05:36:26.107	header load time: 87 (5609/468680)
+2019.11.15 05:36:26.107	ObjectManager candidate count: 3
+2019.11.15 05:36:26.107	can't find object manager
+2019.11.15 05:36:26.113	scan started [19.11.14.0]
+2019.11.15 05:36:26.232	header load time: 119 (5618/468648)
+2019.11.15 05:36:26.232	ObjectManager candidate count: 3
+2019.11.15 05:36:26.232	can't find object manager
+2019.11.15 05:36:26.239	scan started [19.11.14.0]
+2019.11.15 05:36:26.317	header load time: 77 (5623/469066)
+2019.11.15 05:36:26.317	ObjectManager candidate count: 3
+2019.11.15 05:36:26.317	can't find object manager
+2019.11.15 05:36:26.323	scan started [19.11.14.0]
+2019.11.15 05:36:26.402	header load time: 79 (5758/468914)
+2019.11.15 05:36:26.402	ObjectManager candidate count: 4
+2019.11.15 05:36:26.402	can't find object manager
+2019.11.15 05:36:26.409	scan started [19.11.14.0]
+2019.11.15 05:36:26.505	header load time: 96 (5913/470656)
+2019.11.15 05:36:26.505	ObjectManager candidate count: 4
+2019.11.15 05:36:26.505	can't find object manager
+2019.11.15 05:36:26.512	scan started [19.11.14.0]
+2019.11.15 05:36:26.591	header load time: 79 (6019/472064)
+2019.11.15 05:36:26.592	ObjectManager candidate count: 4
+2019.11.15 05:36:26.592	can't find object manager
+2019.11.15 05:36:26.598	scan started [19.11.14.0]
+2019.11.15 05:36:26.674	header load time: 76 (6018/472734)
+2019.11.15 05:36:26.674	ObjectManager found, ingame flag: 1
+2019.11.15 05:36:26.674	LevelArea candidate count: 5
+2019.11.15 05:36:26.674	can't find levelarea
+2019.11.15 05:36:26.713	changed: GameStateAddress
+2019.11.15 05:36:26.713	changed: RealmAddress
+2019.11.15 05:36:26.713	scan finished in 38 ms
+2019.11.15 05:36:26.755	force daf scan due to invalid containers [-1, -1, -1, -1, -1, True]
+2019.11.15 05:36:26.761	scan started [19.11.14.0]
+2019.11.15 05:36:26.861	header load time: 100 (6025/473127)
+2019.11.15 05:36:26.861	ObjectManager found, ingame flag: 1
+2019.11.15 05:36:26.861	LevelArea candidate count: 6
+2019.11.15 05:36:26.861	can't find levelarea
+2019.11.15 05:36:26.894	scan finished in 33 ms
+2019.11.15 05:36:26.894	force daf scan due to invalid containers [-1, -1, -1, -1, -1, True]
+2019.11.15 05:36:26.901	scan started [19.11.14.0]
+2019.11.15 05:36:26.991	header load time: 90 (10179/511901)
+2019.11.15 05:36:26.991	ObjectManager found, ingame flag: 1
+2019.11.15 05:36:26.991	LevelArea candidate count: 6
+2019.11.15 05:36:26.991	can't find levelarea
+2019.11.15 05:36:27.027	scan finished in 35 ms
+2019.11.15 05:36:27.028	force daf scan due to invalid containers [-1, -1, -1, -1, -1, True]
+2019.11.15 05:36:27.034	scan started [19.11.14.0]
+2019.11.15 05:36:27.119	header load time: 85 (15811/495107)
+2019.11.15 05:36:27.119	ObjectManager found, ingame flag: 1
+2019.11.15 05:36:27.120	LevelArea candidate count: 5
+2019.11.15 05:36:27.120	can't find levelarea
+2019.11.15 05:36:27.154	scan finished in 35 ms
+2019.11.15 05:36:27.155	force daf scan due to invalid containers [-1, -1, -1, -1, -1, True]
+2019.11.15 05:36:27.162	scan started [19.11.14.0]
+2019.11.15 05:36:27.274	header load time: 111 (19562/489698)
+2019.11.15 05:36:27.274	ObjectManager found, ingame flag: 1
+2019.11.15 05:36:27.313	scan finished in 39 ms
+2019.11.15 05:36:30.637	force daf scan due to game jump without leaving to the menu
+2019.11.15 05:36:30.637	new run: Necromancer, New Tristram, Difficulty: t16
+2019.11.15 05:36:30.760	scan started [19.11.14.0]
+2019.11.15 05:36:30.871	header load time: 110 (20329/501285)
+2019.11.15 05:36:30.871	ObjectManager found, ingame flag: 1
+2019.11.15 05:36:30.912	scan finished in 40 ms
+2019.11.15 05:42:01.265	new area: New Tristram
+2019.11.15 05:42:01.503	new area: Rift Level 01
+2019.11.15 05:44:05.123	new area: Rift Level 01
+2019.11.15 05:44:05.719	new area: Rift Level 02
+2019.11.15 05:46:14.522	new area: New Tristram
+2019.11.15 05:46:57.014	force daf scan due to invalid containers [-1, 522, 11, 2, 1045, True]
+2019.11.15 05:46:57.026	scan started [19.11.14.0]
+2019.11.15 05:46:57.138	header load time: 111 (21870/522947)
+2019.11.15 05:46:57.138	ObjectManager found, ingame flag: 1
+2019.11.15 05:46:57.175	scan finished in 37 ms
+2019.11.15 05:46:57.833	new area: New Tristram
+2019.11.15 05:46:57.919	new area: Rift Level 01
+2019.11.15 05:47:50.157	new area: Rift Level 01
+2019.11.15 05:47:50.692	new area: Rift Level 02
+2019.11.15 05:48:39.047	new area: Rift Level 02
+2019.11.15 05:48:40.157	new area: Rift Level 03
+2019.11.15 05:49:35.828	force daf scan due to invalid containers [-1, 522, 21, 4, 1045, True]
+2019.11.15 05:49:35.846	scan started [19.11.14.0]
+2019.11.15 05:49:35.954	header load time: 108 (22894/530018)
+2019.11.15 05:49:35.954	ObjectManager found, ingame flag: 1
+2019.11.15 05:49:35.994	scan finished in 39 ms
+2019.11.15 05:49:36.022	new area: Rift Level 03
+2019.11.15 05:49:37.142	new area: Rift Level 04
+2019.11.15 05:50:32.884	new area: New Tristram
+2019.11.15 05:54:21.124	force daf scan due to game jump without leaving to the menu
+2019.11.15 05:54:21.139	scan started [19.11.14.0]
+2019.11.15 05:54:21.257	header load time: 118 (28164/533223)
+2019.11.15 05:54:21.257	ObjectManager found, ingame flag: 1
+2019.11.15 05:54:21.293	can't find bnet client
+2019.11.15 05:54:21.299	scan started [19.11.14.0]
+2019.11.15 05:54:21.437	header load time: 137 (23465/501495)
+2019.11.15 05:54:21.437	ObjectManager found, ingame flag: 1
+2019.11.15 05:54:21.438	LevelArea candidate count: 6
+2019.11.15 05:54:21.438	can't find levelarea
+2019.11.15 05:54:21.478	can't find bnet client
+2019.11.15 05:54:21.484	scan started [19.11.14.0]
+2019.11.15 05:54:21.581	header load time: 97 (7325/474744)
+2019.11.15 05:54:21.582	ObjectManager candidate count: 3
+2019.11.15 05:54:21.582	can't find object manager
+2019.11.15 05:54:21.588	scan started [19.11.14.0]
+2019.11.15 05:54:21.676	header load time: 88 (7217/474699)
+2019.11.15 05:54:21.676	ObjectManager candidate count: 3
+2019.11.15 05:54:21.677	can't find object manager
+2019.11.15 05:54:21.682	scan started [19.11.14.0]
+2019.11.15 05:54:21.835	header load time: 152 (6547/469387)
+2019.11.15 05:54:21.835	ObjectManager candidate count: 3
+2019.11.15 05:54:21.835	can't find object manager
+2019.11.15 06:15:14.662	new context [19.11.14.0] [Microsoft Windows NT 6.2.9200.0 / Windows 8]
+2019.11.15 06:15:15.114	scan started [19.11.14.0]
+2019.11.15 06:15:15.248	header load time: 126 (23229/513313)
+2019.11.15 06:15:15.255	ObjectManager found, ingame flag: 1
+2019.11.15 06:15:15.299	CK#1 sanity check triggered
+2019.11.15 06:15:15.313	deduction - world max index: 0
+2019.11.15 06:15:15.313	deduction - scene max index: 15
+2019.11.15 06:15:15.323	deduction - me: 0, 2004680829, 332339 (valid), 454021
+2019.11.15 06:15:15.325	deduction - actor max index: 163, valid: True
+2019.11.15 06:15:15.325	deduction - acd max index: 555, valid: True
+2019.11.15 06:15:15.336	deduction - highest actor dict: *105
+2019.11.15 06:15:15.336	deduction - CK#1: 2558845347
+2019.11.15 06:15:15.336	deduction - me pos: 370.00:504.07:24.05
+2019.11.15 06:15:15.336	deduction - CK#2: 3097230722
+2019.11.15 06:15:15.336	deduction - A scene#1(33337): no overlap, 240-480, 0-240, CK3: 1446026398, CK4: 3527503193
+2019.11.15 06:15:15.336	deduction - A scene#8(33349): no overlap, 480-720, 480-720, CK3: 1446091935, CK4: 3527503193
+2019.11.15 06:15:15.336	deduction - A scene#9(414832): no overlap, 240-480, 240-480, CK3: 1446616215, CK4: 3527503193
+2019.11.15 06:15:15.340	deduction - A scene#12(414798): 94, 240 - 480, 480 - 720, CK3: 1446550678, CK4: 3527503193
+2019.11.15 06:15:15.340	deduction - A scene#14(33347): no overlap, 0-240, 480-720, CK3: 1446747285, CK4: 3527503193
+2019.11.15 06:15:15.340	deduction - A scene#15(1904): no overlap, 0-240, 240-480, CK3: 1446812826, CK4: 3527503193
+2019.11.15 06:15:15.340	deduction - CK#3: 1446550678
+2019.11.15 06:15:15.340	deduction - CK#4: 3527503193
+2019.11.15 06:15:15.340	scan finished in 92 ms
+2019.11.15 06:15:15.608	new run: Necromancer, New Tristram, Difficulty: t16
+2019.11.15 06:16:46.986	force daf scan due to invalid containers [-1, 469, 15, 4, 939, True]
+2019.11.15 06:16:46.998	scan started [19.11.14.0]
+2019.11.15 06:16:47.125	header load time: 126 (23272/513852)
+2019.11.15 06:16:47.125	ObjectManager found, ingame flag: 1
+2019.11.15 06:16:47.153	scan finished in 27 ms
+2019.11.15 06:16:47.828	new area: New Tristram
+2019.11.15 06:16:48.360	new area: Rift Level 01
+2019.11.15 06:18:11.403	new area: Rift Level 01
+2019.11.15 06:18:12.522	new area: Rift Level 02
+2019.11.15 06:18:46.855	new area: Rift Level 02
+2019.11.15 06:18:47.058	new area: Rift Level 03
+2019.11.15 06:20:12.741	force daf scan due to invalid containers [-1, 518, 18, 4, 1023, True]
+2019.11.15 06:20:12.759	scan started [19.11.14.0]
+2019.11.15 06:20:12.867	header load time: 108 (23770/518248)
+2019.11.15 06:20:12.867	ObjectManager found, ingame flag: 1
+2019.11.15 06:20:12.895	scan finished in 28 ms
+2019.11.15 06:20:12.898	new area: Rift Level 03
+2019.11.15 06:20:13.272	new area: New Tristram
+2019.11.15 06:20:25.445	force daf scan due to invalid containers [-1, 518, 20, 4, 1023, True]
+2019.11.15 06:20:25.463	scan started [19.11.14.0]
+2019.11.15 06:20:25.576	header load time: 113 (23653/517449)
+2019.11.15 06:20:25.576	ObjectManager found, ingame flag: 1
+2019.11.15 06:20:25.606	scan finished in 30 ms
+2019.11.15 06:20:25.704	new area: New Tristram
+2019.11.15 06:20:25.788	new area: Rift Level 01
+2019.11.15 06:21:31.318	new area: Rift Level 02
+2019.11.15 06:22:51.027	new area: New Tristram
+2019.11.15 06:23:09.303	force daf scan due to invalid containers [-1, 562, 20, 4, 1125, True]
+2019.11.15 06:23:09.321	scan started [19.11.14.0]
+2019.11.15 06:23:09.441	header load time: 119 (23762/518954)
+2019.11.15 06:23:09.441	ObjectManager found, ingame flag: 1
+2019.11.15 06:23:09.469	scan finished in 27 ms
+2019.11.15 06:23:09.479	new area: New Tristram
+2019.11.15 06:23:10.476	new area: Rift Level 01
+2019.11.15 06:24:12.176	new area: Rift Level 01
+2019.11.15 06:24:13.519	new area: Rift Level 02
+2019.11.15 06:25:06.042	new area: Rift Level 03
+2019.11.15 06:25:38.808	new area: Rift Level 03
+2019.11.15 06:25:39.066	new area: Rift Level 04
+2019.11.15 06:26:20.262	force daf scan due to invalid containers [-1, 562, 20, 5, 1125, True]
+2019.11.15 06:26:20.280	scan started [19.11.14.0]
+2019.11.15 06:26:20.401	header load time: 120 (24929/521629)
+2019.11.15 06:26:20.401	ObjectManager found, ingame flag: 1
+2019.11.15 06:26:20.429	scan finished in 28 ms
+2019.11.15 06:26:20.432	new area: Rift Level 04
+2019.11.15 06:26:21.035	new area: Rift Level 05
+2019.11.15 06:26:22.502	new area: Rift Level 04
+2019.11.15 06:26:25.502	new area: Rift Level 05
+2019.11.15 06:26:26.997	new area: Rift Level 04
+2019.11.15 06:26:33.045	force daf scan due to invalid containers [-1, 562, 20, 5, 1125, True]
+2019.11.15 06:26:33.063	scan started [19.11.14.0]
+2019.11.15 06:26:33.187	header load time: 124 (24975/521919)
+2019.11.15 06:26:33.187	ObjectManager found, ingame flag: 1
+2019.11.15 06:26:33.217	scan finished in 29 ms
+2019.11.15 06:26:33.219	new area: Rift Level 04
+2019.11.15 06:26:35.999	new area: Rift Level 05
+2019.11.15 06:26:36.280	force daf scan due to invalid containers [-1, 562, 15, 5, 1125, True]
+2019.11.15 06:26:36.298	scan started [19.11.14.0]
+2019.11.15 06:26:36.464	header load time: 165 (24889/521964)
+2019.11.15 06:26:36.464	ObjectManager found, ingame flag: 1
+2019.11.15 06:26:36.492	scan finished in 28 ms
+2019.11.15 06:26:36.494	new area: Rift Level 05
+2019.11.15 06:26:40.484	new area: Rift Level 04
+2019.11.15 06:26:56.765	force daf scan due to invalid containers [-1, 562, 20, 5, 1125, True]
+2019.11.15 06:26:56.783	scan started [19.11.14.0]
+2019.11.15 06:26:56.914	header load time: 130 (25181/522445)
+2019.11.15 06:26:56.914	ObjectManager found, ingame flag: 1
+2019.11.15 06:26:56.943	scan finished in 29 ms
+2019.11.15 06:26:56.945	new area: Rift Level 04
+2019.11.15 06:26:57.306	new area: New Tristram
+2019.11.15 06:27:02.536	force daf scan due to invalid containers [-1, 562, 17, 5, 1125, True]
+2019.11.15 06:27:02.554	scan started [19.11.14.0]
+2019.11.15 06:27:02.675	header load time: 121 (24894/522131)
+2019.11.15 06:27:02.675	ObjectManager found, ingame flag: 1
+2019.11.15 06:27:02.705	scan finished in 29 ms
+2019.11.15 06:27:02.706	new area: New Tristram
+2019.11.15 06:27:03.292	new area: Rift Level 04
+2019.11.15 06:27:12.599	new area: New Tristram
+2019.11.15 06:27:30.846	force daf scan due to invalid containers [-1, 562, 15, 4, 1125, True]
+2019.11.15 06:27:30.864	scan started [19.11.14.0]
+2019.11.15 06:27:31.030	header load time: 166 (24917/521992)
+2019.11.15 06:27:31.030	ObjectManager found, ingame flag: 1
+2019.11.15 06:27:31.058	scan finished in 28 ms
+2019.11.15 06:27:31.061	new area: New Tristram
+2019.11.15 06:27:32.113	new area: Rift Level 01
+2019.11.15 06:28:45.908	force daf scan due to invalid containers [-1, 562, 19, 4, 1125, True]
+2019.11.15 06:28:45.926	scan started [19.11.14.0]
+2019.11.15 06:28:46.074	header load time: 147 (26578/522934)
+2019.11.15 06:28:46.074	ObjectManager found, ingame flag: 1
+2019.11.15 06:28:46.102	scan finished in 27 ms
+2019.11.15 06:28:46.104	new area: Rift Level 01
+2019.11.15 06:28:47.144	new area: Rift Level 02
+2019.11.15 06:29:33.652	new area: New Tristram
+2019.11.15 06:30:45.479	force daf scan due to invalid containers [-1, 486, 19, 4, 973, True]
+2019.11.15 06:30:45.497	scan started [19.11.14.0]
+2019.11.15 06:30:45.621	header load time: 124 (27602/523111)
+2019.11.15 06:30:45.621	ObjectManager found, ingame flag: 1
+2019.11.15 06:30:45.651	scan finished in 29 ms
+2019.11.15 06:30:45.653	new area: New Tristram
+2019.11.15 06:30:45.758	new area: Rift Level 02
+2019.11.15 06:31:04.977	new area: New Tristram
+2019.11.15 06:35:38.716	force daf scan due to invalid containers [-1, 498, 19, 4, 1052, True]
+2019.11.15 06:35:38.734	scan started [19.11.14.0]
+2019.11.15 06:35:38.959	header load time: 225 (51214/523096)
+2019.11.15 06:35:38.959	ObjectManager found, ingame flag: 1
+2019.11.15 06:35:38.984	scan finished in 25 ms
+2019.11.15 06:35:38.986	new area: New Tristram
+2019.11.15 06:35:39.077	new area: Rift Level 01
+2019.11.15 06:37:04.113	new area: Rift Level 02
+2019.11.15 06:37:20.570	new area: Rift Level 02
+2019.11.15 06:37:20.672	new area: Rift Level 03
+2019.11.15 06:38:01.943	new area: New Tristram
+2019.11.15 06:38:51.495	force daf scan due to invalid containers [-1, 586, 16, 4, 1173, True]
+2019.11.15 06:38:51.513	scan started [19.11.14.0]
+2019.11.15 06:38:51.677	header load time: 163 (52598/523643)
+2019.11.15 06:38:51.677	ObjectManager found, ingame flag: 1
+2019.11.15 06:38:51.704	scan finished in 27 ms
+2019.11.15 06:38:51.707	new area: Rift Level 01
+2019.11.15 06:39:55.960	new area: Rift Level 02
+2019.11.15 06:41:24.571	new area: New Tristram
+2019.11.15 06:41:38.060	force daf scan due to invalid containers [-1, 586, 24, 4, 1173, True]
+2019.11.15 06:41:38.072	scan started [19.11.14.0]
+2019.11.15 06:41:38.228	header load time: 156 (54189/523831)
+2019.11.15 06:41:38.228	ObjectManager found, ingame flag: 1
+2019.11.15 06:41:38.258	scan finished in 29 ms
+2019.11.15 06:41:38.318	new area: New Tristram
+2019.11.15 06:41:38.396	new area: Rift Level 01
+2019.11.15 06:43:37.010	new area: Rift Level 01
+2019.11.15 06:43:38.140	new area: Rift Level 02
+2019.11.15 06:44:08.851	force daf scan due to invalid containers [-1, 596, 22, 4, 1193, True]
+2019.11.15 06:44:08.869	scan started [19.11.14.0]
+2019.11.15 06:44:09.038	header load time: 169 (58729/524061)
+2019.11.15 06:44:09.038	ObjectManager found, ingame flag: 1
+2019.11.15 06:44:09.064	scan finished in 26 ms
+2019.11.15 06:44:09.067	new area: Rift Level 02
+2019.11.15 06:44:09.437	new area: New Tristram
+2019.11.15 07:01:42.245	force daf scan due to game jump without leaving to the menu
+2019.11.15 07:01:42.260	scan started [19.11.14.0]
+2019.11.15 07:01:42.476	header load time: 216 (73912/524068)
+2019.11.15 07:01:42.476	ObjectManager found, ingame flag: 1
+2019.11.15 07:01:42.505	can't find bnet client
+2019.11.15 07:01:42.511	scan started [19.11.14.0]
+2019.11.15 07:01:42.702	header load time: 190 (72514/504372)
+2019.11.15 07:01:42.702	ObjectManager found, ingame flag: 1
+2019.11.15 07:01:42.727	can't find bnet client
+2019.11.15 07:01:42.733	scan started [19.11.14.0]
+2019.11.15 07:01:42.956	header load time: 223 (71146/497511)
+2019.11.15 07:01:42.956	ObjectManager found, ingame flag: 1
+2019.11.15 07:01:42.982	can't find bnet client
+2019.11.15 07:01:42.988	scan started [19.11.14.0]
+2019.11.15 07:01:43.190	header load time: 201 (70403/492071)
+2019.11.15 07:01:43.190	ObjectManager found, ingame flag: 1
+2019.11.15 07:01:43.220	can't find bnet client
+2019.11.15 07:01:43.227	scan started [19.11.14.0]
+2019.11.15 07:01:43.410	header load time: 183 (69300/488552)
+2019.11.15 07:01:43.410	ObjectManager found, ingame flag: 1
+2019.11.15 07:01:43.438	can't find bnet client
+2019.11.15 07:01:43.445	scan started [19.11.14.0]
+2019.11.15 07:01:43.681	header load time: 236 (51013/486022)
+2019.11.15 07:01:43.683	ObjectManager candidate count: 3
+2019.11.15 07:01:43.683	can't find object manager
+2019.11.15 07:01:43.691	scan started [19.11.14.0]
+2019.11.15 07:01:43.839	header load time: 147 (41320/457708)
+2019.11.15 07:01:43.840	ObjectManager candidate count: 3
+2019.11.15 07:01:43.840	can't find object manager
+2019.11.15 07:01:43.845	scan started [19.11.14.0]
+2019.11.15 07:01:44.027	header load time: 181 (40607/454163)
+2019.11.15 07:01:44.028	ObjectManager candidate count: 3
+2019.11.15 07:01:44.028	can't find object manager
+2019.11.15 17:49:32.528	new context [19.11.14.0] [Microsoft Windows NT 6.2.9200.0 / Windows 8]
+2019.11.15 17:49:33.874	scan started [19.11.14.0]
+2019.11.15 17:49:34.065	header load time: 184 (38969/550132)
+2019.11.15 17:49:34.073	ObjectManager found, ingame flag: 1
+2019.11.15 17:49:34.110	CK#1 sanity check triggered
+2019.11.15 17:49:34.126	deduction - world max index: 10
+2019.11.15 17:49:34.126	deduction - scene max index: 12
+2019.11.15 17:49:34.140	deduction - me: 2, 1997668370, 332339 (valid), 454021
+2019.11.15 17:49:34.141	deduction - actor max index: 247, valid: True
+2019.11.15 17:49:34.141	deduction - acd max index: 625, valid: True
+2019.11.15 17:49:34.154	deduction - highest actor dict: *169,*3
+2019.11.15 17:49:34.154	deduction - CK#1: 1802625443
+2019.11.15 17:49:34.154	deduction - me pos: 366.49:523.56:24.05
+2019.11.15 17:49:34.154	deduction - CK#2: 1265565058
+2019.11.15 17:49:34.158	deduction - A scene#0(414798): 102, 240 - 480, 480 - 720, CK3: 2781715606, CK4: 565472601
+2019.11.15 17:49:34.158	deduction - A scene#1(414832): no overlap, 240-480, 240-480, CK3: 2781518985, CK4: 565472601
+2019.11.15 17:49:34.158	deduction - A scene#8(33347): no overlap, 0-240, 480-720, CK3: 2781387915, CK4: 565472601
+2019.11.15 17:49:34.158	deduction - A scene#9(1904): no overlap, 0-240, 240-480, CK3: 2781453450, CK4: 565472601
+2019.11.15 17:49:34.158	deduction - A scene#11(33337): no overlap, 240-480, 0-240, CK3: 2780142734, CK4: 565472601
+2019.11.15 17:49:34.158	deduction - A scene#12(33349): no overlap, 480-720, 480-720, CK3: 2779946113, CK4: 565472601
+2019.11.15 17:49:34.158	deduction - CK#3: 2781715606
+2019.11.15 17:49:34.158	deduction - CK#4: 565472601
+2019.11.15 17:49:34.158	scan finished in 92 ms
+2019.11.15 17:49:34.445	new run: Necromancer, New Tristram, Difficulty: t16
+2019.11.15 17:50:12.788	new area: New Tristram
+2019.11.15 18:00:24.330	force daf scan due to game jump without leaving to the menu
+2019.11.15 18:00:24.344	scan started [19.11.14.0]
+2019.11.15 18:00:24.500	header load time: 155 (45116/549828)
+2019.11.15 18:00:24.500	ObjectManager found, ingame flag: 1
+2019.11.15 18:00:24.523	scan finished in 22 ms
+2019.11.15 18:00:24.524	force daf scan due to invalid containers [-1, 625, -1, 10, 1251, True]
+2019.11.15 18:00:24.530	scan started [19.11.14.0]
+2019.11.15 18:00:24.670	header load time: 140 (35718/520804)
+2019.11.15 18:00:24.670	ObjectManager found, ingame flag: 1
+2019.11.15 18:00:24.672	LevelArea candidate count: 3
+2019.11.15 18:00:24.672	can't find levelarea
+2019.11.15 18:00:24.673	can't find acd manager
+2019.11.15 18:00:24.679	scan started [19.11.14.0]
+2019.11.15 18:00:24.825	header load time: 145 (25113/492418)
+2019.11.15 18:00:24.825	ObjectManager candidate count: 3
+2019.11.15 18:00:24.825	can't find object manager
+2019.11.15 18:00:24.831	scan started [19.11.14.0]
+2019.11.15 18:00:24.962	header load time: 130 (25051/492343)
+2019.11.15 18:00:24.962	ObjectManager candidate count: 3
+2019.11.15 18:00:24.962	can't find object manager
+2019.11.15 18:00:24.968	scan started [19.11.14.0]
+2019.11.15 18:00:25.081	header load time: 112 (25056/492796)
+2019.11.15 18:00:25.082	ObjectManager candidate count: 3
+2019.11.15 18:00:25.082	can't find object manager
+2019.11.15 18:00:25.088	scan started [19.11.14.0]
+2019.11.15 18:00:25.229	header load time: 141 (25312/493125)
+2019.11.15 18:00:25.230	ObjectManager candidate count: 4
+2019.11.15 18:00:25.230	can't find object manager
+2019.11.15 18:00:25.236	scan started [19.11.14.0]
+2019.11.15 18:00:25.363	header load time: 126 (25452/495786)
+2019.11.15 18:00:25.363	ObjectManager candidate count: 4
+2019.11.15 18:00:25.363	can't find object manager
+2019.11.15 18:00:25.369	scan started [19.11.14.0]
+2019.11.15 18:00:25.496	header load time: 126 (25448/496243)
+2019.11.15 18:00:25.496	ObjectManager found, ingame flag: 1
+2019.11.15 18:00:25.497	LevelArea candidate count: 7
+2019.11.15 18:00:25.497	can't find levelarea
+2019.11.15 18:00:25.520	changed: GameStateAddress
+2019.11.15 18:00:25.521	changed: RealmAddress
+2019.11.15 18:00:25.521	scan finished in 24 ms
+2019.11.15 18:00:25.563	force daf scan due to invalid containers [-1, -1, -1, -1, -1, True]
+2019.11.15 18:00:25.570	scan started [19.11.14.0]
+2019.11.15 18:00:25.694	header load time: 123 (29028/535341)
+2019.11.15 18:00:25.694	ObjectManager found, ingame flag: 1
+2019.11.15 18:00:25.694	LevelArea candidate count: 8
+2019.11.15 18:00:25.694	can't find levelarea
+2019.11.15 18:00:25.715	scan finished in 20 ms
+2019.11.15 18:00:25.715	force daf scan due to invalid containers [-1, -1, -1, -1, -1, True]
+2019.11.15 18:00:25.721	scan started [19.11.14.0]
+2019.11.15 18:00:25.845	header load time: 124 (30741/519723)
+2019.11.15 18:00:25.845	ObjectManager found, ingame flag: 1
+2019.11.15 18:00:25.846	LevelArea candidate count: 8
+2019.11.15 18:00:25.846	can't find levelarea
+2019.11.15 18:00:25.867	scan finished in 21 ms
+2019.11.15 18:00:25.868	force daf scan due to invalid containers [-1, -1, -1, -1, -1, True]
+2019.11.15 18:00:25.874	scan started [19.11.14.0]
+2019.11.15 18:00:25.997	header load time: 122 (35726/513482)
+2019.11.15 18:00:25.997	ObjectManager found, ingame flag: 1
+2019.11.15 18:00:25.997	LevelArea candidate count: 8
+2019.11.15 18:00:25.997	can't find levelarea
+2019.11.15 18:00:26.021	scan finished in 24 ms
+2019.11.15 18:00:29.210	force daf scan due to missing LevelAreaAddress
+2019.11.15 18:00:29.210	new area: Hidden Camp
+2019.11.15 18:00:29.391	scan started [19.11.14.0]
+2019.11.15 18:00:29.555	header load time: 163 (36483/527563)
+2019.11.15 18:00:29.555	ObjectManager found, ingame flag: 1
+2019.11.15 18:00:29.582	scan finished in 26 ms
+2019.11.15 18:03:57.321	force daf scan due to invalid containers [-1, 518, 6, 1, 1037, True]
+2019.11.15 18:03:57.338	scan started [19.11.14.0]
+2019.11.15 18:03:57.478	header load time: 140 (36247/534135)
+2019.11.15 18:03:57.478	ObjectManager found, ingame flag: 1
+2019.11.15 18:03:57.499	scan finished in 21 ms
+2019.11.15 18:03:58.133	new area: Hidden Camp
+2019.11.15 18:03:58.330	new area: Rift Level 01
+2019.11.15 18:05:47.629	new area: Rift Level 01
+2019.11.15 18:05:47.906	new area: Rift Level 02
+2019.11.15 18:07:28.543	new area: Hidden Camp
+2019.11.15 18:08:28.237	force daf scan due to invalid containers [-1, 633, 15, 2, 1267, True]
+2019.11.15 18:08:28.255	scan started [19.11.14.0]
+2019.11.15 18:08:28.394	header load time: 139 (38176/554698)
+2019.11.15 18:08:28.394	ObjectManager found, ingame flag: 1
+2019.11.15 18:08:28.417	scan finished in 22 ms
+2019.11.15 18:08:28.978	new area: Hidden Camp
+2019.11.15 18:08:29.462	new area: Rift Level 01
+2019.11.15 18:11:14.278	new area: Rift Level 01
+2019.11.15 18:11:15.137	new area: Rift Level 02
+2019.11.15 18:12:34.541	new area: Rift Level 02
+2019.11.15 18:12:34.857	new area: Rift Level 03
+2019.11.15 18:13:39.454	force daf scan due to invalid containers [-1, 633, 24, 3, 1267, True]
+2019.11.15 18:13:39.472	scan started [19.11.14.0]
+2019.11.15 18:13:39.636	header load time: 164 (43872/556691)
+2019.11.15 18:13:39.636	ObjectManager found, ingame flag: 1
+2019.11.15 18:13:39.661	scan finished in 24 ms
+2019.11.15 18:13:39.663	new area: Rift Level 03
+2019.11.15 18:13:40.619	new area: Rift Level 02
+2019.11.15 18:13:48.382	new area: Hidden Camp
+2019.11.15 18:13:53.165	force daf scan due to invalid containers [-1, 674, 23, 3, 1349, True]
+2019.11.15 18:13:53.182	scan started [19.11.14.0]
+2019.11.15 18:13:53.365	header load time: 182 (44201/556739)
+2019.11.15 18:13:53.365	ObjectManager found, ingame flag: 1
+2019.11.15 18:13:53.389	scan finished in 23 ms
+2019.11.15 18:13:53.391	new area: Hidden Camp
+2019.11.15 18:13:54.381	new area: Rift Level 02
+2019.11.15 18:13:55.849	new area: Rift Level 03
+2019.11.15 18:15:19.079	force daf scan due to invalid containers [-1, 656, 24, 3, 1313, True]
+2019.11.15 18:15:19.096	scan started [19.11.14.0]
+2019.11.15 18:15:19.263	header load time: 166 (46821/556959)
+2019.11.15 18:15:19.263	ObjectManager found, ingame flag: 1
+2019.11.15 18:15:19.285	scan finished in 22 ms
+2019.11.15 18:15:19.288	new area: Rift Level 03
+2019.11.15 18:15:19.594	new area: Hidden Camp
+2019.11.15 18:16:55.435	force daf scan due to invalid containers [-1, 676, 25, 3, 1353, True]
+2019.11.15 18:16:55.453	scan started [19.11.14.0]
+2019.11.15 18:16:55.616	header load time: 162 (47596/556961)
+2019.11.15 18:16:55.616	ObjectManager found, ingame flag: 1
+2019.11.15 18:16:55.637	scan finished in 21 ms
+2019.11.15 18:16:56.374	new area: Hidden Camp
+2019.11.15 18:16:56.518	new area: New Tristram
+2019.11.15 18:50:27.902	force daf scan due to invalid containers [-1, 661, 24, 3, 1323, True]
+2019.11.15 18:50:27.920	scan started [19.11.14.0]
+2019.11.15 18:50:28.185	header load time: 265 (109628/557357)
+2019.11.15 18:50:28.185	ObjectManager found, ingame flag: 1
+2019.11.15 18:50:28.211	scan finished in 25 ms
+2019.11.15 18:50:28.385	new area: New Tristram
+2019.11.15 18:50:28.872	new area: Rift Level 01
+2019.11.15 18:52:19.693	new area: Rift Level 01
+2019.11.15 18:52:20.291	new area: Rift Level 02
+2019.11.15 18:52:21.225	new area: Rift Level 02
+2019.11.15 18:52:21.724	new area: Rift Level 01
+2019.11.15 18:52:23.262	new area: Rift Level 02
+2019.11.15 18:53:35.499	force daf scan due to invalid containers [-1, 702, 25, 4, 1405, True]
+2019.11.15 18:53:35.517	scan started [19.11.14.0]
+2019.11.15 18:53:35.782	header load time: 264 (112533/557475)
+2019.11.15 18:53:35.782	ObjectManager found, ingame flag: 1
+2019.11.15 18:53:35.804	scan finished in 22 ms
+2019.11.15 18:53:35.807	new area: Rift Level 02
+2019.11.15 18:53:36.408	new area: Rift Level 03
+2019.11.15 18:56:07.798	force daf scan due to invalid containers [-1, 701, 23, 4, 1403, True]
+2019.11.15 18:56:07.815	scan started [19.11.14.0]
+2019.11.15 18:56:08.087	header load time: 272 (116106/557698)
+2019.11.15 18:56:08.087	ObjectManager found, ingame flag: 1
+2019.11.15 18:56:08.110	scan finished in 22 ms
+2019.11.15 18:56:08.113	new area: Rift Level 03
+2019.11.15 18:56:08.326	new area: New Tristram
+2019.11.15 19:00:07.728	force daf scan due to invalid containers [-1, 732, 25, 4, 1465, True]
+2019.11.15 19:00:07.746	scan started [19.11.14.0]
+2019.11.15 19:00:08.003	header load time: 257 (112661/557622)
+2019.11.15 19:00:08.003	ObjectManager found, ingame flag: 1
+2019.11.15 19:00:08.024	scan finished in 20 ms
+2019.11.15 19:00:08.026	new area: New Tristram
+2019.11.15 19:00:08.505	new area: Rift Level 01
+2019.11.15 19:02:17.836	new area: Rift Level 01
+2019.11.15 19:02:18.040	new area: Rift Level 02
+2019.11.15 19:03:49.082	force daf scan due to invalid containers [-1, 714, 24, 4, 1429, True]
+2019.11.15 19:03:49.100	scan started [19.11.14.0]
+2019.11.15 19:03:49.380	header load time: 280 (117560/557925)
+2019.11.15 19:03:49.380	ObjectManager found, ingame flag: 1
+2019.11.15 19:03:49.401	scan finished in 21 ms
+2019.11.15 19:03:49.404	new area: Rift Level 02
+2019.11.15 19:03:49.540	new area: New Tristram
+2019.11.15 19:08:56.410	new area: New Tristram
+2019.11.15 19:08:56.648	new area: Rift Level 01
+2019.11.15 19:11:26.989	new area: Rift Level 02
+2019.11.15 19:12:14.850	new area: Rift Level 03
+2019.11.15 19:14:36.055	force daf scan due to invalid containers [-1, 741, 23, 4, 1483, True]
+2019.11.15 19:14:36.072	scan started [19.11.14.0]
+2019.11.15 19:14:36.366	header load time: 293 (128276/558215)
+2019.11.15 19:14:36.366	ObjectManager found, ingame flag: 1
+2019.11.15 19:14:36.387	scan finished in 21 ms
+2019.11.15 19:14:36.390	new area: Rift Level 03
+2019.11.15 19:14:36.749	new area: New Tristram
+2019.11.15 19:18:04.472	force daf scan due to invalid containers [-1, 579, 25, 4, 1159, True]
+2019.11.15 19:18:04.489	scan started [19.11.14.0]
+2019.11.15 19:18:04.785	header load time: 296 (130772/558216)
+2019.11.15 19:18:04.785	ObjectManager found, ingame flag: 1
+2019.11.15 19:18:04.811	scan finished in 25 ms
+2019.11.15 19:18:05.005	new area: New Tristram
+2019.11.15 19:18:05.169	new area: Rift Level 01
+2019.11.15 19:22:17.944	new area: Rift Level 02
+2019.11.15 19:23:56.314	force daf scan due to invalid containers [-1, 737, -1, 4, 1482, True]
+2019.11.15 19:23:56.326	scan started [19.11.14.0]
+2019.11.15 19:23:56.628	header load time: 302 (128264/555328)
+2019.11.15 19:23:56.628	ObjectManager found, ingame flag: 1
+2019.11.15 19:23:56.650	scan finished in 21 ms
+2019.11.15 19:23:56.651	force daf scan due to invalid containers [-1, 737, -1, 4, 1482, True]
+2019.11.15 19:23:56.657	scan started [19.11.14.0]
+2019.11.15 19:23:56.932	header load time: 274 (107033/531054)
+2019.11.15 19:23:56.932	ObjectManager found, ingame flag: 1
+2019.11.15 19:23:56.954	scan finished in 21 ms
+2019.11.15 19:23:56.956	force daf scan due to invalid containers [-1, 737, -1, 4, 1482, True]
+2019.11.15 19:23:56.961	scan started [19.11.14.0]
+2019.11.15 19:23:57.208	header load time: 246 (106837/530421)
+2019.11.15 19:23:57.208	ObjectManager found, ingame flag: 1
+2019.11.15 19:23:57.231	scan finished in 23 ms
+2019.11.15 19:23:57.233	force daf scan due to invalid containers [-1, 737, -1, 4, 1482, True]
+2019.11.15 19:23:57.238	scan started [19.11.14.0]
+2019.11.15 19:23:57.546	header load time: 307 (106837/530421)
+2019.11.15 19:23:57.546	ObjectManager found, ingame flag: 1
+2019.11.15 19:23:57.567	scan finished in 21 ms
+2019.11.15 19:23:57.569	force daf scan due to invalid containers [-1, 737, -1, 4, 1482, True]
+2019.11.15 19:23:57.575	scan started [19.11.14.0]
+2019.11.15 19:23:57.829	header load time: 253 (106837/530421)
+2019.11.15 19:23:57.829	ObjectManager found, ingame flag: 1
+2019.11.15 19:23:57.850	scan finished in 20 ms
+2019.11.15 19:23:57.851	force daf scan due to invalid containers [-1, 737, -1, 4, 1482, True]
+2019.11.15 19:23:57.858	scan started [19.11.14.0]
+2019.11.15 19:23:58.073	header load time: 214 (83459/530421)
+2019.11.15 19:23:58.075	ObjectManager candidate count: 3
+2019.11.15 19:23:58.075	can't find object manager
+2019.11.15 19:23:58.082	scan started [19.11.14.0]
+2019.11.15 19:23:58.304	header load time: 222 (83335/505763)
+2019.11.15 19:23:58.305	ObjectManager candidate count: 3
+2019.11.15 19:23:58.305	can't find object manager
+2019.11.15 19:23:58.312	scan started [19.11.14.0]
+2019.11.15 19:23:58.587	header load time: 275 (83578/506940)
+2019.11.15 19:23:58.588	ObjectManager candidate count: 4
+2019.11.15 19:23:58.588	can't find object manager
+2019.11.15 19:23:58.595	scan started [19.11.14.0]
+2019.11.15 19:23:58.864	header load time: 268 (83919/528857)
+2019.11.15 19:23:58.864	ObjectManager found, ingame flag: 0
+2019.11.15 19:23:58.884	changed: GameStateAddress
+2019.11.15 19:23:58.884	changed: RealmAddress
+2019.11.15 19:23:58.884	scan finished in 20 ms
+2019.11.15 19:23:58.916	left the game
+2019.11.15 19:27:51.815	block sanity check triggered [RealmAddress]
+2019.11.15 19:27:51.815	scan started [19.11.14.0]
+2019.11.15 19:27:52.020	header load time: 205 (67585/511476)
+2019.11.15 19:27:52.022	ObjectManager candidate count: 3
+2019.11.15 19:27:52.022	can't find object manager
+2019.11.15 19:27:52.028	scan started [19.11.14.0]
+2019.11.15 19:27:52.223	header load time: 195 (67602/511669)
+2019.11.15 19:27:52.224	ObjectManager candidate count: 3
+2019.11.15 19:27:52.224	can't find object manager
+2019.11.15 19:27:52.230	scan started [19.11.14.0]
+2019.11.15 19:27:52.435	header load time: 205 (67829/512832)
+2019.11.15 19:27:52.436	ObjectManager candidate count: 4
+2019.11.15 19:27:52.436	can't find object manager
+2019.11.15 19:27:52.442	scan started [19.11.14.0]
+2019.11.15 19:27:52.652	header load time: 209 (67955/514819)
+2019.11.15 19:27:52.652	ObjectManager found, ingame flag: 1
+2019.11.15 19:27:52.653	LevelArea candidate count: 7
+2019.11.15 19:27:52.653	can't find levelarea
+2019.11.15 19:27:52.681	changed: GameStateAddress
+2019.11.15 19:27:52.681	changed: RealmAddress
+2019.11.15 19:27:52.681	scan finished in 29 ms
+2019.11.15 19:27:52.709	force daf scan due to invalid containers [-1, -1, -1, -1, -1, True]
+2019.11.15 19:27:52.715	scan started [19.11.14.0]
+2019.11.15 19:27:52.908	header load time: 192 (68598/537738)
+2019.11.15 19:27:52.908	ObjectManager found, ingame flag: 1
+2019.11.15 19:27:52.909	LevelArea candidate count: 8
+2019.11.15 19:27:52.909	can't find levelarea
+2019.11.15 19:27:52.930	scan finished in 21 ms
+2019.11.15 19:27:52.930	force daf scan due to invalid containers [-1, -1, -1, -1, -1, True]
+2019.11.15 19:27:52.936	scan started [19.11.14.0]
+2019.11.15 19:27:53.135	header load time: 198 (73639/540398)
+2019.11.15 19:27:53.135	ObjectManager found, ingame flag: 1
+2019.11.15 19:27:53.136	LevelArea candidate count: 8
+2019.11.15 19:27:53.136	can't find levelarea
+2019.11.15 19:27:53.157	scan finished in 21 ms
+2019.11.15 19:27:53.158	force daf scan due to invalid containers [-1, -1, -1, -1, -1, True]
+2019.11.15 19:27:53.170	scan started [19.11.14.0]
+2019.11.15 19:27:53.383	header load time: 213 (79456/528378)
+2019.11.15 19:27:53.383	ObjectManager found, ingame flag: 1
+2019.11.15 19:27:53.384	LevelArea candidate count: 8
+2019.11.15 19:27:53.384	can't find levelarea
+2019.11.15 19:27:53.410	scan finished in 26 ms
+2019.11.15 19:27:59.036	force daf scan due to game jump without leaving to the menu
+2019.11.15 19:27:59.036	force daf scan due to missing LevelAreaAddress
+2019.11.15 19:27:59.036	new run: Necromancer, The Survivors' Enclave, Difficulty: t16
+2019.11.15 19:27:59.148	scan started [19.11.14.0]
+2019.11.15 19:27:59.382	header load time: 233 (80706/550750)
+2019.11.15 19:27:59.382	ObjectManager found, ingame flag: 1
+2019.11.15 19:27:59.404	scan finished in 22 ms
+2019.11.15 19:36:17.029	force daf scan due to invalid containers [-1, 520, 14, 1, 1041, True]
+2019.11.15 19:36:17.046	scan started [19.11.14.0]
+2019.11.15 19:36:17.273	header load time: 226 (87647/557280)
+2019.11.15 19:36:17.273	ObjectManager found, ingame flag: 1
+2019.11.15 19:36:17.294	scan finished in 20 ms
+2019.11.15 19:36:18.087	new area: The Survivors' Enclave
+2019.11.15 19:36:18.352	new area: New Tristram
+2019.11.15 19:38:31.805	force daf scan due to invalid containers [-1, 520, 20, 2, 1041, True]
+2019.11.15 19:38:31.823	scan started [19.11.14.0]
+2019.11.15 19:38:32.052	header load time: 228 (91356/558888)
+2019.11.15 19:38:32.052	ObjectManager found, ingame flag: 1
+2019.11.15 19:38:32.076	scan finished in 23 ms
+2019.11.15 19:38:32.274	new area: New Tristram
+2019.11.15 19:38:33.019	new area: Rift Level 01
+2019.11.15 19:40:07.034	new area: Rift Level 01
+2019.11.15 19:40:07.532	new area: Rift Level 02
+2019.11.15 19:41:40.611	new area: Rift Level 02
+2019.11.15 19:41:41.884	new area: Rift Level 03
+2019.11.15 19:42:43.370	new area: New Tristram
+2019.11.15 19:45:13.669	force daf scan due to invalid containers [-1, 680, 19, 4, 1361, True]
+2019.11.15 19:45:13.687	scan started [19.11.14.0]
+2019.11.15 19:45:13.931	header load time: 243 (102014/559514)
+2019.11.15 19:45:13.931	ObjectManager found, ingame flag: 1
+2019.11.15 19:45:13.954	scan finished in 22 ms
+2019.11.15 19:45:13.955	new area: New Tristram
+2019.11.15 19:45:14.265	new area: New Tristram
+2019.11.15 19:45:14.513	new area: Rift Level 01
+2019.11.15 19:48:15.751	force daf scan due to invalid containers [-1, 680, -1, 1, 1361, True]
+2019.11.15 19:48:15.763	scan started [19.11.14.0]
+2019.11.15 19:48:16.005	header load time: 241 (94734/558526)
+2019.11.15 19:48:16.005	ObjectManager found, ingame flag: 1
+2019.11.15 19:48:16.028	scan finished in 22 ms
+2019.11.15 19:48:16.029	force daf scan due to invalid containers [-1, 680, -1, 1, 1361, True]
+2019.11.15 19:48:16.034	scan started [19.11.14.0]
+2019.11.15 19:48:16.253	header load time: 218 (93435/533430)
+2019.11.15 19:48:16.253	ObjectManager found, ingame flag: 1
+2019.11.15 19:48:16.273	scan finished in 20 ms
+2019.11.15 19:48:16.274	force daf scan due to invalid containers [-1, 680, -1, 1, 1361, True]
+2019.11.15 19:48:16.281	scan started [19.11.14.0]
+2019.11.15 19:48:16.506	header load time: 225 (93435/533430)
+2019.11.15 19:48:16.506	ObjectManager found, ingame flag: 1
+2019.11.15 19:48:16.526	scan finished in 20 ms
+2019.11.15 19:48:16.527	force daf scan due to invalid containers [-1, 680, -1, 1, 1361, True]
+2019.11.15 19:48:16.538	scan started [19.11.14.0]
+2019.11.15 19:48:16.801	header load time: 263 (93435/533430)
+2019.11.15 19:48:16.801	ObjectManager found, ingame flag: 1
+2019.11.15 19:48:16.821	scan finished in 20 ms
+2019.11.15 19:48:16.822	force daf scan due to invalid containers [-1, 680, -1, 1, 1361, True]
+2019.11.15 19:48:16.828	scan started [19.11.14.0]
+2019.11.15 19:48:17.065	header load time: 237 (90763/533430)
+2019.11.15 19:48:17.065	ObjectManager found, ingame flag: 1
+2019.11.15 19:48:17.067	LevelArea candidate count: 5
+2019.11.15 19:48:17.067	can't find levelarea
+2019.11.15 19:48:17.089	scan finished in 23 ms
+2019.11.15 19:48:17.089	force daf scan due to invalid containers [-1, -1, -1, 1, -1, True]
+2019.11.15 19:48:17.096	scan started [19.11.14.0]
+2019.11.15 19:48:17.304	header load time: 208 (76971/508777)
+2019.11.15 19:48:17.305	ObjectManager candidate count: 3
+2019.11.15 19:48:17.305	can't find object manager
+2019.11.15 19:48:17.311	scan started [19.11.14.0]
+2019.11.15 19:48:17.523	header load time: 212 (76931/508966)
+2019.11.15 19:48:17.525	ObjectManager candidate count: 3
+2019.11.15 19:48:17.525	can't find object manager
+2019.11.15 19:48:17.530	scan started [19.11.14.0]
+2019.11.15 19:48:17.737	header load time: 206 (77212/510196)
+2019.11.15 19:48:17.738	ObjectManager candidate count: 4
+2019.11.15 19:48:17.738	can't find object manager
+2019.11.15 19:48:17.744	scan started [19.11.14.0]
+2019.11.15 19:48:17.945	header load time: 200 (78317/536527)
+2019.11.15 19:48:17.945	ObjectManager found, ingame flag: 0
+2019.11.15 19:48:17.965	changed: GameStateAddress
+2019.11.15 19:48:17.965	changed: RealmAddress
+2019.11.15 19:48:17.965	scan finished in 19 ms
+2019.11.15 19:48:17.997	left the game
+2019.11.15 19:49:12.006	block sanity check triggered [RealmAddress]
+2019.11.15 19:49:12.006	scan started [19.11.14.0]
+2019.11.15 19:49:12.222	header load time: 215 (72702/507658)
+2019.11.15 19:49:12.223	ObjectManager candidate count: 3
+2019.11.15 19:49:12.223	can't find object manager
+2019.11.15 19:49:12.228	scan started [19.11.14.0]
+2019.11.15 19:49:12.464	header load time: 235 (72734/508124)
+2019.11.15 19:49:12.465	ObjectManager candidate count: 3
+2019.11.15 19:49:12.465	can't find object manager
+2019.11.15 19:49:12.471	scan started [19.11.14.0]
+2019.11.15 19:49:12.688	header load time: 216 (73008/509020)
+2019.11.15 19:49:12.689	ObjectManager candidate count: 4
+2019.11.15 19:49:12.689	can't find object manager
+2019.11.15 19:49:12.695	scan started [19.11.14.0]
+2019.11.15 19:49:12.923	header load time: 228 (73089/511577)
+2019.11.15 19:49:12.923	ObjectManager found, ingame flag: 1
+2019.11.15 19:49:12.924	LevelArea candidate count: 7
+2019.11.15 19:49:12.924	can't find levelarea
+2019.11.15 19:49:12.944	changed: GameStateAddress
+2019.11.15 19:49:12.947	changed: RealmAddress
+2019.11.15 19:49:12.947	scan finished in 24 ms
+2019.11.15 19:49:12.973	force daf scan due to invalid containers [-1, -1, -1, -1, -1, True]
+2019.11.15 19:49:12.980	scan started [19.11.14.0]
+2019.11.15 19:49:13.197	header load time: 217 (74678/555419)
+2019.11.15 19:49:13.197	ObjectManager found, ingame flag: 1
+2019.11.15 19:49:13.198	LevelArea candidate count: 8
+2019.11.15 19:49:13.198	can't find levelarea
+2019.11.15 19:49:13.226	scan finished in 28 ms
+2019.11.15 19:49:13.227	force daf scan due to invalid containers [-1, -1, -1, -1, -1, True]
+2019.11.15 19:49:13.232	scan started [19.11.14.0]
+2019.11.15 19:49:13.441	header load time: 208 (80098/541759)
+2019.11.15 19:49:13.441	ObjectManager found, ingame flag: 1
+2019.11.15 19:49:13.442	LevelArea candidate count: 7
+2019.11.15 19:49:13.442	can't find levelarea
+2019.11.15 19:49:13.471	scan finished in 29 ms
+2019.11.15 19:49:13.472	force daf scan due to invalid containers [-1, -1, -1, -1, -1, True]
+2019.11.15 19:49:13.478	scan started [19.11.14.0]
+2019.11.15 19:49:13.714	header load time: 235 (85183/532638)
+2019.11.15 19:49:13.714	ObjectManager found, ingame flag: 1
+2019.11.15 19:49:13.747	scan finished in 33 ms
+2019.11.15 19:49:18.827	force daf scan due to game jump without leaving to the menu
+2019.11.15 19:49:18.827	new run: Necromancer, The Survivors' Enclave, Difficulty: t16
+2019.11.15 19:49:18.964	scan started [19.11.14.0]
+2019.11.15 19:49:19.231	header load time: 266 (86431/549830)
+2019.11.15 19:49:19.231	ObjectManager found, ingame flag: 1
+2019.11.15 19:49:19.267	scan finished in 35 ms
+2019.11.15 19:59:28.939	force daf scan due to invalid containers [-1, 542, 14, 1, 1085, True]
+2019.11.15 19:59:28.957	scan started [19.11.14.0]
+2019.11.15 19:59:29.203	header load time: 246 (100857/555844)
+2019.11.15 19:59:29.203	ObjectManager found, ingame flag: 1
+2019.11.15 19:59:29.229	scan finished in 25 ms
+2019.11.15 19:59:29.953	new area: The Survivors' Enclave
+2019.11.15 19:59:30.077	new area: New Tristram
+2019.11.15 20:02:47.833	new area: New Tristram
+2019.11.15 20:02:48.709	new area: Rift Level 01
+2019.11.15 20:04:38.466	new area: Rift Level 01
+2019.11.15 20:04:38.550	new area: Rift Level 02
+2019.11.15 20:05:58.579	force daf scan due to invalid containers [-1, 542, 17, 4, 1085, True]
+2019.11.15 20:05:58.597	scan started [19.11.14.0]
+2019.11.15 20:05:58.882	header load time: 284 (111962/557714)
+2019.11.15 20:05:58.882	ObjectManager found, ingame flag: 1
+2019.11.15 20:05:58.912	scan finished in 30 ms
+2019.11.15 20:05:58.914	new area: Rift Level 02
+2019.11.15 20:05:59.204	new area: Rift Level 03
+2019.11.15 20:06:39.372	force daf scan due to invalid containers [-1, 679, 18, 4, 1359, True]
+2019.11.15 20:06:39.390	scan started [19.11.14.0]
+2019.11.15 20:06:39.656	header load time: 266 (115382/557834)
+2019.11.15 20:06:39.656	ObjectManager found, ingame flag: 1
+2019.11.15 20:06:39.682	scan finished in 25 ms
+2019.11.15 20:06:39.684	new area: Rift Level 03
+2019.11.15 20:06:39.842	new area: New Tristram
+2019.11.15 20:06:49.475	force daf scan due to invalid containers [-1, 679, 17, 5, 1359, True]
+2019.11.15 20:06:49.493	scan started [19.11.14.0]
+2019.11.15 20:06:49.752	header load time: 258 (115086/557804)
+2019.11.15 20:06:49.752	ObjectManager found, ingame flag: 1
+2019.11.15 20:06:49.780	scan finished in 28 ms
+2019.11.15 20:06:50.541	new area: New Tristram
+2019.11.15 20:06:50.779	new area: The Old Ruins
+2019.11.15 20:06:53.395	new area: The Old Ruins
+2019.11.15 20:06:54.596	new area: The Weeping Hollow
+2019.11.15 20:06:56.265	new area: The Weeping Hollow
+2019.11.15 20:06:56.345	new area: Cemetery of the Forsaken
+2019.11.15 20:07:00.590	new area: New Tristram
+2019.11.15 20:07:17.467	new area: New Tristram
+2019.11.15 20:08:31.815	new area: New Tristram
+2019.11.15 20:08:32.337	new area: Rift Level 01
+2019.11.15 20:08:49.830	force daf scan due to invalid containers [-1, 595, 18, 5, 1191, True]
+2019.11.15 20:08:49.848	scan started [19.11.14.0]
+2019.11.15 20:08:50.147	header load time: 298 (125448/557887)
+2019.11.15 20:08:50.147	ObjectManager found, ingame flag: 1
+2019.11.15 20:08:50.176	scan finished in 29 ms
+2019.11.15 20:08:50.179	new area: Rift Level 02
+2019.11.15 20:09:25.535	new area: Rift Level 02
+2019.11.15 20:09:26.151	new area: Rift Level 03
+2019.11.15 20:10:35.738	new area: Rift Level 03
+2019.11.15 20:10:36.639	new area: Rift Level 04
+2019.11.15 20:11:44.552	force daf scan due to invalid containers [-1, 728, 16, 6, 1457, True]
+2019.11.15 20:11:44.569	scan started [19.11.14.0]
+2019.11.15 20:11:44.868	header load time: 299 (132670/557979)
+2019.11.15 20:11:44.868	ObjectManager found, ingame flag: 1
+2019.11.15 20:11:44.897	scan finished in 28 ms
+2019.11.15 20:11:44.900	new area: New Tristram
+2019.11.15 20:11:48.637	force daf scan due to invalid containers [-1, 728, 21, 6, 1457, True]
+2019.11.15 20:11:48.654	scan started [19.11.14.0]
+2019.11.15 20:11:48.955	header load time: 301 (132109/557961)
+2019.11.15 20:11:48.955	ObjectManager found, ingame flag: 1
+2019.11.15 20:11:48.982	scan finished in 27 ms
+2019.11.15 20:11:48.985	new area: The Old Ruins
+2019.11.15 20:11:52.148	force daf scan due to invalid containers [-1, 728, 18, 7, 1457, True]
+2019.11.15 20:11:52.165	scan started [19.11.14.0]
+2019.11.15 20:11:52.469	header load time: 303 (132698/557970)
+2019.11.15 20:11:52.469	ObjectManager found, ingame flag: 1
+2019.11.15 20:11:52.499	scan finished in 30 ms
+2019.11.15 20:11:52.702	new area: The Old Ruins
+2019.11.15 20:11:53.355	new area: Cathedral Level 1
+2019.11.15 20:11:55.389	force daf scan due to invalid containers [-1, 728, 21, 7, 1457, True]
+2019.11.15 20:11:55.406	scan started [19.11.14.0]
+2019.11.15 20:11:55.717	header load time: 310 (133701/558006)
+2019.11.15 20:11:55.717	ObjectManager found, ingame flag: 1
+2019.11.15 20:11:55.745	scan finished in 27 ms
+2019.11.15 20:11:55.996	new area: Cathedral Level 1
+2019.11.15 20:11:56.514	new area: The Festering Woods
+2019.11.15 20:11:59.414	new area: The Festering Woods
+2019.11.15 20:11:59.563	new area: Drowned Temple
+2019.11.15 20:12:04.217	force daf scan due to invalid containers [-1, 728, 21, 8, 1457, True]
+2019.11.15 20:12:04.234	scan started [19.11.14.0]
+2019.11.15 20:12:04.534	header load time: 299 (136114/558021)
+2019.11.15 20:12:04.534	ObjectManager found, ingame flag: 1
+2019.11.15 20:12:04.561	scan finished in 26 ms
+2019.11.15 20:12:04.781	new area: Drowned Temple
+2019.11.15 20:12:05.052	new area: The Royal Crypts
+2019.11.15 20:12:11.024	new area: The Royal Crypts
+2019.11.15 20:12:11.268	new area: Leoric's Manor Courtyard
+2019.11.15 20:12:31.014	force daf scan due to invalid containers [-1, 728, 21, 9, 1457, True]
+2019.11.15 20:12:31.031	scan started [19.11.14.0]
+2019.11.15 20:12:31.331	header load time: 299 (141411/558025)
+2019.11.15 20:12:31.331	ObjectManager found, ingame flag: 1
+2019.11.15 20:12:31.358	scan finished in 27 ms
+2019.11.15 20:12:31.576	new area: Leoric's Manor Courtyard
+2019.11.15 20:12:31.968	new area: Halls of Agony Level 2
+2019.11.15 20:12:43.712	new area: New Tristram
+2019.11.15 20:12:57.642	force daf scan due to invalid containers [-1, 728, 21, 9, 1457, True]
+2019.11.15 20:12:57.654	scan started [19.11.14.0]
+2019.11.15 20:12:57.965	header load time: 311 (141206/558032)
+2019.11.15 20:12:57.966	ObjectManager found, ingame flag: 1
+2019.11.15 20:12:57.998	scan finished in 32 ms
+2019.11.15 20:12:58.001	new area: New Tristram
+2019.11.15 20:12:58.669	new area: Rift Level 01
+2019.11.15 20:13:12.168	new area: Rift Level 01
+2019.11.15 20:13:12.303	new area: Rift Level 02
+2019.11.15 20:13:57.351	new area: Rift Level 02
+2019.11.15 20:14:10.954	new area: Rift Level 02
+2019.11.15 20:14:12.183	new area: Rift Level 03
+2019.11.15 20:15:49.683	new area: Rift Level 04
+2019.11.15 20:16:40.872	force daf scan due to invalid containers [-1, 728, 24, 9, 1457, True]
+2019.11.15 20:16:40.890	scan started [19.11.14.0]
+2019.11.15 20:16:41.221	header load time: 331 (147076/558103)
+2019.11.15 20:16:41.221	ObjectManager found, ingame flag: 1
+2019.11.15 20:16:41.254	scan finished in 32 ms
+2019.11.15 20:16:41.256	new area: Rift Level 04
+2019.11.15 20:16:41.954	new area: New Tristram
+2019.11.15 20:17:14.254	force daf scan due to invalid containers [-1, 728, 20, 10, 1457, True]
+2019.11.15 20:17:14.266	scan started [19.11.14.0]
+2019.11.15 20:17:14.609	header load time: 343 (147624/558070)
+2019.11.15 20:17:14.609	ObjectManager found, ingame flag: 1
+2019.11.15 20:17:14.641	scan finished in 31 ms
+2019.11.15 20:17:14.643	new area: New Tristram
+2019.11.15 20:17:14.869	new area: Cathedral Level 2
+2019.11.15 20:17:17.743	new area: Halls of Agony Level 2
+2019.11.15 20:17:19.757	force daf scan due to invalid containers [-1, 728, 20, 11, 1457, True]
+2019.11.15 20:17:19.775	scan started [19.11.14.0]
+2019.11.15 20:17:20.118	header load time: 343 (148902/558129)
+2019.11.15 20:17:20.118	ObjectManager found, ingame flag: 1
+2019.11.15 20:17:20.146	scan finished in 27 ms
+2019.11.15 20:17:20.148	new area: Halls of Agony Level 2
+2019.11.15 20:17:20.737	new area: Halls of Agony Level 1
+2019.11.15 20:17:28.528	force daf scan due to invalid containers [-1, 728, 24, 12, 1457, True]
+2019.11.15 20:17:28.546	scan started [19.11.14.0]
+2019.11.15 20:17:28.930	header load time: 384 (149287/558133)
+2019.11.15 20:17:28.931	ObjectManager found, ingame flag: 1
+2019.11.15 20:17:28.957	scan finished in 26 ms
+2019.11.15 20:17:29.665	new area: Halls of Agony Level 1
+2019.11.15 20:17:30.171	new area: Road to Alcarnus
+2019.11.15 20:17:34.258	new area: Road to Alcarnus
+2019.11.15 20:17:34.448	new area: Khasim Outpost
+2019.11.15 20:17:36.692	force daf scan due to invalid containers [-1, 728, 24, 13, 1457, True]
+2019.11.15 20:17:36.703	scan started [19.11.14.0]
+2019.11.15 20:17:37.041	header load time: 337 (151654/558150)
+2019.11.15 20:17:37.041	ObjectManager found, ingame flag: 1
+2019.11.15 20:17:37.074	scan finished in 33 ms
+2019.11.15 20:17:37.289	new area: Khasim Outpost
+2019.11.15 20:17:37.553	new area: Archives of Zoltun Kulle
+2019.11.15 20:17:40.414	new area: Archives of Zoltun Kulle
+2019.11.15 20:17:40.886	new area: Desolate Sands
+2019.11.15 20:17:45.998	force daf scan due to invalid containers [-1, 728, 24, 14, 1457, True]
+2019.11.15 20:17:46.015	scan started [19.11.14.0]
+2019.11.15 20:17:46.348	header load time: 332 (154493/558154)
+2019.11.15 20:17:46.348	ObjectManager found, ingame flag: 1
+2019.11.15 20:17:46.386	scan finished in 37 ms
+2019.11.15 20:17:46.388	new area: Desolate Sands
+2019.11.15 20:17:46.488	new area: Ancient Waterway
+2019.11.15 20:17:49.629	new area: Ancient Waterway
+2019.11.15 20:17:49.836	new area: Dahlgur Oasis
+2019.11.15 20:17:51.972	force daf scan due to invalid containers [-1, 728, 24, 15, 1457, True]
+2019.11.15 20:17:51.988	scan started [19.11.14.0]
+2019.11.15 20:17:52.329	header load time: 341 (156873/558151)
+2019.11.15 20:17:52.329	ObjectManager found, ingame flag: 1
+2019.11.15 20:17:52.360	scan finished in 30 ms
+2019.11.15 20:17:52.970	new area: Dahlgur Oasis
+2019.11.15 20:17:53.070	new area: Shrouded Moors
+2019.11.15 20:17:58.502	force daf scan due to invalid containers [-1, 728, 23, 16, 1457, True]
+2019.11.15 20:17:58.520	scan started [19.11.14.0]
+2019.11.15 20:17:58.914	header load time: 394 (159131/558162)
+2019.11.15 20:17:58.915	ObjectManager found, ingame flag: 1
+2019.11.15 20:17:58.948	scan finished in 33 ms
+2019.11.15 20:17:59.975	new area: Shrouded Moors
+2019.11.15 20:18:00.365	new area: The Bridge of Korsikk
+2019.11.15 20:18:08.994	force daf scan due to invalid containers [-1, 728, 24, 16, 1457, True]
+2019.11.15 20:18:09.011	scan started [19.11.14.0]
+2019.11.15 20:18:09.372	header load time: 361 (159978/557699)
+2019.11.15 20:18:09.372	ObjectManager found, ingame flag: 1
+2019.11.15 20:18:09.399	scan finished in 26 ms
+2019.11.15 20:18:09.494	new area: The Bridge of Korsikk
+2019.11.15 20:18:10.326	new area: Arreat Crater Level 1
+2019.11.15 20:18:12.634	force daf scan due to invalid containers [-1, 728, 23, 16, 1457, True]
+2019.11.15 20:18:12.652	scan started [19.11.14.0]
+2019.11.15 20:18:12.999	header load time: 347 (159706/555955)
+2019.11.15 20:18:13.000	ObjectManager found, ingame flag: 1
+2019.11.15 20:18:13.028	scan finished in 28 ms
+2019.11.15 20:18:13.121	new area: Arreat Crater Level 1
+2019.11.15 20:18:13.488	new area: Tower of the Damned Level 1
+2019.11.15 20:18:15.955	force daf scan due to invalid containers [-1, 728, 24, 16, 1457, True]
+2019.11.15 20:18:15.973	scan started [19.11.14.0]
+2019.11.15 20:18:16.319	header load time: 345 (158573/554827)
+2019.11.15 20:18:16.319	ObjectManager found, ingame flag: 1
+2019.11.15 20:18:16.348	scan finished in 29 ms
+2019.11.15 20:18:16.350	new area: Tower of the Damned Level 1
+2019.11.15 20:18:16.461	new area: Arreat Crater Level 2
+2019.11.15 20:18:19.179	force daf scan due to invalid containers [-1, 728, 23, 16, 1457, True]
+2019.11.15 20:18:19.196	scan started [19.11.14.0]
+2019.11.15 20:18:19.602	header load time: 405 (158309/555415)
+2019.11.15 20:18:19.602	ObjectManager found, ingame flag: 1
+2019.11.15 20:18:19.634	scan finished in 32 ms
+2019.11.15 20:18:19.636	new area: Tower of the Cursed Level 1
+2019.11.15 20:18:30.525	force daf scan due to invalid containers [-1, 728, 16, 17, 1457, True]
+2019.11.15 20:18:30.543	scan started [19.11.14.0]
+2019.11.15 20:18:30.891	header load time: 348 (158160/555628)
+2019.11.15 20:18:30.891	ObjectManager found, ingame flag: 1
+2019.11.15 20:18:30.924	scan finished in 33 ms
+2019.11.15 20:18:30.927	new area: Tower of the Cursed Level 1
+2019.11.15 20:18:31.307	new area: The Keep Depths Level 1
+2019.11.15 20:18:34.256	force daf scan due to invalid containers [-1, 728, 23, 18, 1457, True]
+2019.11.15 20:18:34.268	scan started [19.11.14.0]
+2019.11.15 20:18:34.615	header load time: 346 (157933/555668)
+2019.11.15 20:18:34.615	ObjectManager found, ingame flag: 1
+2019.11.15 20:18:34.648	scan finished in 33 ms
+2019.11.15 20:18:34.651	new area: The Keep Depths Level 2
+2019.11.15 20:18:44.082	new area: The Keep Depths Level 2
+2019.11.15 20:18:44.150	new area: Northern Highlands
+2019.11.15 20:18:45.952	force daf scan due to invalid containers [-1, 728, 24, 19, 1457, True]
+2019.11.15 20:18:45.969	scan started [19.11.14.0]
+2019.11.15 20:18:46.327	header load time: 358 (157706/556666)
+2019.11.15 20:18:46.328	ObjectManager found, ingame flag: 1
+2019.11.15 20:18:46.361	scan finished in 33 ms
+2019.11.15 20:18:46.387	new area: Northern Highlands
+2019.11.15 20:18:46.622	new area: Rift Level 01
+2019.11.15 20:20:06.908	new area: Rift Level 01
+2019.11.15 20:20:07.381	new area: Rift Level 02
+2019.11.15 20:21:10.130	new area: Rift Level 02
+2019.11.15 20:21:10.344	new area: Rift Level 03
+2019.11.15 20:22:03.226	force daf scan due to invalid containers [-1, 728, 20, 22, 1457, True]
+2019.11.15 20:22:03.243	scan started [19.11.14.0]
+2019.11.15 20:22:03.594	header load time: 350 (155520/560405)
+2019.11.15 20:22:03.594	ObjectManager found, ingame flag: 1
+2019.11.15 20:22:03.624	scan finished in 29 ms
+2019.11.15 20:22:03.626	new area: Rift Level 03
+2019.11.15 20:22:04.349	new area: Rift Level 04
+2019.11.15 20:22:16.592	new area: Rift Level 05
+2019.11.15 20:23:12.430	force daf scan due to invalid containers [-1, 728, 20, 23, 1457, True]
+2019.11.15 20:23:12.443	scan started [19.11.14.0]
+2019.11.15 20:23:12.791	header load time: 348 (156229/561387)
+2019.11.15 20:23:12.791	ObjectManager found, ingame flag: 1
+2019.11.15 20:23:12.820	scan finished in 29 ms
+2019.11.15 20:23:12.824	new area: Rift Level 05
+2019.11.15 20:23:12.957	new area: New Tristram
+2019.11.15 20:23:54.032	force daf scan due to invalid containers [-1, 542, 22, 23, 1085, True]
+2019.11.15 20:23:54.044	scan started [19.11.14.0]
+2019.11.15 20:23:54.379	header load time: 335 (155899/561386)
+2019.11.15 20:23:54.379	ObjectManager found, ingame flag: 1
+2019.11.15 20:23:54.410	scan finished in 30 ms
+2019.11.15 20:23:54.412	new area: Rift Level 05
+2019.11.15 20:24:13.350	force daf scan due to invalid containers [-1, 710, 22, 23, 1421, True]
+2019.11.15 20:24:13.368	scan started [19.11.14.0]
+2019.11.15 20:24:13.718	header load time: 350 (156475/561642)
+2019.11.15 20:24:13.719	ObjectManager found, ingame flag: 1
+2019.11.15 20:24:13.749	scan finished in 30 ms
+2019.11.15 20:24:13.757	new area: Rift Level 05
+2019.11.15 20:24:14.036	new area: New Tristram
+2019.11.15 20:25:15.320	force daf scan due to invalid containers [-1, 736, -1, 18, 1473, True]
+2019.11.15 20:25:15.338	scan started [19.11.14.0]
+2019.11.15 20:25:15.664	header load time: 325 (134306/560488)
+2019.11.15 20:25:15.664	ObjectManager found, ingame flag: 1
+2019.11.15 20:25:15.693	scan finished in 29 ms
+2019.11.15 20:25:15.694	force daf scan due to invalid containers [-1, 736, -1, 18, 1473, True]
+2019.11.15 20:25:15.700	scan started [19.11.14.0]
+2019.11.15 20:25:16.007	header load time: 306 (121472/542397)
+2019.11.15 20:25:16.007	ObjectManager found, ingame flag: 1
+2019.11.15 20:25:16.041	scan finished in 33 ms
+2019.11.15 20:25:16.042	force daf scan due to invalid containers [-1, 736, -1, 18, 1473, True]
+2019.11.15 20:25:16.047	scan started [19.11.14.0]
+2019.11.15 20:25:16.338	header load time: 290 (118866/536555)
+2019.11.15 20:25:16.338	ObjectManager found, ingame flag: 1
+2019.11.15 20:25:16.362	scan finished in 24 ms
+2019.11.15 20:25:16.363	force daf scan due to invalid containers [-1, 736, -1, 18, 1473, True]
+2019.11.15 20:25:16.371	scan started [19.11.14.0]
+2019.11.15 20:25:16.643	header load time: 271 (118866/536555)
+2019.11.15 20:25:16.643	ObjectManager found, ingame flag: 1
+2019.11.15 20:25:16.668	scan finished in 24 ms
+2019.11.15 20:25:16.669	force daf scan due to invalid containers [-1, 736, -1, 18, 1473, True]
+2019.11.15 20:25:16.675	scan started [19.11.14.0]
+2019.11.15 20:25:16.935	header load time: 259 (118866/536555)
+2019.11.15 20:25:16.935	ObjectManager found, ingame flag: 1
+2019.11.15 20:25:16.959	scan finished in 24 ms
+2019.11.15 20:25:16.960	force daf scan due to invalid containers [-1, 736, -1, 18, 1473, True]
+2019.11.15 20:25:16.966	scan started [19.11.14.0]
+2019.11.15 20:25:17.208	header load time: 241 (96355/536555)
+2019.11.15 20:25:17.209	ObjectManager candidate count: 3
+2019.11.15 20:25:17.209	can't find object manager
+2019.11.15 20:25:17.215	scan started [19.11.14.0]
+2019.11.15 20:25:17.475	header load time: 260 (91022/511551)
+2019.11.15 20:25:17.477	ObjectManager candidate count: 3
+2019.11.15 20:25:17.477	can't find object manager
+2019.11.15 20:25:17.483	scan started [19.11.14.0]
+2019.11.15 20:25:17.774	header load time: 290 (91276/512805)
+2019.11.15 20:25:17.775	ObjectManager candidate count: 4
+2019.11.15 20:25:17.775	can't find object manager
+2019.11.15 20:25:17.781	scan started [19.11.14.0]
+2019.11.15 20:25:18.008	header load time: 227 (91898/534461)
+2019.11.15 20:25:18.008	ObjectManager found, ingame flag: 0
+2019.11.15 20:25:18.029	changed: GameStateAddress
+2019.11.15 20:25:18.031	changed: RealmAddress
+2019.11.15 20:25:18.031	scan finished in 23 ms
+2019.11.15 20:25:18.064	left the game
+2019.11.15 20:25:31.460	block sanity check triggered [RealmAddress]
+2019.11.15 20:25:31.460	scan started [19.11.14.0]
+2019.11.15 20:25:31.726	header load time: 265 (86718/511632)
+2019.11.15 20:25:31.727	ObjectManager candidate count: 3
+2019.11.15 20:25:31.727	can't find object manager
+2019.11.15 20:25:31.733	scan started [19.11.14.0]
+2019.11.15 20:25:31.970	header load time: 236 (86758/511937)
+2019.11.15 20:25:31.971	ObjectManager candidate count: 3
+2019.11.15 20:25:31.971	can't find object manager
+2019.11.15 20:25:31.977	scan started [19.11.14.0]
+2019.11.15 20:25:32.218	header load time: 241 (87068/513775)
+2019.11.15 20:25:32.220	ObjectManager candidate count: 4
+2019.11.15 20:25:32.220	can't find object manager
+2019.11.15 20:25:32.226	scan started [19.11.14.0]
+2019.11.15 20:25:32.470	header load time: 244 (87108/515336)
+2019.11.15 20:25:32.470	ObjectManager found, ingame flag: 1
+2019.11.15 20:25:32.471	LevelArea candidate count: 8
+2019.11.15 20:25:32.471	can't find levelarea
+2019.11.15 20:25:32.491	changed: GameStateAddress
+2019.11.15 20:25:32.498	changed: RealmAddress
+2019.11.15 20:25:32.498	scan finished in 28 ms
+2019.11.15 20:25:32.522	force daf scan due to invalid containers [-1, -1, -1, -1, -1, True]
+2019.11.15 20:25:32.530	scan started [19.11.14.0]
+2019.11.15 20:25:32.783	header load time: 252 (88417/557613)
+2019.11.15 20:25:32.783	ObjectManager found, ingame flag: 1
+2019.11.15 20:25:32.784	LevelArea candidate count: 8
+2019.11.15 20:25:32.784	can't find levelarea
+2019.11.15 20:25:32.815	scan finished in 32 ms
+2019.11.15 20:25:32.816	force daf scan due to invalid containers [-1, -1, -1, -1, -1, True]
+2019.11.15 20:25:32.822	scan started [19.11.14.0]
+2019.11.15 20:25:33.077	header load time: 254 (94186/545104)
+2019.11.15 20:25:33.077	ObjectManager found, ingame flag: 1
+2019.11.15 20:25:33.078	LevelArea candidate count: 7
+2019.11.15 20:25:33.078	can't find levelarea
+2019.11.15 20:25:33.107	scan finished in 30 ms
+2019.11.15 20:25:33.108	force daf scan due to invalid containers [-1, -1, -1, -1, -1, True]
+2019.11.15 20:25:33.115	scan started [19.11.14.0]
+2019.11.15 20:25:33.360	header load time: 245 (98669/536661)
+2019.11.15 20:25:33.360	ObjectManager found, ingame flag: 1
+2019.11.15 20:25:33.391	scan finished in 31 ms
+2019.11.15 20:25:36.776	force daf scan due to game jump without leaving to the menu
+2019.11.15 20:25:36.776	new run: Necromancer, Hidden Camp, Difficulty: t16
+2019.11.15 20:25:36.890	scan started [19.11.14.0]
+2019.11.15 20:25:37.156	header load time: 266 (99412/549464)
+2019.11.15 20:25:37.156	ObjectManager found, ingame flag: 1
+2019.11.15 20:25:37.186	scan finished in 29 ms
+2019.11.15 20:25:42.213	force daf scan due to invalid containers [-1, 519, 6, 2, 1039, True]
+2019.11.15 20:25:42.231	scan started [19.11.14.0]
+2019.11.15 20:25:42.489	header load time: 257 (99766/554361)
+2019.11.15 20:25:42.489	ObjectManager found, ingame flag: 1
+2019.11.15 20:25:42.517	scan finished in 27 ms
+2019.11.15 20:25:43.295	new area: Hidden Camp
+2019.11.15 20:25:43.433	new area: New Tristram
+2019.11.15 20:27:03.908	force daf scan due to invalid containers [-1, 522, 12, 3, 1045, True]
+2019.11.15 20:27:03.926	scan started [19.11.14.0]
+2019.11.15 20:27:04.187	header load time: 260 (99560/559671)
+2019.11.15 20:27:04.187	ObjectManager found, ingame flag: 1
+2019.11.15 20:27:04.213	scan finished in 25 ms
+2019.11.15 20:27:04.774	new area: New Tristram
+2019.11.15 20:27:05.365	new area: Rift Level 01
+2019.11.15 20:28:29.551	new area: Rift Level 01
+2019.11.15 20:28:29.642	new area: Rift Level 02
+2019.11.15 20:30:22.032	force daf scan due to invalid containers [-1, 650, -1, 5, 1301, True]
+2019.11.15 20:30:22.044	scan started [19.11.14.0]
+2019.11.15 20:30:22.299	header load time: 254 (102786/557803)
+2019.11.15 20:30:22.299	ObjectManager found, ingame flag: 1
+2019.11.15 20:30:22.323	scan finished in 24 ms
+2019.11.15 20:30:22.324	force daf scan due to invalid containers [-1, 650, -1, 5, 1301, True]
+2019.11.15 20:30:22.330	scan started [19.11.14.0]
+2019.11.15 20:30:22.576	header load time: 246 (102468/538900)
+2019.11.15 20:30:22.576	ObjectManager found, ingame flag: 1
+2019.11.15 20:30:22.600	scan finished in 23 ms
+2019.11.15 20:30:22.601	force daf scan due to invalid containers [-1, 650, -1, 5, 1301, True]
+2019.11.15 20:30:22.607	scan started [19.11.14.0]
+2019.11.15 20:30:22.851	header load time: 243 (102468/538900)
+2019.11.15 20:30:22.851	ObjectManager found, ingame flag: 1
+2019.11.15 20:30:22.875	scan finished in 23 ms
+2019.11.15 20:30:22.876	force daf scan due to invalid containers [-1, 650, -1, 5, 1301, True]
+2019.11.15 20:30:22.882	scan started [19.11.14.0]
+2019.11.15 20:30:23.172	header load time: 290 (102468/538900)
+2019.11.15 20:30:23.172	ObjectManager found, ingame flag: 1
+2019.11.15 20:30:23.196	scan finished in 23 ms
+2019.11.15 20:30:23.197	force daf scan due to invalid containers [-1, 650, -1, 5, 1301, True]
+2019.11.15 20:30:23.202	scan started [19.11.14.0]
+2019.11.15 20:30:23.446	header load time: 243 (87231/538900)
+2019.11.15 20:30:23.447	ObjectManager candidate count: 3
+2019.11.15 20:30:23.447	can't find object manager
+2019.11.15 20:30:23.454	scan started [19.11.14.0]
+2019.11.15 20:30:23.690	header load time: 235 (87146/513943)
+2019.11.15 20:30:23.691	ObjectManager candidate count: 3
+2019.11.15 20:30:23.691	can't find object manager
+2019.11.15 20:30:23.697	scan started [19.11.14.0]
+2019.11.15 20:30:23.932	header load time: 235 (87309/515293)
+2019.11.15 20:30:23.934	ObjectManager candidate count: 4
+2019.11.15 20:30:23.934	can't find object manager
+2019.11.15 20:30:23.940	scan started [19.11.14.0]
+2019.11.15 20:30:24.166	header load time: 225 (87587/518120)
+2019.11.15 20:30:24.166	ObjectManager found, ingame flag: 0
+2019.11.15 20:30:24.187	changed: GameStateAddress
+2019.11.15 20:30:24.192	changed: RealmAddress
+2019.11.15 20:30:24.192	scan finished in 26 ms
+2019.11.15 20:30:24.218	left the game
+2019.11.15 20:31:58.842	block sanity check triggered [RealmAddress]
+2019.11.15 20:31:58.842	scan started [19.11.14.0]
+2019.11.15 20:31:59.086	header load time: 244 (80420/536217)
+2019.11.15 20:31:59.088	ObjectManager candidate count: 3
+2019.11.15 20:31:59.088	can't find object manager
+2019.11.15 20:31:59.093	scan started [19.11.14.0]
+2019.11.15 20:31:59.316	header load time: 223 (80453/536670)
+2019.11.15 20:31:59.318	ObjectManager candidate count: 3
+2019.11.15 20:31:59.318	can't find object manager
+2019.11.15 20:31:59.324	scan started [19.11.14.0]
+2019.11.15 20:31:59.602	header load time: 277 (80769/537355)
+2019.11.15 20:31:59.603	ObjectManager candidate count: 4
+2019.11.15 20:31:59.604	can't find object manager
+2019.11.15 20:31:59.610	scan started [19.11.14.0]
+2019.11.15 20:31:59.863	header load time: 252 (80808/539761)
+2019.11.15 20:31:59.863	ObjectManager found, ingame flag: 1
+2019.11.15 20:31:59.864	LevelArea candidate count: 9
+2019.11.15 20:31:59.864	can't find levelarea
+2019.11.15 20:31:59.884	changed: GameStateAddress
+2019.11.15 20:31:59.892	changed: RealmAddress
+2019.11.15 20:31:59.892	scan finished in 29 ms
+2019.11.15 20:31:59.918	force daf scan due to invalid containers [-1, -1, -1, -1, -1, True]
+2019.11.15 20:31:59.924	scan started [19.11.14.0]
+2019.11.15 20:32:00.156	header load time: 231 (84331/582078)
+2019.11.15 20:32:00.156	ObjectManager found, ingame flag: 1
+2019.11.15 20:32:00.157	LevelArea candidate count: 9
+2019.11.15 20:32:00.157	can't find levelarea
+2019.11.15 20:32:00.188	scan finished in 32 ms
+2019.11.15 20:32:00.189	force daf scan due to invalid containers [-1, -1, -1, -1, -1, True]
+2019.11.15 20:32:00.196	scan started [19.11.14.0]
+2019.11.15 20:32:00.451	header load time: 255 (90611/567313)
+2019.11.15 20:32:00.451	ObjectManager found, ingame flag: 1
+2019.11.15 20:32:00.452	LevelArea candidate count: 8
+2019.11.15 20:32:00.452	can't find levelarea
+2019.11.15 20:32:00.485	scan finished in 33 ms
+2019.11.15 20:32:00.486	force daf scan due to invalid containers [-1, -1, -1, -1, -1, True]
+2019.11.15 20:32:00.492	scan started [19.11.14.0]
+2019.11.15 20:32:00.741	header load time: 248 (95671/555542)
+2019.11.15 20:32:00.741	ObjectManager found, ingame flag: 1
+2019.11.15 20:32:00.742	LevelArea candidate count: 9
+2019.11.15 20:32:00.742	can't find levelarea
+2019.11.15 20:32:00.776	scan finished in 35 ms
+2019.11.15 20:32:00.777	force daf scan due to invalid containers [-1, -1, -1, -1, -1, True]
+2019.11.15 20:32:00.783	scan started [19.11.14.0]
+2019.11.15 20:32:01.037	header load time: 253 (95667/558514)
+2019.11.15 20:32:01.037	ObjectManager found, ingame flag: 1
+2019.11.15 20:32:01.062	scan finished in 25 ms
+2019.11.15 20:32:03.999	force daf scan due to game jump without leaving to the menu
+2019.11.15 20:32:04.000	new run: Necromancer, Hidden Camp, Difficulty: n
+2019.11.15 20:32:04.126	scan started [19.11.14.0]
+2019.11.15 20:32:04.389	header load time: 263 (96414/570595)
+2019.11.15 20:32:04.390	ObjectManager found, ingame flag: 1
+2019.11.15 20:32:04.421	scan finished in 31 ms
+2019.11.15 20:32:10.306	new area: Hidden Camp
+2019.11.15 20:32:10.579	new area: New Tristram
+2019.11.15 20:32:25.288	force daf scan due to invalid containers [-1, 520, 12, 2, 1041, True]
+2019.11.15 20:32:25.306	scan started [19.11.14.0]
+2019.11.15 20:32:25.568	header load time: 262 (101870/574460)
+2019.11.15 20:32:25.569	ObjectManager found, ingame flag: 1
+2019.11.15 20:32:25.595	scan finished in 26 ms
+2019.11.15 20:32:26.001	new area: New Tristram
+2019.11.15 20:32:26.673	new area: Rift Level 01
+2019.11.15 20:33:14.993	force daf scan due to invalid containers [-1, 607, -1, 1, 1215, True]
+2019.11.15 20:33:15.010	scan started [19.11.14.0]
+2019.11.15 20:33:15.259	header load time: 248 (101264/569425)
+2019.11.15 20:33:15.259	ObjectManager found, ingame flag: 1
+2019.11.15 20:33:15.284	scan finished in 24 ms
+2019.11.15 20:33:15.285	force daf scan due to invalid containers [-1, 607, -1, 1, 1215, True]
+2019.11.15 20:33:15.291	scan started [19.11.14.0]
+2019.11.15 20:33:15.533	header load time: 241 (101258/557466)
+2019.11.15 20:33:15.533	ObjectManager found, ingame flag: 1
+2019.11.15 20:33:15.558	scan finished in 25 ms
+2019.11.15 20:33:15.559	force daf scan due to invalid containers [-1, 607, -1, 1, 1215, True]
+2019.11.15 20:33:15.569	scan started [19.11.14.0]
+2019.11.15 20:33:15.818	header load time: 249 (101258/557466)
+2019.11.15 20:33:15.818	ObjectManager found, ingame flag: 1
+2019.11.15 20:33:15.843	scan finished in 24 ms
+2019.11.15 20:33:15.844	force daf scan due to invalid containers [-1, 607, -1, 1, 1215, True]
+2019.11.15 20:33:15.850	scan started [19.11.14.0]
+2019.11.15 20:33:16.108	header load time: 257 (101258/557466)
+2019.11.15 20:33:16.108	ObjectManager found, ingame flag: 1
+2019.11.15 20:33:16.132	scan finished in 24 ms
+2019.11.15 20:33:16.133	force daf scan due to invalid containers [-1, 607, -1, 1, 1215, True]
+2019.11.15 20:33:16.139	scan started [19.11.14.0]
+2019.11.15 20:33:16.370	header load time: 231 (85480/557466)
+2019.11.15 20:33:16.371	ObjectManager candidate count: 3
+2019.11.15 20:33:16.371	can't find object manager
+2019.11.15 20:33:16.378	scan started [19.11.14.0]
+2019.11.15 20:33:16.613	header load time: 235 (85414/532938)
+2019.11.15 20:33:16.614	ObjectManager candidate count: 3
+2019.11.15 20:33:16.615	can't find object manager
+2019.11.15 20:33:16.621	scan started [19.11.14.0]
+2019.11.15 20:33:16.859	header load time: 238 (85637/534319)
+2019.11.15 20:33:16.860	ObjectManager candidate count: 4
+2019.11.15 20:33:16.860	can't find object manager
+2019.11.15 20:33:16.866	scan started [19.11.14.0]
+2019.11.15 20:33:17.080	header load time: 213 (86147/542793)
+2019.11.15 20:33:17.080	ObjectManager found, ingame flag: 0
+2019.11.15 20:33:17.109	changed: GameStateAddress
+2019.11.15 20:33:17.110	changed: RealmAddress
+2019.11.15 20:33:17.110	scan finished in 30 ms
+2019.11.15 20:33:17.137	left the game
+2019.11.15 20:35:01.037	block sanity check triggered [RealmAddress]
+2019.11.15 20:35:01.037	scan started [19.11.14.0]
+2019.11.15 20:35:01.272	header load time: 235 (80986/531904)
+2019.11.15 20:35:01.273	ObjectManager candidate count: 3
+2019.11.15 20:35:01.273	can't find object manager
+2019.11.15 20:35:01.280	scan started [19.11.14.0]
+2019.11.15 20:35:01.504	header load time: 224 (81024/532447)
+2019.11.15 20:35:01.505	ObjectManager candidate count: 3
+2019.11.15 20:35:01.505	can't find object manager
+2019.11.15 20:35:01.512	scan started [19.11.14.0]
+2019.11.15 20:35:01.750	header load time: 237 (81290/533075)
+2019.11.15 20:35:01.751	ObjectManager candidate count: 4
+2019.11.15 20:35:01.751	can't find object manager
+2019.11.15 20:35:01.757	scan started [19.11.14.0]
+2019.11.15 20:35:01.998	header load time: 240 (81382/535875)
+2019.11.15 20:35:01.998	ObjectManager found, ingame flag: 1
+2019.11.15 20:35:01.999	LevelArea candidate count: 8
+2019.11.15 20:35:01.999	can't find levelarea
+2019.11.15 20:35:02.018	changed: GameStateAddress
+2019.11.15 20:35:02.026	changed: RealmAddress
+2019.11.15 20:35:02.026	scan finished in 28 ms
+2019.11.15 20:35:02.051	force daf scan due to invalid containers [-1, -1, -1, -1, -1, True]
+2019.11.15 20:35:02.057	scan started [19.11.14.0]
+2019.11.15 20:35:02.283	header load time: 226 (82902/574561)
+2019.11.15 20:35:02.283	ObjectManager found, ingame flag: 1
+2019.11.15 20:35:02.284	LevelArea candidate count: 9
+2019.11.15 20:35:02.284	can't find levelarea
+2019.11.15 20:35:02.314	scan finished in 30 ms
+2019.11.15 20:35:02.315	force daf scan due to invalid containers [-1, -1, -1, -1, -1, True]
+2019.11.15 20:35:02.322	scan started [19.11.14.0]
+2019.11.15 20:35:02.544	header load time: 221 (88073/563335)
+2019.11.15 20:35:02.544	ObjectManager found, ingame flag: 1
+2019.11.15 20:35:02.545	LevelArea candidate count: 8
+2019.11.15 20:35:02.545	can't find levelarea
+2019.11.15 20:35:02.579	scan finished in 34 ms
+2019.11.15 20:35:02.580	force daf scan due to invalid containers [-1, -1, -1, -1, -1, True]
+2019.11.15 20:35:02.586	scan started [19.11.14.0]
+2019.11.15 20:35:02.830	header load time: 244 (94435/550621)
+2019.11.15 20:35:02.830	ObjectManager found, ingame flag: 1
+2019.11.15 20:35:02.832	LevelArea candidate count: 9
+2019.11.15 20:35:02.832	can't find levelarea
+2019.11.15 20:35:02.866	scan finished in 35 ms
+2019.11.15 20:35:02.867	force daf scan due to invalid containers [-1, -1, -1, -1, -1, True]
+2019.11.15 20:35:02.873	scan started [19.11.14.0]
+2019.11.15 20:35:03.132	header load time: 258 (95127/557005)
+2019.11.15 20:35:03.132	ObjectManager found, ingame flag: 1
+2019.11.15 20:35:03.156	scan finished in 24 ms
+2019.11.15 20:35:06.116	force daf scan due to game jump without leaving to the menu
+2019.11.15 20:35:06.117	new run: Necromancer, Hidden Camp, Difficulty: n
+2019.11.15 20:35:06.240	scan started [19.11.14.0]
+2019.11.15 20:35:06.500	header load time: 259 (95852/569098)
+2019.11.15 20:35:06.500	ObjectManager found, ingame flag: 1
+2019.11.15 20:35:06.528	scan finished in 28 ms
+2019.11.15 20:35:14.239	force daf scan due to invalid containers [-1, 520, 7, 1, 1041, True]
+2019.11.15 20:35:14.251	scan started [19.11.14.0]
+2019.11.15 20:35:14.515	header load time: 263 (97936/572736)
+2019.11.15 20:35:14.515	ObjectManager found, ingame flag: 1
+2019.11.15 20:35:14.541	scan finished in 26 ms
+2019.11.15 20:35:15.383	new area: Hidden Camp
+2019.11.15 20:35:15.751	new area: New Tristram
+2019.11.15 20:36:29.977	new area: New Tristram
+2019.11.15 20:36:30.553	new area: Rift Level 01
+2019.11.15 20:38:18.459	force daf scan due to invalid containers [-1, 750, -1, 1, 1501, True]
+2019.11.15 20:38:18.477	scan started [19.11.14.0]
+2019.11.15 20:38:18.729	header load time: 251 (101717/567309)
+2019.11.15 20:38:18.729	ObjectManager found, ingame flag: 1
+2019.11.15 20:38:18.754	scan finished in 24 ms
+2019.11.15 20:38:18.755	force daf scan due to invalid containers [-1, 750, -1, 1, 1501, True]
+2019.11.15 20:38:18.761	scan started [19.11.14.0]
+2019.11.15 20:38:19.003	header load time: 242 (101710/555332)
+2019.11.15 20:38:19.003	ObjectManager found, ingame flag: 1
+2019.11.15 20:38:19.031	scan finished in 28 ms
+2019.11.15 20:38:19.032	force daf scan due to invalid containers [-1, 750, -1, 1, 1501, True]
+2019.11.15 20:38:19.038	scan started [19.11.14.0]
+2019.11.15 20:38:19.279	header load time: 240 (101710/555332)
+2019.11.15 20:38:19.279	ObjectManager found, ingame flag: 1
+2019.11.15 20:38:19.308	scan finished in 29 ms
+2019.11.15 20:38:19.309	force daf scan due to invalid containers [-1, 750, -1, 1, 1501, True]
+2019.11.15 20:38:19.315	scan started [19.11.14.0]
+2019.11.15 20:38:19.562	header load time: 247 (101710/555332)
+2019.11.15 20:38:19.562	ObjectManager found, ingame flag: 1
+2019.11.15 20:38:19.588	scan finished in 25 ms
+2019.11.15 20:38:19.589	force daf scan due to invalid containers [-1, 750, -1, 1, 1501, True]
+2019.11.15 20:38:19.602	scan started [19.11.14.0]
+2019.11.15 20:38:19.826	header load time: 223 (86049/555332)
+2019.11.15 20:38:19.827	ObjectManager candidate count: 3
+2019.11.15 20:38:19.827	can't find object manager
+2019.11.15 20:38:19.833	scan started [19.11.14.0]
+2019.11.15 20:38:20.064	header load time: 230 (85916/530837)
+2019.11.15 20:38:20.065	ObjectManager candidate count: 3
+2019.11.15 20:38:20.065	can't find object manager
+2019.11.15 20:38:20.071	scan started [19.11.14.0]
+2019.11.15 20:38:20.300	header load time: 228 (86113/532143)
+2019.11.15 20:38:20.301	ObjectManager candidate count: 4
+2019.11.15 20:38:20.301	can't find object manager
+2019.11.15 20:38:20.307	scan started [19.11.14.0]
+2019.11.15 20:38:20.587	header load time: 280 (86884/536133)
+2019.11.15 20:38:20.587	ObjectManager found, ingame flag: 0
+2019.11.15 20:38:20.607	changed: GameStateAddress
+2019.11.15 20:38:20.619	changed: RealmAddress
+2019.11.15 20:38:20.619	scan finished in 31 ms
+2019.11.15 20:38:20.646	left the game
+2019.11.15 20:39:21.781	block sanity check triggered [RealmAddress]
+2019.11.15 20:39:21.781	scan started [19.11.14.0]
+2019.11.15 20:39:22.030	header load time: 249 (82204/531794)
+2019.11.15 20:39:22.031	ObjectManager candidate count: 3
+2019.11.15 20:39:22.031	can't find object manager
+2019.11.15 20:39:22.040	scan started [19.11.14.0]
+2019.11.15 20:39:22.259	header load time: 219 (82247/532415)
+2019.11.15 20:39:22.260	ObjectManager candidate count: 3
+2019.11.15 20:39:22.260	can't find object manager
+2019.11.15 20:39:22.267	scan started [19.11.14.0]
+2019.11.15 20:39:22.515	header load time: 248 (82544/533425)
+2019.11.15 20:39:22.518	ObjectManager candidate count: 4
+2019.11.15 20:39:22.518	can't find object manager
+2019.11.15 20:39:22.524	scan started [19.11.14.0]
+2019.11.15 20:39:22.775	header load time: 251 (82598/535735)
+2019.11.15 20:39:22.775	ObjectManager found, ingame flag: 1
+2019.11.15 20:39:22.779	LevelArea candidate count: 8
+2019.11.15 20:39:22.779	can't find levelarea
+2019.11.15 20:39:22.800	changed: GameStateAddress
+2019.11.15 20:39:22.804	changed: RealmAddress
+2019.11.15 20:39:22.804	scan finished in 28 ms
+2019.11.15 20:39:22.835	force daf scan due to invalid containers [-1, -1, -1, -1, -1, True]
+2019.11.15 20:39:22.841	scan started [19.11.14.0]
+2019.11.15 20:39:23.065	header load time: 224 (84352/581499)
+2019.11.15 20:39:23.065	ObjectManager found, ingame flag: 1
+2019.11.15 20:39:23.068	LevelArea candidate count: 9
+2019.11.15 20:39:23.068	can't find levelarea
+2019.11.15 20:39:23.104	scan finished in 38 ms
+2019.11.15 20:39:23.104	force daf scan due to invalid containers [-1, -1, -1, -1, -1, True]
+2019.11.15 20:39:23.111	scan started [19.11.14.0]
+2019.11.15 20:39:23.342	header load time: 230 (90060/565616)
+2019.11.15 20:39:23.342	ObjectManager found, ingame flag: 1
+2019.11.15 20:39:23.343	LevelArea candidate count: 9
+2019.11.15 20:39:23.343	can't find levelarea
+2019.11.15 20:39:23.367	scan finished in 24 ms
+2019.11.15 20:39:23.368	force daf scan due to invalid containers [-1, -1, -1, -1, -1, True]
+2019.11.15 20:39:23.374	scan started [19.11.14.0]
+2019.11.15 20:39:23.658	header load time: 283 (95785/554843)
+2019.11.15 20:39:23.658	ObjectManager found, ingame flag: 1
+2019.11.15 20:39:23.659	LevelArea candidate count: 9
+2019.11.15 20:39:23.659	can't find levelarea
+2019.11.15 20:39:23.681	scan finished in 23 ms
+2019.11.15 20:39:26.977	force daf scan due to game jump without leaving to the menu
+2019.11.15 20:39:26.977	force daf scan due to missing LevelAreaAddress
+2019.11.15 20:39:26.978	new run: Necromancer, Hidden Camp, Difficulty: n
+2019.11.15 20:39:27.100	scan started [19.11.14.0]
+2019.11.15 20:39:27.361	header load time: 261 (96527/570061)
+2019.11.15 20:39:27.361	ObjectManager found, ingame flag: 1
+2019.11.15 20:39:27.385	scan finished in 23 ms
+2019.11.15 20:45:45.297	force daf scan due to invalid containers [-1, 522, 7, 1, 1045, True]
+2019.11.15 20:45:45.309	scan started [19.11.14.0]
+2019.11.15 20:45:45.579	header load time: 269 (106847/573497)
+2019.11.15 20:45:45.579	ObjectManager found, ingame flag: 1
+2019.11.15 20:45:45.604	scan finished in 25 ms
+2019.11.15 20:45:46.478	new area: Hidden Camp
+2019.11.15 20:45:46.859	new area: New Tristram
+2019.11.15 20:49:01.970	force daf scan due to invalid containers [-1, 522, 12, 2, 1045, True]
+2019.11.15 20:49:01.988	scan started [19.11.14.0]
+2019.11.15 20:49:02.255	header load time: 267 (110115/574377)
+2019.11.15 20:49:02.255	ObjectManager found, ingame flag: 1
+2019.11.15 20:49:02.280	scan finished in 24 ms
+2019.11.15 20:49:02.535	new area: New Tristram
+2019.11.15 20:49:03.124	new area: Rift Level 01
+2019.11.15 20:50:15.998	force daf scan due to invalid containers [-1, 522, 14, 3, 1045, True]
+2019.11.15 20:50:16.016	scan started [19.11.14.0]
+2019.11.15 20:50:16.298	header load time: 282 (112287/574616)
+2019.11.15 20:50:16.298	ObjectManager found, ingame flag: 1
+2019.11.15 20:50:16.325	scan finished in 26 ms
+2019.11.15 20:50:16.327	new area: Rift Level 01
+2019.11.15 20:50:17.205	new area: Rift Level 02
+2019.11.15 20:52:44.799	force daf scan due to invalid containers [-1, 522, 19, 4, 1045, True]
+2019.11.15 20:52:44.817	scan started [19.11.14.0]
+2019.11.15 20:52:45.105	header load time: 288 (117171/574765)
+2019.11.15 20:52:45.105	ObjectManager found, ingame flag: 1
+2019.11.15 20:52:45.131	scan finished in 26 ms
+2019.11.15 20:52:45.133	new area: Rift Level 02
+2019.11.15 20:52:45.882	new area: Rift Level 03
+2019.11.15 20:53:37.257	new area: New Tristram
+2019.11.15 20:55:32.807	force daf scan due to invalid containers [-1, 719, 19, 4, 1439, True]
+2019.11.15 20:55:32.825	scan started [19.11.14.0]
+2019.11.15 20:55:33.104	header load time: 279 (120801/574888)
+2019.11.15 20:55:33.104	ObjectManager found, ingame flag: 1
+2019.11.15 20:55:33.129	scan finished in 24 ms
+2019.11.15 20:55:33.996	new area: New Tristram
+2019.11.15 20:55:34.347	new area: Rift Level 01
+2019.11.15 20:57:35.936	new area: Rift Level 02
+2019.11.15 20:59:22.739	force daf scan due to invalid containers [-1, 767, 18, 4, 1535, True]
+2019.11.15 20:59:22.756	scan started [19.11.14.0]
+2019.11.15 20:59:23.051	header load time: 295 (128805/575037)
+2019.11.15 20:59:23.051	ObjectManager found, ingame flag: 1
+2019.11.15 20:59:23.079	scan finished in 28 ms
+2019.11.15 20:59:23.082	new area: Rift Level 02
+2019.11.15 20:59:23.388	new area: New Tristram
+2019.11.15 20:59:28.444	force daf scan due to invalid containers [-1, 767, 19, 4, 1535, True]
+2019.11.15 20:59:28.462	scan started [19.11.14.0]
+2019.11.15 20:59:28.754	header load time: 292 (129115/574978)
+2019.11.15 20:59:28.755	ObjectManager found, ingame flag: 1
+2019.11.15 20:59:28.789	scan finished in 34 ms
+2019.11.15 20:59:29.402	new area: New Tristram
+2019.11.15 20:59:29.563	new area: The Old Ruins
+2019.11.15 20:59:31.831	new area: New Tristram
+2019.11.15 20:59:34.050	force daf scan due to invalid containers [-1, 767, 19, 4, 1535, True]
+2019.11.15 20:59:34.068	scan started [19.11.14.0]
+2019.11.15 20:59:34.371	header load time: 303 (130826/575072)
+2019.11.15 20:59:34.371	ObjectManager found, ingame flag: 1
+2019.11.15 20:59:34.397	scan finished in 25 ms
+2019.11.15 20:59:34.400	new area: The Weeping Hollow
+2019.11.15 20:59:37.227	force daf scan due to invalid containers [-1, 767, 18, 5, 1535, True]
+2019.11.15 20:59:37.245	scan started [19.11.14.0]
+2019.11.15 20:59:37.591	header load time: 345 (131911/575037)
+2019.11.15 20:59:37.591	ObjectManager found, ingame flag: 1
+2019.11.15 20:59:37.620	scan finished in 29 ms
+2019.11.15 20:59:38.066	new area: The Weeping Hollow
+2019.11.15 20:59:38.138	new area: The Royal Crypts
+2019.11.15 20:59:42.173	new area: The Royal Crypts
+2019.11.15 20:59:42.323	new area: Leoric's Manor Courtyard
+2019.11.15 20:59:53.255	new area: Leoric's Manor Courtyard
+2019.11.15 20:59:53.843	new area: Halls of Agony Level 1
+2019.11.15 20:59:55.860	force daf scan due to invalid containers [-1, 767, 17, 6, 1535, True]
+2019.11.15 20:59:55.878	scan started [19.11.14.0]
+2019.11.15 20:59:56.207	header load time: 329 (138320/575089)
+2019.11.15 20:59:56.207	ObjectManager found, ingame flag: 1
+2019.11.15 20:59:56.233	scan finished in 25 ms
+2019.11.15 20:59:56.236	new area: Halls of Agony Level 1
+2019.11.15 20:59:56.780	new area: New Tristram
+2019.11.15 21:05:50.224	force daf scan due to invalid containers [-1, 770, -1, 6, 1541, True]
+2019.11.15 21:05:50.242	scan started [19.11.14.0]
+2019.11.15 21:05:50.543	header load time: 300 (123854/573233)
+2019.11.15 21:05:50.543	ObjectManager found, ingame flag: 1
+2019.11.15 21:05:50.568	scan finished in 24 ms
+2019.11.15 21:05:50.569	force daf scan due to invalid containers [-1, 770, -1, 6, 1541, True]
+2019.11.15 21:05:50.575	scan started [19.11.14.0]
+2019.11.15 21:05:50.856	header load time: 280 (120950/556208)
+2019.11.15 21:05:50.856	ObjectManager found, ingame flag: 1
+2019.11.15 21:05:50.880	scan finished in 24 ms
+2019.11.15 21:05:50.881	force daf scan due to invalid containers [-1, 770, -1, 6, 1541, True]
+2019.11.15 21:05:50.888	scan started [19.11.14.0]
+2019.11.15 21:05:51.169	header load time: 281 (120950/556208)
+2019.11.15 21:05:51.170	ObjectManager found, ingame flag: 1
+2019.11.15 21:05:51.193	scan finished in 23 ms
+2019.11.15 21:05:51.194	force daf scan due to invalid containers [-1, 770, -1, 6, 1541, True]
+2019.11.15 21:05:51.200	scan started [19.11.14.0]
+2019.11.15 21:05:51.526	header load time: 326 (120950/556208)
+2019.11.15 21:05:51.527	ObjectManager found, ingame flag: 1
+2019.11.15 21:05:51.551	scan finished in 24 ms
+2019.11.15 21:05:51.552	force daf scan due to invalid containers [-1, 770, -1, 6, 1541, True]
+2019.11.15 21:05:51.558	scan started [19.11.14.0]
+2019.11.15 21:05:51.832	header load time: 274 (104185/537280)
+2019.11.15 21:05:51.834	ObjectManager candidate count: 3
+2019.11.15 21:05:51.834	can't find object manager
+2019.11.15 21:05:51.841	scan started [19.11.14.0]
+2019.11.15 21:05:52.099	header load time: 257 (104087/531918)
+2019.11.15 21:05:52.100	ObjectManager candidate count: 3
+2019.11.15 21:05:52.100	can't find object manager
+2019.11.15 21:05:52.105	scan started [19.11.14.0]
+2019.11.15 21:05:52.374	header load time: 268 (104409/534035)
+2019.11.15 21:05:52.376	ObjectManager candidate count: 4
+2019.11.15 21:05:52.376	can't find object manager
+2019.11.15 21:05:52.382	scan started [19.11.14.0]
+2019.11.15 21:05:52.668	header load time: 286 (106864/567437)
+2019.11.15 21:05:52.668	ObjectManager found, ingame flag: 0
+2019.11.15 21:05:52.688	changed: GameStateAddress
+2019.11.15 21:05:52.691	changed: RealmAddress
+2019.11.15 21:05:52.691	scan finished in 22 ms
+2019.11.15 21:05:52.721	left the game
+2019.11.15 21:31:36.689	block sanity check triggered [RealmAddress]
+2019.11.15 21:31:36.689	scan started [19.11.14.0]
+2019.11.15 21:31:36.997	header load time: 307 (113733/556132)
+2019.11.15 21:31:36.998	ObjectManager candidate count: 3
+2019.11.15 21:31:36.998	can't find object manager
+2019.11.15 21:31:37.005	scan started [19.11.14.0]
+2019.11.15 21:31:37.287	header load time: 282 (113840/556823)
+2019.11.15 21:31:37.289	ObjectManager candidate count: 4
+2019.11.15 21:31:37.289	can't find object manager
+2019.11.15 21:31:37.295	scan started [19.11.14.0]
+2019.11.15 21:31:37.586	header load time: 291 (114116/559371)
+2019.11.15 21:31:37.586	ObjectManager found, ingame flag: 1
+2019.11.15 21:31:37.589	LevelArea candidate count: 8
+2019.11.15 21:31:37.589	can't find levelarea
+2019.11.15 21:31:37.590	'acd' container candidate count: 622, struct size: 1000
+2019.11.15 21:31:37.592	first data block size: 24576 * allocated block count: 9 = allocated size: 221184, container capacity: 9216, expected size: 9216000
+2019.11.15 21:31:37.592	first data block size: 12288 * allocated block count: 9 = allocated size: 110592, container capacity: 4608, expected size: 4608000
+2019.11.15 21:31:37.592	first data block size: 4956160 * allocated block count: 1 = allocated size: 4956160, container capacity: 1024, expected size: 1024000
+2019.11.15 21:31:37.593	can't find 'acd' container
+2019.11.15 21:31:37.599	scan started [19.11.14.0]
+2019.11.15 21:31:37.903	header load time: 303 (114959/563650)
+2019.11.15 21:31:37.903	ObjectManager found, ingame flag: 1
+2019.11.15 21:31:37.904	LevelArea candidate count: 9
+2019.11.15 21:31:37.904	can't find levelarea
+2019.11.15 21:31:37.926	changed: GameStateAddress
+2019.11.15 21:31:37.931	changed: RealmAddress
+2019.11.15 21:31:37.931	scan finished in 28 ms
+2019.11.15 21:31:37.963	force daf scan due to invalid containers [-1, -1, -1, -1, -1, True]
+2019.11.15 21:31:37.970	scan started [19.11.14.0]
+2019.11.15 21:31:38.296	header load time: 326 (121961/588021)
+2019.11.15 21:31:38.296	ObjectManager found, ingame flag: 1
+2019.11.15 21:31:38.298	LevelArea candidate count: 8
+2019.11.15 21:31:38.298	can't find levelarea
+2019.11.15 21:31:38.299	can't find player data manager. candidate count: 1
+2019.11.15 21:31:38.308	scan started [19.11.14.0]
+2019.11.15 21:31:38.611	header load time: 303 (125809/578714)
+2019.11.15 21:31:38.611	ObjectManager found, ingame flag: 1
+2019.11.15 21:31:38.634	scan finished in 22 ms
+2019.11.15 21:31:43.079	force daf scan due to game jump without leaving to the menu
+2019.11.15 21:31:43.079	new run: Necromancer, Bastion's Keep Stronghold, Difficulty: t16
+2019.11.15 21:31:43.203	scan started [19.11.14.0]
+2019.11.15 21:31:43.497	header load time: 294 (112907/583620)
+2019.11.15 21:31:43.497	ObjectManager found, ingame flag: 1
+2019.11.15 21:31:43.526	scan finished in 29 ms
+2019.11.15 21:31:49.084	force daf scan due to invalid containers [-1, 475, 8, 1, 951, True]
+2019.11.15 21:31:49.102	scan started [19.11.14.0]
+2019.11.15 21:31:49.398	header load time: 296 (115720/583673)
+2019.11.15 21:31:49.398	ObjectManager found, ingame flag: 1
+2019.11.15 21:31:49.422	scan finished in 23 ms
+2019.11.15 21:31:50.312	new area: Bastion's Keep Stronghold
+2019.11.15 21:31:50.442	new area: New Tristram
+2019.11.15 21:32:12.090	force daf scan due to invalid containers [-1, 534, -1, 0, 1069, True]
+2019.11.15 21:32:12.108	scan started [19.11.14.0]
+2019.11.15 21:32:12.377	header load time: 269 (113046/579450)
+2019.11.15 21:32:12.377	ObjectManager found, ingame flag: 1
+2019.11.15 21:32:12.400	scan finished in 22 ms
+2019.11.15 21:32:12.401	force daf scan due to invalid containers [-1, 534, -1, 0, 1069, True]
+2019.11.15 21:32:12.406	scan started [19.11.14.0]
+2019.11.15 21:32:12.695	header load time: 288 (112731/575253)
+2019.11.15 21:32:12.695	ObjectManager found, ingame flag: 1
+2019.11.15 21:32:12.718	scan finished in 23 ms
+2019.11.15 21:32:12.719	force daf scan due to invalid containers [-1, 534, -1, 0, 1069, True]
+2019.11.15 21:32:12.728	scan started [19.11.14.0]
+2019.11.15 21:32:13.009	header load time: 280 (112731/575253)
+2019.11.15 21:32:13.009	ObjectManager found, ingame flag: 1
+2019.11.15 21:32:13.031	scan finished in 22 ms
+2019.11.15 21:32:13.032	force daf scan due to invalid containers [-1, 534, -1, 0, 1069, True]
+2019.11.15 21:32:13.038	scan started [19.11.14.0]
+2019.11.15 21:32:13.302	header load time: 264 (112731/575253)
+2019.11.15 21:32:13.302	ObjectManager found, ingame flag: 1
+2019.11.15 21:32:13.325	scan finished in 22 ms
+2019.11.15 21:32:13.325	force daf scan due to invalid containers [-1, 534, -1, 0, 1069, True]
+2019.11.15 21:32:13.331	scan started [19.11.14.0]
+2019.11.15 21:32:13.595	header load time: 263 (94214/551405)
+2019.11.15 21:32:13.596	ObjectManager candidate count: 3
+2019.11.15 21:32:13.596	can't find object manager
+2019.11.15 21:32:13.602	scan started [19.11.14.0]
+2019.11.15 21:32:13.878	header load time: 276 (94249/551658)
+2019.11.15 21:32:13.879	ObjectManager candidate count: 3
+2019.11.15 21:32:13.879	can't find object manager
+2019.11.15 21:32:13.885	scan started [19.11.14.0]
+2019.11.15 21:32:14.141	header load time: 255 (94820/554408)
+2019.11.15 21:32:14.142	ObjectManager candidate count: 4
+2019.11.15 21:32:14.142	can't find object manager
+2019.11.15 21:32:14.148	scan started [19.11.14.0]
+2019.11.15 21:32:14.405	header load time: 257 (98056/580277)
+2019.11.15 21:32:14.405	ObjectManager found, ingame flag: 0
+2019.11.15 21:32:14.426	changed: GameStateAddress
+2019.11.15 21:32:14.431	changed: RealmAddress
+2019.11.15 21:32:14.431	scan finished in 26 ms
+2019.11.15 21:32:14.458	left the game
+2019.11.15 21:32:38.240	block sanity check triggered [RealmAddress]
+2019.11.15 21:32:38.240	scan started [19.11.14.0]
+2019.11.15 21:32:38.508	header load time: 267 (87503/550844)
+2019.11.15 21:32:38.509	ObjectManager candidate count: 3
+2019.11.15 21:32:38.509	can't find object manager
+2019.11.15 21:32:38.515	scan started [19.11.14.0]
+2019.11.15 21:32:38.758	header load time: 242 (87574/551570)
+2019.11.15 21:32:38.759	ObjectManager candidate count: 3
+2019.11.15 21:32:38.759	can't find object manager
+2019.11.15 21:32:38.765	scan started [19.11.14.0]
+2019.11.15 21:32:39.019	header load time: 253 (87886/553072)
+2019.11.15 21:32:39.020	ObjectManager candidate count: 4
+2019.11.15 21:32:39.020	can't find object manager
+2019.11.15 21:32:39.028	scan started [19.11.14.0]
+2019.11.15 21:32:39.293	header load time: 264 (87902/554783)
+2019.11.15 21:32:39.293	ObjectManager found, ingame flag: 1
+2019.11.15 21:32:39.294	LevelArea candidate count: 8
+2019.11.15 21:32:39.294	can't find levelarea
+2019.11.15 21:32:39.314	changed: GameStateAddress
+2019.11.15 21:32:39.317	changed: RealmAddress
+2019.11.15 21:32:39.317	scan finished in 24 ms
+2019.11.15 21:32:39.342	force daf scan due to invalid containers [-1, -1, -1, -1, -1, True]
+2019.11.15 21:32:39.348	scan started [19.11.14.0]
+2019.11.15 21:32:39.609	header load time: 260 (91313/598493)
+2019.11.15 21:32:39.610	ObjectManager found, ingame flag: 1
+2019.11.15 21:32:39.611	LevelArea candidate count: 9
+2019.11.15 21:32:39.611	can't find levelarea
+2019.11.15 21:32:39.640	scan finished in 30 ms
+2019.11.15 21:32:39.640	force daf scan due to invalid containers [-1, -1, -1, -1, -1, True]
+2019.11.15 21:32:39.646	scan started [19.11.14.0]
+2019.11.15 21:32:39.899	header load time: 252 (97990/582690)
+2019.11.15 21:32:39.899	ObjectManager found, ingame flag: 1
+2019.11.15 21:32:39.903	LevelArea candidate count: 8
+2019.11.15 21:32:39.903	can't find levelarea
+2019.11.15 21:32:39.904	can't find player data manager. candidate count: 1
+2019.11.15 21:32:39.910	scan started [19.11.14.0]
+2019.11.15 21:32:40.181	header load time: 271 (101157/577680)
+2019.11.15 21:32:40.182	ObjectManager found, ingame flag: 1
+2019.11.15 21:32:40.205	scan finished in 23 ms
+2019.11.15 21:32:43.516	force daf scan due to game jump without leaving to the menu
+2019.11.15 21:32:43.517	new run: Necromancer, Bastion's Keep Stronghold, Difficulty: t16
+2019.11.15 21:32:43.644	scan started [19.11.14.0]
+2019.11.15 21:32:43.944	header load time: 299 (107911/582834)
+2019.11.15 21:32:43.944	ObjectManager found, ingame flag: 1
+2019.11.15 21:32:43.979	scan finished in 34 ms
+2019.11.15 21:32:56.787	force daf scan due to invalid containers [-1, 478, 8, 1, 957, True]
+2019.11.15 21:32:56.804	scan started [19.11.14.0]
+2019.11.15 21:32:57.096	header load time: 292 (116987/582864)
+2019.11.15 21:32:57.097	ObjectManager found, ingame flag: 1
+2019.11.15 21:32:57.126	scan finished in 29 ms
+2019.11.15 21:32:58.002	new area: Bastion's Keep Stronghold
+2019.11.15 21:32:58.118	new area: New Tristram
+2019.11.15 21:36:03.576	new area: New Tristram
+2019.11.15 21:36:04.007	new area: Rift Level 01
+2019.11.15 21:37:16.483	force daf scan due to invalid containers [-1, 517, 14, 3, 1035, True]
+2019.11.15 21:37:16.495	scan started [19.11.14.0]
+2019.11.15 21:37:16.808	header load time: 312 (134866/583163)
+2019.11.15 21:37:16.808	ObjectManager found, ingame flag: 1
+2019.11.15 21:37:16.833	scan finished in 25 ms
+2019.11.15 21:37:16.835	new area: Rift Level 01
+2019.11.15 21:37:17.512	new area: Rift Level 02
+2019.11.15 21:40:35.572	new area: New Tristram
+2019.11.15 21:41:26.550	new area: New Tristram
+2019.11.15 21:41:26.816	new area: Rift Level 01
+2019.11.15 21:42:59.321	new area: Rift Level 01
+2019.11.15 21:42:59.762	new area: Rift Level 02
+2019.11.15 21:44:25.941	new area: New Tristram
+2019.11.15 21:44:37.090	force daf scan due to invalid containers [-1, 588, 23, 4, 1177, True]
+2019.11.15 21:44:37.107	scan started [19.11.14.0]
+2019.11.15 21:44:37.439	header load time: 331 (150892/583436)
+2019.11.15 21:44:37.439	ObjectManager found, ingame flag: 1
+2019.11.15 21:44:37.465	scan finished in 25 ms
+2019.11.15 21:44:37.477	new area: New Tristram
+2019.11.15 21:44:37.965	new area: Rift Level 01
+2019.11.15 21:46:07.158	new area: Rift Level 01
+2019.11.15 21:46:07.906	new area: Rift Level 02
+2019.11.15 21:48:21.824	new area: New Tristram
+2019.11.15 21:49:30.892	force daf scan due to invalid containers [-1, 746, -1, 0, 1493, True]
+2019.11.15 21:49:30.904	scan started [19.11.14.0]
+2019.11.15 21:49:31.222	header load time: 318 (132224/581442)
+2019.11.15 21:49:31.222	ObjectManager found, ingame flag: 1
+2019.11.15 21:49:31.246	scan finished in 23 ms
+2019.11.15 21:49:31.247	force daf scan due to invalid containers [-1, 746, -1, 0, 1493, True]
+2019.11.15 21:49:31.255	scan started [19.11.14.0]
+2019.11.15 21:49:31.549	header load time: 293 (131317/573428)
+2019.11.15 21:49:31.549	ObjectManager found, ingame flag: 1
+2019.11.15 21:49:31.572	scan finished in 23 ms
+2019.11.15 21:49:31.573	force daf scan due to invalid containers [-1, 746, -1, 0, 1493, True]
+2019.11.15 21:49:31.580	scan started [19.11.14.0]
+2019.11.15 21:49:31.869	header load time: 289 (131317/573428)
+2019.11.15 21:49:31.869	ObjectManager found, ingame flag: 1
+2019.11.15 21:49:31.893	scan finished in 23 ms
+2019.11.15 21:49:31.894	force daf scan due to invalid containers [-1, 746, -1, 0, 1493, True]
+2019.11.15 21:49:31.900	scan started [19.11.14.0]
+2019.11.15 21:49:32.191	header load time: 290 (128934/573428)
+2019.11.15 21:49:32.191	ObjectManager found, ingame flag: 1
+2019.11.15 21:49:32.193	LevelArea candidate count: 6
+2019.11.15 21:49:32.193	can't find levelarea
+2019.11.15 21:49:32.219	scan finished in 28 ms
+2019.11.15 21:49:32.219	force daf scan due to invalid containers [-1, -1, -1, 0, -1, True]
+2019.11.15 21:49:32.225	scan started [19.11.14.0]
+2019.11.15 21:49:32.509	header load time: 283 (107526/549450)
+2019.11.15 21:49:32.510	ObjectManager candidate count: 3
+2019.11.15 21:49:32.510	can't find object manager
+2019.11.15 21:49:32.517	scan started [19.11.14.0]
+2019.11.15 21:49:32.794	header load time: 277 (107509/550366)
+2019.11.15 21:49:32.796	ObjectManager candidate count: 3
+2019.11.15 21:49:32.796	can't find object manager
+2019.11.15 21:49:32.801	scan started [19.11.14.0]
+2019.11.15 21:49:33.121	header load time: 319 (109375/552980)
+2019.11.15 21:49:33.121	ObjectManager found, ingame flag: 0
+2019.11.15 21:49:33.121	'acd' container candidate count: 573, struct size: 1000
+2019.11.15 21:49:33.121	first data block size: 24576 * allocated block count: 9 = allocated size: 221184, container capacity: 9216, expected size: 9216000
+2019.11.15 21:49:33.121	first data block size: 12288 * allocated block count: 9 = allocated size: 110592, container capacity: 4608, expected size: 4608000
+2019.11.15 21:49:33.121	first data block size: 4956160 * allocated block count: 1 = allocated size: 4956160, container capacity: 1024, expected size: 1024000
+2019.11.15 21:49:33.121	first data block size: 46080 * allocated block count: 1 = allocated size: 46080, container capacity: 128, expected size: 128000
+2019.11.15 21:49:33.121	first data block size: 1359872 * allocated block count: 1 = allocated size: 1359872, container capacity: 1024, expected size: 1024000
+2019.11.15 21:49:33.121	first data block size: 688128 * allocated block count: 1 = allocated size: 688128, container capacity: 4096, expected size: 4096000
+2019.11.15 21:49:33.121	first data block size: 2916352 * allocated block count: 1 = allocated size: 2916352, container capacity: 4096, expected size: 4096000
+2019.11.15 21:49:33.121	first data block size: 0 * allocated block count: 1 = allocated size: 0, container capacity: 512, expected size: 512000
+2019.11.15 21:49:33.121	can't find 'acd' container
+2019.11.15 21:49:33.127	scan started [19.11.14.0]
+2019.11.15 21:49:33.431	header load time: 303 (112087/577370)
+2019.11.15 21:49:33.431	ObjectManager found, ingame flag: 0
+2019.11.15 21:49:33.452	changed: GameStateAddress
+2019.11.15 21:49:33.457	changed: RealmAddress
+2019.11.15 21:49:33.457	scan finished in 26 ms
+2019.11.15 21:49:33.489	left the game
+2019.11.15 21:49:58.674	block sanity check triggered [RealmAddress]
+2019.11.15 21:49:58.674	scan started [19.11.14.0]
+2019.11.15 21:49:58.941	header load time: 266 (102481/550049)
+2019.11.15 21:49:58.942	ObjectManager candidate count: 3
+2019.11.15 21:49:58.942	can't find object manager
+2019.11.15 21:49:58.949	scan started [19.11.14.0]
+2019.11.15 21:49:59.241	header load time: 292 (102566/550369)
+2019.11.15 21:49:59.242	ObjectManager candidate count: 3
+2019.11.15 21:49:59.242	can't find object manager
+2019.11.15 21:49:59.248	scan started [19.11.14.0]
+2019.11.15 21:49:59.534	header load time: 286 (102867/553126)
+2019.11.15 21:49:59.536	ObjectManager candidate count: 4
+2019.11.15 21:49:59.536	can't find object manager
+2019.11.15 21:49:59.542	scan started [19.11.14.0]
+2019.11.15 21:49:59.820	header load time: 277 (102591/553901)
+2019.11.15 21:49:59.820	ObjectManager found, ingame flag: 1
+2019.11.15 21:49:59.821	LevelArea candidate count: 9
+2019.11.15 21:49:59.821	can't find levelarea
+2019.11.15 21:49:59.841	changed: GameStateAddress
+2019.11.15 21:49:59.847	changed: RealmAddress
+2019.11.15 21:49:59.847	scan finished in 27 ms
+2019.11.15 21:49:59.876	force daf scan due to invalid containers [-1, -1, -1, -1, -1, True]
+2019.11.15 21:49:59.884	scan started [19.11.14.0]
+2019.11.15 21:50:00.169	header load time: 284 (103239/590597)
+2019.11.15 21:50:00.169	ObjectManager found, ingame flag: 1
+2019.11.15 21:50:00.170	LevelArea candidate count: 9
+2019.11.15 21:50:00.170	can't find levelarea
+2019.11.15 21:50:00.201	scan finished in 32 ms
+2019.11.15 21:50:00.202	force daf scan due to invalid containers [-1, -1, -1, -1, -1, True]
+2019.11.15 21:50:00.208	scan started [19.11.14.0]
+2019.11.15 21:50:00.498	header load time: 289 (109529/570736)
+2019.11.15 21:50:00.498	ObjectManager found, ingame flag: 1
+2019.11.15 21:50:00.501	LevelArea candidate count: 8
+2019.11.15 21:50:00.501	can't find levelarea
+2019.11.15 21:50:00.529	scan finished in 31 ms
+2019.11.15 21:50:03.998	force daf scan due to game jump without leaving to the menu
+2019.11.15 21:50:03.998	force daf scan due to missing LevelAreaAddress
+2019.11.15 21:50:03.998	new run: Monk, Bastion's Keep Stronghold, Difficulty: t16
+2019.11.15 21:50:04.107	scan started [19.11.14.0]
+2019.11.15 21:50:04.400	header load time: 292 (117078/582527)
+2019.11.15 21:50:04.400	ObjectManager found, ingame flag: 1
+2019.11.15 21:50:04.427	scan finished in 27 ms
+2019.11.15 22:05:41.640	force daf scan due to invalid containers [-1, 458, 8, 1, 917, True]
+2019.11.15 22:05:41.657	scan started [19.11.14.0]
+2019.11.15 22:05:41.972	header load time: 314 (135185/582706)
+2019.11.15 22:05:41.972	ObjectManager found, ingame flag: 1
+2019.11.15 22:05:42.000	scan finished in 27 ms
+2019.11.15 22:05:42.637	new area: Bastion's Keep Stronghold
+2019.11.15 22:05:42.943	new area: New Tristram
+2019.11.15 22:12:10.864	force daf scan due to invalid containers [-1, 458, 14, 2, 917, True]
+2019.11.15 22:12:10.882	scan started [19.11.14.0]
+2019.11.15 22:12:11.188	header load time: 305 (142136/583008)
+2019.11.15 22:12:11.188	ObjectManager found, ingame flag: 1
+2019.11.15 22:12:11.214	scan finished in 25 ms
+2019.11.15 22:12:11.523	new area: New Tristram
+2019.11.15 22:12:12.104	new area: Rift Level 01
+2019.11.15 22:14:51.959	new area: Rift Level 01
+2019.11.15 22:15:04.923	force daf scan due to invalid containers [-1, 539, -1, 1, 1079, True]
+2019.11.15 22:15:04.941	scan started [19.11.14.0]
+2019.11.15 22:15:05.243	header load time: 301 (132404/580539)
+2019.11.15 22:15:05.243	ObjectManager found, ingame flag: 1
+2019.11.15 22:15:05.267	scan finished in 23 ms
+2019.11.15 22:15:05.268	force daf scan due to invalid containers [-1, 539, -1, 1, 1079, True]
+2019.11.15 22:15:05.274	scan started [19.11.14.0]
+2019.11.15 22:15:05.565	header load time: 291 (132243/573217)
+2019.11.15 22:15:05.565	ObjectManager found, ingame flag: 1
+2019.11.15 22:15:05.590	scan finished in 24 ms
+2019.11.15 22:15:05.591	force daf scan due to invalid containers [-1, 539, -1, 1, 1079, True]
+2019.11.15 22:15:05.597	scan started [19.11.14.0]
+2019.11.15 22:15:05.920	header load time: 323 (132243/573217)
+2019.11.15 22:15:05.920	ObjectManager found, ingame flag: 1
+2019.11.15 22:15:05.945	scan finished in 24 ms
+2019.11.15 22:15:05.946	force daf scan due to invalid containers [-1, 539, -1, 1, 1079, True]
+2019.11.15 22:15:05.952	scan started [19.11.14.0]
+2019.11.15 22:15:06.250	header load time: 297 (125805/573217)
+2019.11.15 22:15:06.251	ObjectManager candidate count: 3
+2019.11.15 22:15:06.251	can't find object manager
+2019.11.15 22:15:06.259	scan started [19.11.14.0]
+2019.11.15 22:15:06.549	header load time: 289 (113423/549455)
+2019.11.15 22:15:06.550	ObjectManager candidate count: 3
+2019.11.15 22:15:06.550	can't find object manager
+2019.11.15 22:15:06.556	scan started [19.11.14.0]
+2019.11.15 22:15:06.850	header load time: 293 (113687/549842)
+2019.11.15 22:15:06.852	ObjectManager candidate count: 4
+2019.11.15 22:15:06.852	can't find object manager
+2019.11.15 22:15:06.858	scan started [19.11.14.0]
+2019.11.15 22:15:07.129	header load time: 271 (115611/583252)
+2019.11.15 22:15:07.129	ObjectManager found, ingame flag: 0
+2019.11.15 22:15:07.150	changed: GameStateAddress
+2019.11.15 22:15:07.150	changed: RealmAddress
+2019.11.15 22:15:07.150	scan finished in 20 ms
+2019.11.15 22:15:07.183	left the game
+2019.11.15 22:15:57.677	block sanity check triggered [RealmAddress]
+2019.11.15 22:15:57.677	scan started [19.11.14.0]
+2019.11.15 22:15:57.960	header load time: 282 (104424/550535)
+2019.11.15 22:15:57.962	ObjectManager candidate count: 3
+2019.11.15 22:15:57.962	can't find object manager
+2019.11.15 22:15:57.968	scan started [19.11.14.0]
+2019.11.15 22:15:58.237	header load time: 269 (104496/551297)
+2019.11.15 22:15:58.238	ObjectManager candidate count: 3
+2019.11.15 22:15:58.238	can't find object manager
+2019.11.15 22:15:58.245	scan started [19.11.14.0]
+2019.11.15 22:15:58.557	header load time: 312 (104811/553474)
+2019.11.15 22:15:58.559	ObjectManager candidate count: 4
+2019.11.15 22:15:58.559	can't find object manager
+2019.11.15 22:15:58.568	scan started [19.11.14.0]
+2019.11.15 22:15:58.848	header load time: 279 (104893/554333)
+2019.11.15 22:15:58.848	ObjectManager found, ingame flag: 1
+2019.11.15 22:15:58.849	LevelArea candidate count: 9
+2019.11.15 22:15:58.849	can't find levelarea
+2019.11.15 22:15:58.870	changed: GameStateAddress
+2019.11.15 22:15:58.876	changed: RealmAddress
+2019.11.15 22:15:58.876	scan finished in 28 ms
+2019.11.15 22:15:58.903	force daf scan due to invalid containers [-1, -1, -1, -1, -1, True]
+2019.11.15 22:15:58.908	scan started [19.11.14.0]
+2019.11.15 22:15:59.178	header load time: 269 (108756/591622)
+2019.11.15 22:15:59.178	ObjectManager found, ingame flag: 1
+2019.11.15 22:15:59.179	LevelArea candidate count: 9
+2019.11.15 22:15:59.179	can't find levelarea
+2019.11.15 22:15:59.202	scan finished in 24 ms
+2019.11.15 22:15:59.203	force daf scan due to invalid containers [-1, -1, -1, -1, -1, True]
+2019.11.15 22:15:59.209	scan started [19.11.14.0]
+2019.11.15 22:15:59.518	header load time: 309 (115282/570962)
+2019.11.15 22:15:59.518	ObjectManager found, ingame flag: 1
+2019.11.15 22:15:59.520	LevelArea candidate count: 8
+2019.11.15 22:15:59.520	can't find levelarea
+2019.11.15 22:15:59.546	scan finished in 27 ms
+2019.11.15 22:16:03.277	force daf scan due to game jump without leaving to the menu
+2019.11.15 22:16:03.277	force daf scan due to missing LevelAreaAddress
+2019.11.15 22:16:03.277	new run: Barbarian, New Tristram, Difficulty: t13
+2019.11.15 22:16:03.394	scan started [19.11.14.0]
+2019.11.15 22:16:03.706	header load time: 311 (122890/582711)
+2019.11.15 22:16:03.706	ObjectManager found, ingame flag: 1
+2019.11.15 22:16:03.734	scan finished in 28 ms
+2019.11.15 22:16:31.493	force daf scan due to invalid containers [-1, 530, -1, -1, 1061, True]
+2019.11.15 22:16:31.511	scan started [19.11.14.0]
+2019.11.15 22:16:31.807	header load time: 296 (123119/579952)
+2019.11.15 22:16:31.808	ObjectManager found, ingame flag: 1
+2019.11.15 22:16:31.830	scan finished in 22 ms
+2019.11.15 22:16:31.831	force daf scan due to invalid containers [-1, 530, -1, -1, 1061, True]
+2019.11.15 22:16:31.837	scan started [19.11.14.0]
+2019.11.15 22:16:32.136	header load time: 299 (123104/573955)
+2019.11.15 22:16:32.136	ObjectManager found, ingame flag: 1
+2019.11.15 22:16:32.158	scan finished in 22 ms
+2019.11.15 22:16:32.159	force daf scan due to invalid containers [-1, 530, -1, -1, 1061, True]
+2019.11.15 22:16:32.165	scan started [19.11.14.0]
+2019.11.15 22:16:32.452	header load time: 286 (123104/573955)
+2019.11.15 22:16:32.452	ObjectManager found, ingame flag: 1
+2019.11.15 22:16:32.474	scan finished in 22 ms
+2019.11.15 22:16:32.475	force daf scan due to invalid containers [-1, 530, -1, -1, 1061, True]
+2019.11.15 22:16:32.481	scan started [19.11.14.0]
+2019.11.15 22:16:32.754	header load time: 272 (119195/573955)
+2019.11.15 22:16:32.754	ObjectManager found, ingame flag: 1
+2019.11.15 22:16:32.755	LevelArea candidate count: 5
+2019.11.15 22:16:32.756	can't find levelarea
+2019.11.15 22:16:32.763	can't find acd manager
+2019.11.15 22:16:32.771	scan started [19.11.14.0]
+2019.11.15 22:16:33.047	header load time: 275 (107009/550123)
+2019.11.15 22:16:33.049	ObjectManager candidate count: 3
+2019.11.15 22:16:33.049	can't find object manager
+2019.11.15 22:16:33.055	scan started [19.11.14.0]
+2019.11.15 22:16:33.356	header load time: 301 (107171/550955)
+2019.11.15 22:16:33.358	ObjectManager candidate count: 4
+2019.11.15 22:16:33.358	can't find object manager
+2019.11.15 22:16:33.364	scan started [19.11.14.0]
+2019.11.15 22:16:33.644	header load time: 279 (108624/558684)
+2019.11.15 22:16:33.644	ObjectManager found, ingame flag: 0
+2019.11.15 22:16:33.664	changed: GameStateAddress
+2019.11.15 22:16:33.668	changed: RealmAddress
+2019.11.15 22:16:33.668	scan finished in 23 ms
+2019.11.15 22:16:33.693	left the game
+2019.11.15 22:16:47.473	block sanity check triggered [RealmAddress]
+2019.11.15 22:16:47.473	scan started [19.11.14.0]
+2019.11.15 22:16:47.753	header load time: 279 (103446/550709)
+2019.11.15 22:16:47.754	ObjectManager candidate count: 3
+2019.11.15 22:16:47.754	can't find object manager
+2019.11.15 22:16:47.760	scan started [19.11.14.0]
+2019.11.15 22:16:48.046	header load time: 285 (103547/551470)
+2019.11.15 22:16:48.047	ObjectManager candidate count: 4
+2019.11.15 22:16:48.047	can't find object manager
+2019.11.15 22:16:48.053	scan started [19.11.14.0]
+2019.11.15 22:16:48.322	header load time: 269 (103829/553940)
+2019.11.15 22:16:48.325	ObjectManager candidate count: 4
+2019.11.15 22:16:48.325	can't find object manager
+2019.11.15 22:16:48.331	scan started [19.11.14.0]
+2019.11.15 22:16:48.617	header load time: 285 (103668/554323)
+2019.11.15 22:16:48.617	ObjectManager found, ingame flag: 1
+2019.11.15 22:16:48.618	LevelArea candidate count: 9
+2019.11.15 22:16:48.618	can't find levelarea
+2019.11.15 22:16:48.639	changed: GameStateAddress
+2019.11.15 22:16:48.642	changed: RealmAddress
+2019.11.15 22:16:48.642	scan finished in 25 ms
+2019.11.15 22:16:48.667	force daf scan due to invalid containers [-1, -1, -1, -1, -1, True]
+2019.11.15 22:16:48.673	scan started [19.11.14.0]
+2019.11.15 22:16:48.950	header load time: 277 (108695/591705)
+2019.11.15 22:16:48.950	ObjectManager found, ingame flag: 1
+2019.11.15 22:16:48.953	LevelArea candidate count: 9
+2019.11.15 22:16:48.953	can't find levelarea
+2019.11.15 22:16:48.999	scan finished in 48 ms
+2019.11.15 22:16:49.000	force daf scan due to invalid containers [-1, -1, -1, -1, -1, True]
+2019.11.15 22:16:49.009	scan started [19.11.14.0]
+2019.11.15 22:16:49.287	header load time: 277 (115273/571439)
+2019.11.15 22:16:49.287	ObjectManager found, ingame flag: 1
+2019.11.15 22:16:49.288	LevelArea candidate count: 9
+2019.11.15 22:16:49.288	can't find levelarea
+2019.11.15 22:16:49.318	scan finished in 30 ms
+2019.11.15 22:16:52.759	force daf scan due to game jump without leaving to the menu
+2019.11.15 22:16:52.759	force daf scan due to missing LevelAreaAddress
+2019.11.15 22:16:52.759	new run: Monk, New Tristram, Difficulty: t13
+2019.11.15 22:16:52.878	scan started [19.11.14.0]
+2019.11.15 22:16:53.187	header load time: 309 (123928/582847)
+2019.11.15 22:16:53.187	ObjectManager found, ingame flag: 1
+2019.11.15 22:16:53.220	scan finished in 33 ms
+2019.11.15 22:16:55.844	force daf scan due to invalid containers [-1, 445, 5, 1, 891, True]
+2019.11.15 22:16:55.862	scan started [19.11.14.0]
+2019.11.15 22:16:56.169	header load time: 307 (126512/582879)
+2019.11.15 22:16:56.169	ObjectManager found, ingame flag: 1
+2019.11.15 22:16:56.195	scan finished in 25 ms
+2019.11.15 22:16:56.847	new area: New Tristram
+2019.11.15 22:16:57.314	new area: The Festering Woods
+2019.11.15 22:16:59.587	new area: The Festering Woods
+2019.11.15 22:16:59.987	new area: New Tristram
+2019.11.15 22:17:48.669	force daf scan due to invalid containers [-1, 521, -1, 1, 1043, True]
+2019.11.15 22:17:48.687	scan started [19.11.14.0]
+2019.11.15 22:17:49.003	header load time: 315 (124286/582424)
+2019.11.15 22:17:49.003	ObjectManager found, ingame flag: 1
+2019.11.15 22:17:49.029	scan finished in 25 ms
+2019.11.15 22:17:49.030	force daf scan due to invalid containers [-1, 521, -1, 1, 1043, True]
+2019.11.15 22:17:49.036	scan started [19.11.14.0]
+2019.11.15 22:17:49.333	header load time: 297 (124284/574227)
+2019.11.15 22:17:49.333	ObjectManager found, ingame flag: 1
+2019.11.15 22:17:49.358	scan finished in 24 ms
+2019.11.15 22:17:49.359	force daf scan due to invalid containers [-1, 521, -1, 1, 1043, True]
+2019.11.15 22:17:49.365	scan started [19.11.14.0]
+2019.11.15 22:17:49.645	header load time: 279 (124284/574227)
+2019.11.15 22:17:49.645	ObjectManager found, ingame flag: 1
+2019.11.15 22:17:49.670	scan finished in 25 ms
+2019.11.15 22:17:49.671	force daf scan due to invalid containers [-1, 521, -1, 1, 1043, True]
+2019.11.15 22:17:49.679	scan started [19.11.14.0]
+2019.11.15 22:17:49.961	header load time: 281 (119068/574227)
+2019.11.15 22:17:49.962	ObjectManager candidate count: 3
+2019.11.15 22:17:49.962	can't find object manager
+2019.11.15 22:17:49.968	scan started [19.11.14.0]
+2019.11.15 22:17:50.281	header load time: 312 (107885/550331)
+2019.11.15 22:17:50.282	ObjectManager candidate count: 3
+2019.11.15 22:17:50.282	can't find object manager
+2019.11.15 22:17:50.288	scan started [19.11.14.0]
+2019.11.15 22:17:50.574	header load time: 286 (108119/551570)
+2019.11.15 22:17:50.576	ObjectManager candidate count: 4
+2019.11.15 22:17:50.576	can't find object manager
+2019.11.15 22:17:50.604	scan started [19.11.14.0]
+2019.11.15 22:17:50.874	header load time: 269 (110559/590008)
+2019.11.15 22:17:50.874	ObjectManager found, ingame flag: 0
+2019.11.15 22:17:50.894	changed: GameStateAddress
+2019.11.15 22:17:50.897	changed: RealmAddress
+2019.11.15 22:17:50.897	scan finished in 22 ms
+2019.11.15 22:17:50.922	left the game
+2019.11.15 22:18:03.301	block sanity check triggered [RealmAddress]
+2019.11.15 22:18:03.301	scan started [19.11.14.0]
+2019.11.15 22:18:03.605	header load time: 303 (104188/551031)
+2019.11.15 22:18:03.608	ObjectManager candidate count: 3
+2019.11.15 22:18:03.608	can't find object manager
+2019.11.15 22:18:03.615	scan started [19.11.14.0]
+2019.11.15 22:18:03.884	header load time: 269 (104280/551812)
+2019.11.15 22:18:03.886	ObjectManager candidate count: 4
+2019.11.15 22:18:03.886	can't find object manager
+2019.11.15 22:18:03.895	scan started [19.11.14.0]
+2019.11.15 22:18:04.186	header load time: 290 (104576/554360)
+2019.11.15 22:18:04.186	ObjectManager found, ingame flag: 1
+2019.11.15 22:18:04.187	LevelArea candidate count: 8
+2019.11.15 22:18:04.188	can't find levelarea
+2019.11.15 22:18:04.188	'acd' container candidate count: 578, struct size: 1000
+2019.11.15 22:18:04.188	first data block size: 24576 * allocated block count: 9 = allocated size: 221184, container capacity: 9216, expected size: 9216000
+2019.11.15 22:18:04.188	first data block size: 12288 * allocated block count: 9 = allocated size: 110592, container capacity: 4608, expected size: 4608000
+2019.11.15 22:18:04.188	first data block size: 2916352 * allocated block count: 1 = allocated size: 2916352, container capacity: 4096, expected size: 4096000
+2019.11.15 22:18:04.188	first data block size: 688128 * allocated block count: 1 = allocated size: 688128, container capacity: 4096, expected size: 4096000
+2019.11.15 22:18:04.188	first data block size: 1359872 * allocated block count: 1 = allocated size: 1359872, container capacity: 1024, expected size: 1024000
+2019.11.15 22:18:04.188	first data block size: 4956160 * allocated block count: 1 = allocated size: 4956160, container capacity: 1024, expected size: 1024000
+2019.11.15 22:18:04.188	first data block size: 46080 * allocated block count: 1 = allocated size: 46080, container capacity: 128, expected size: 128000
+2019.11.15 22:18:04.188	first data block size: 0 * allocated block count: 1 = allocated size: 0, container capacity: 512, expected size: 512000
+2019.11.15 22:18:04.188	can't find 'acd' container
+2019.11.15 22:18:04.195	scan started [19.11.14.0]
+2019.11.15 22:18:04.457	header load time: 262 (104521/556386)
+2019.11.15 22:18:04.457	ObjectManager found, ingame flag: 1
+2019.11.15 22:18:04.458	LevelArea candidate count: 9
+2019.11.15 22:18:04.458	can't find levelarea
+2019.11.15 22:18:04.480	changed: GameStateAddress
+2019.11.15 22:18:04.490	changed: RealmAddress
+2019.11.15 22:18:04.490	scan finished in 32 ms
+2019.11.15 22:18:04.520	force daf scan due to invalid containers [-1, -1, -1, -1, -1, True]
+2019.11.15 22:18:04.525	scan started [19.11.14.0]
+2019.11.15 22:18:04.798	header load time: 272 (108907/592507)
+2019.11.15 22:18:04.798	ObjectManager found, ingame flag: 1
+2019.11.15 22:18:04.799	LevelArea candidate count: 9
+2019.11.15 22:18:04.799	can't find levelarea
+2019.11.15 22:18:04.832	scan finished in 34 ms
+2019.11.15 22:18:04.834	force daf scan due to invalid containers [-1, -1, -1, -1, -1, True]
+2019.11.15 22:18:04.839	scan started [19.11.14.0]
+2019.11.15 22:18:05.141	header load time: 301 (115629/571498)
+2019.11.15 22:18:05.141	ObjectManager found, ingame flag: 1
+2019.11.15 22:18:05.143	LevelArea candidate count: 8
+2019.11.15 22:18:05.143	can't find levelarea
+2019.11.15 22:18:05.168	scan finished in 26 ms
+2019.11.15 22:18:08.856	force daf scan due to missing LevelAreaAddress
+2019.11.15 22:18:08.856	new run: Barbarian, New Tristram, Difficulty: t13
+2019.11.15 22:18:08.968	scan started [19.11.14.0]
+2019.11.15 22:18:09.284	header load time: 315 (125113/582981)
+2019.11.15 22:18:09.284	ObjectManager found, ingame flag: 1
+2019.11.15 22:18:09.311	scan finished in 27 ms
+2019.11.15 22:26:13.732	force daf scan due to invalid containers [-1, 540, 5, 2, 1081, True]
+2019.11.15 22:26:13.744	scan started [19.11.14.0]
+2019.11.15 22:26:14.059	header load time: 314 (138630/583131)
+2019.11.15 22:26:14.059	ObjectManager found, ingame flag: 1
+2019.11.15 22:26:14.086	scan finished in 26 ms
+2019.11.15 22:26:14.826	new area: New Tristram
+2019.11.15 22:26:15.092	new area: Rift Level 01
+2019.11.15 22:31:48.826	force daf scan due to invalid containers [-1, 532, -1, 1, 1078, True]
+2019.11.15 22:31:48.844	scan started [19.11.14.0]
+2019.11.15 22:31:49.161	header load time: 317 (132439/580664)
+2019.11.15 22:31:49.161	ObjectManager found, ingame flag: 1
+2019.11.15 22:31:49.187	scan finished in 26 ms
+2019.11.15 22:31:49.188	force daf scan due to invalid containers [-1, 532, -1, 1, 1078, True]
+2019.11.15 22:31:49.194	scan started [19.11.14.0]
+2019.11.15 22:31:49.491	header load time: 297 (132434/574401)
+2019.11.15 22:31:49.491	ObjectManager found, ingame flag: 1
+2019.11.15 22:31:49.516	scan finished in 25 ms
+2019.11.15 22:31:49.517	force daf scan due to invalid containers [-1, 532, -1, 1, 1078, True]
+2019.11.15 22:31:49.523	scan started [19.11.14.0]
+2019.11.15 22:31:49.828	header load time: 304 (132434/574401)
+2019.11.15 22:31:49.828	ObjectManager found, ingame flag: 1
+2019.11.15 22:31:49.855	scan finished in 27 ms
+2019.11.15 22:31:49.856	force daf scan due to invalid containers [-1, 532, -1, 1, 1078, True]
+2019.11.15 22:31:49.862	scan started [19.11.14.0]
+2019.11.15 22:31:50.202	header load time: 340 (123292/574401)
+2019.11.15 22:31:50.204	ObjectManager candidate count: 3
+2019.11.15 22:31:50.204	can't find object manager
+2019.11.15 22:31:50.210	scan started [19.11.14.0]
+2019.11.15 22:31:50.512	header load time: 301 (115993/550573)
+2019.11.15 22:31:50.514	ObjectManager candidate count: 3
+2019.11.15 22:31:50.514	can't find object manager
+2019.11.15 22:31:50.521	scan started [19.11.14.0]
+2019.11.15 22:31:50.817	header load time: 295 (116251/551612)
+2019.11.15 22:31:50.818	ObjectManager candidate count: 4
+2019.11.15 22:31:50.818	can't find object manager
+2019.11.15 22:31:50.824	scan started [19.11.14.0]
+2019.11.15 22:31:51.121	header load time: 297 (118983/590057)
+2019.11.15 22:31:51.121	ObjectManager found, ingame flag: 0
+2019.11.15 22:31:51.142	changed: GameStateAddress
+2019.11.15 22:31:51.147	changed: RealmAddress
+2019.11.15 22:31:51.147	scan finished in 26 ms
+2019.11.15 22:31:51.177	left the game
+2019.11.15 22:32:36.026	block sanity check triggered [RealmAddress]
+2019.11.15 22:32:36.026	scan started [19.11.14.0]
+2019.11.15 22:32:36.316	header load time: 289 (111726/550743)
+2019.11.15 22:32:36.317	ObjectManager candidate count: 3
+2019.11.15 22:32:36.318	can't find object manager
+2019.11.15 22:32:36.324	scan started [19.11.14.0]
+2019.11.15 22:32:36.631	header load time: 306 (111854/551540)
+2019.11.15 22:32:36.632	ObjectManager candidate count: 3
+2019.11.15 22:32:36.632	can't find object manager
+2019.11.15 22:32:36.639	scan started [19.11.14.0]
+2019.11.15 22:32:36.954	header load time: 315 (112112/554265)
+2019.11.15 22:32:36.954	ObjectManager found, ingame flag: 1
+2019.11.15 22:32:36.955	LevelArea candidate count: 8
+2019.11.15 22:32:36.955	can't find levelarea
+2019.11.15 22:32:36.975	changed: GameStateAddress
+2019.11.15 22:32:36.977	changed: RealmAddress
+2019.11.15 22:32:36.977	scan finished in 23 ms
+2019.11.15 22:32:37.007	force daf scan due to invalid containers [-1, -1, -1, -1, -1, True]
+2019.11.15 22:32:37.022	scan started [19.11.14.0]
+2019.11.15 22:32:37.295	header load time: 273 (111292/597222)
+2019.11.15 22:32:37.295	ObjectManager found, ingame flag: 1
+2019.11.15 22:32:37.296	LevelArea candidate count: 9
+2019.11.15 22:32:37.296	can't find levelarea
+2019.11.15 22:32:37.323	scan finished in 28 ms
+2019.11.15 22:32:37.324	force daf scan due to invalid containers [-1, -1, -1, -1, -1, True]
+2019.11.15 22:32:37.330	scan started [19.11.14.0]
+2019.11.15 22:32:37.610	header load time: 280 (115190/586163)
+2019.11.15 22:32:37.610	ObjectManager found, ingame flag: 1
+2019.11.15 22:32:37.612	LevelArea candidate count: 8
+2019.11.15 22:32:37.612	can't find levelarea
+2019.11.15 22:32:37.635	scan finished in 24 ms
+2019.11.15 22:32:37.636	force daf scan due to invalid containers [-1, -1, -1, -1, -1, True]
+2019.11.15 22:32:37.642	scan started [19.11.14.0]
+2019.11.15 22:32:37.933	header load time: 291 (120331/575034)
+2019.11.15 22:32:37.933	ObjectManager found, ingame flag: 1
+2019.11.15 22:32:37.934	LevelArea candidate count: 9
+2019.11.15 22:32:37.935	can't find levelarea
+2019.11.15 22:32:37.957	scan finished in 23 ms
+2019.11.15 22:32:41.378	force daf scan due to game jump without leaving to the menu
+2019.11.15 22:32:41.378	force daf scan due to missing LevelAreaAddress
+2019.11.15 22:32:41.378	new run: Barbarian, New Tristram, Difficulty: n
+2019.11.15 22:32:41.501	scan started [19.11.14.0]
+2019.11.15 22:32:41.829	header load time: 328 (129312/582641)
+2019.11.15 22:32:41.829	ObjectManager found, ingame flag: 1
+2019.11.15 22:32:41.855	scan finished in 25 ms
+2019.11.15 22:35:35.732	force daf scan due to invalid containers [-1, 536, 5, 1, 1073, True]
+2019.11.15 22:35:35.750	scan started [19.11.14.0]
+2019.11.15 22:35:36.060	header load time: 309 (136414/582795)
+2019.11.15 22:35:36.060	ObjectManager found, ingame flag: 1
+2019.11.15 22:35:36.084	scan finished in 24 ms
+2019.11.15 22:35:36.670	new area: New Tristram
+2019.11.15 22:35:37.242	new area: Rift Level 01
+2019.11.15 22:38:16.806	force daf scan due to invalid containers [-1, 535, -1, 0, 1071, True]
+2019.11.15 22:38:16.824	scan started [19.11.14.0]
+2019.11.15 22:38:17.139	header load time: 314 (130124/580989)
+2019.11.15 22:38:17.139	ObjectManager found, ingame flag: 1
+2019.11.15 22:38:17.162	scan finished in 23 ms
+2019.11.15 22:38:17.163	force daf scan due to invalid containers [-1, 535, -1, 0, 1071, True]
+2019.11.15 22:38:17.169	scan started [19.11.14.0]
+2019.11.15 22:38:17.459	header load time: 290 (130118/574126)
+2019.11.15 22:38:17.459	ObjectManager found, ingame flag: 1
+2019.11.15 22:38:17.481	scan finished in 22 ms
+2019.11.15 22:38:17.482	force daf scan due to invalid containers [-1, 535, -1, 0, 1071, True]
+2019.11.15 22:38:17.491	scan started [19.11.14.0]
+2019.11.15 22:38:17.787	header load time: 296 (130118/574126)
+2019.11.15 22:38:17.787	ObjectManager found, ingame flag: 1
+2019.11.15 22:38:17.810	scan finished in 22 ms
+2019.11.15 22:38:17.811	force daf scan due to invalid containers [-1, 535, -1, 0, 1071, True]
+2019.11.15 22:38:17.817	scan started [19.11.14.0]
+2019.11.15 22:38:18.113	header load time: 296 (125276/574126)
+2019.11.15 22:38:18.115	ObjectManager candidate count: 3
+2019.11.15 22:38:18.115	can't find object manager
+2019.11.15 22:38:18.122	scan started [19.11.14.0]
+2019.11.15 22:38:18.417	header load time: 295 (114079/550236)
+2019.11.15 22:38:18.418	ObjectManager candidate count: 3
+2019.11.15 22:38:18.418	can't find object manager
+2019.11.15 22:38:18.424	scan started [19.11.14.0]
+2019.11.15 22:38:18.712	header load time: 287 (114325/550834)
+2019.11.15 22:38:18.713	ObjectManager candidate count: 4
+2019.11.15 22:38:18.713	can't find object manager
+2019.11.15 22:38:18.719	scan started [19.11.14.0]
+2019.11.15 22:38:19.037	header load time: 317 (116899/575570)
+2019.11.15 22:38:19.037	ObjectManager found, ingame flag: 0
+2019.11.15 22:38:19.058	changed: GameStateAddress
+2019.11.15 22:38:19.058	changed: RealmAddress
+2019.11.15 22:38:19.058	scan finished in 21 ms
+2019.11.15 22:38:19.092	left the game
+2019.11.15 22:38:24.350	block sanity check triggered [RealmAddress]
+2019.11.15 22:38:24.350	scan started [19.11.14.0]
+2019.11.15 22:38:24.640	header load time: 289 (110351/550767)
+2019.11.15 22:38:24.641	ObjectManager candidate count: 3
+2019.11.15 22:38:24.641	can't find object manager
+2019.11.15 22:38:24.647	scan started [19.11.14.0]
+2019.11.15 22:38:24.929	header load time: 282 (110458/551073)
+2019.11.15 22:38:24.931	ObjectManager candidate count: 4
+2019.11.15 22:38:24.931	can't find object manager
+2019.11.15 22:38:24.937	scan started [19.11.14.0]
+2019.11.15 22:38:25.222	header load time: 285 (110746/554066)
+2019.11.15 22:38:25.224	ObjectManager candidate count: 4
+2019.11.15 22:38:25.224	can't find object manager
+2019.11.15 22:38:25.230	scan started [19.11.14.0]
+2019.11.15 22:38:25.506	header load time: 276 (110803/554581)
+2019.11.15 22:38:25.506	ObjectManager found, ingame flag: 1
+2019.11.15 22:38:25.508	LevelArea candidate count: 9
+2019.11.15 22:38:25.508	can't find levelarea
+2019.11.15 22:38:25.528	changed: GameStateAddress
+2019.11.15 22:38:25.531	changed: RealmAddress
+2019.11.15 22:38:25.531	scan finished in 24 ms
+2019.11.15 22:38:25.557	force daf scan due to invalid containers [-1, -1, -1, -1, -1, True]
+2019.11.15 22:38:25.564	scan started [19.11.14.0]
+2019.11.15 22:38:25.844	header load time: 279 (116076/586369)
+2019.11.15 22:38:25.844	ObjectManager found, ingame flag: 1
+2019.11.15 22:38:25.846	LevelArea candidate count: 8
+2019.11.15 22:38:25.846	can't find levelarea
+2019.11.15 22:38:25.870	scan finished in 25 ms
+2019.11.15 22:38:25.871	force daf scan due to invalid containers [-1, -1, -1, -1, -1, True]
+2019.11.15 22:38:25.877	scan started [19.11.14.0]
+2019.11.15 22:38:26.170	header load time: 293 (122072/571475)
+2019.11.15 22:38:26.170	ObjectManager found, ingame flag: 1
+2019.11.15 22:38:26.171	LevelArea candidate count: 8
+2019.11.15 22:38:26.171	can't find levelarea
+2019.11.15 22:38:26.195	scan finished in 25 ms
+2019.11.15 22:38:29.787	force daf scan due to game jump without leaving to the menu
+2019.11.15 22:38:29.787	force daf scan due to missing LevelAreaAddress
+2019.11.15 22:38:29.787	new run: Barbarian, New Tristram, Difficulty: n
+2019.11.15 22:38:29.907	scan started [19.11.14.0]
+2019.11.15 22:38:30.244	header load time: 337 (131993/582523)
+2019.11.15 22:38:30.244	ObjectManager found, ingame flag: 1
+2019.11.15 22:38:30.272	scan finished in 27 ms
+2019.11.15 22:39:33.042	force daf scan due to invalid containers [-1, 534, 5, 1, 1069, True]
+2019.11.15 22:39:33.060	scan started [19.11.14.0]
+2019.11.15 22:39:33.379	header load time: 318 (137292/582569)
+2019.11.15 22:39:33.379	ObjectManager found, ingame flag: 1
+2019.11.15 22:39:33.404	scan finished in 24 ms
+2019.11.15 22:39:33.629	new area: New Tristram
+2019.11.15 22:39:34.191	new area: Rift Level 01
+2019.11.15 22:40:34.903	force daf scan due to invalid containers [-1, 533, -1, 0, 1067, True]
+2019.11.15 22:40:34.921	scan started [19.11.14.0]
+2019.11.15 22:40:35.220	header load time: 299 (130880/580544)
+2019.11.15 22:40:35.220	ObjectManager found, ingame flag: 1
+2019.11.15 22:40:35.244	scan finished in 23 ms
+2019.11.15 22:40:35.245	force daf scan due to invalid containers [-1, 533, -1, 0, 1067, True]
+2019.11.15 22:40:35.251	scan started [19.11.14.0]
+2019.11.15 22:40:35.542	header load time: 290 (130868/574315)
+2019.11.15 22:40:35.542	ObjectManager found, ingame flag: 1
+2019.11.15 22:40:35.566	scan finished in 24 ms
+2019.11.15 22:40:35.567	force daf scan due to invalid containers [-1, 533, -1, 0, 1067, True]
+2019.11.15 22:40:35.573	scan started [19.11.14.0]
+2019.11.15 22:40:35.866	header load time: 292 (130868/574315)
+2019.11.15 22:40:35.866	ObjectManager found, ingame flag: 1
+2019.11.15 22:40:35.890	scan finished in 24 ms
+2019.11.15 22:40:35.891	force daf scan due to invalid containers [-1, 533, -1, 0, 1067, True]
+2019.11.15 22:40:35.897	scan started [19.11.14.0]
+2019.11.15 22:40:36.192	header load time: 295 (126209/574315)
+2019.11.15 22:40:36.193	ObjectManager candidate count: 3
+2019.11.15 22:40:36.193	can't find object manager
+2019.11.15 22:40:36.200	scan started [19.11.14.0]
+2019.11.15 22:40:36.517	header load time: 317 (114781/550356)
+2019.11.15 22:40:36.519	ObjectManager candidate count: 3
+2019.11.15 22:40:36.519	can't find object manager
+2019.11.15 22:40:36.532	scan started [19.11.14.0]
+2019.11.15 22:40:36.851	header load time: 319 (115040/551552)
+2019.11.15 22:40:36.852	ObjectManager candidate count: 4
+2019.11.15 22:40:36.852	can't find object manager
+2019.11.15 22:40:36.859	scan started [19.11.14.0]
+2019.11.15 22:40:37.150	header load time: 290 (117396/588334)
+2019.11.15 22:40:37.150	ObjectManager found, ingame flag: 0
+2019.11.15 22:40:37.170	changed: GameStateAddress
+2019.11.15 22:40:37.181	changed: RealmAddress
+2019.11.15 22:40:37.181	scan finished in 31 ms
+2019.11.15 22:40:37.207	left the game
+2019.11.15 22:40:42.584	block sanity check triggered [RealmAddress]
+2019.11.15 22:40:42.584	scan started [19.11.14.0]
+2019.11.15 22:40:42.867	header load time: 283 (110871/550997)
+2019.11.15 22:40:42.869	ObjectManager candidate count: 3
+2019.11.15 22:40:42.869	can't find object manager
+2019.11.15 22:40:42.875	scan started [19.11.14.0]
+2019.11.15 22:40:43.170	header load time: 294 (111009/551271)
+2019.11.15 22:40:43.171	ObjectManager candidate count: 3
+2019.11.15 22:40:43.171	can't find object manager
+2019.11.15 22:40:43.177	scan started [19.11.14.0]
+2019.11.15 22:40:43.467	header load time: 289 (111267/554340)
+2019.11.15 22:40:43.467	ObjectManager found, ingame flag: 1
+2019.11.15 22:40:43.468	LevelArea candidate count: 8
+2019.11.15 22:40:43.468	can't find levelarea
+2019.11.15 22:40:43.488	changed: GameStateAddress
+2019.11.15 22:40:43.489	changed: RealmAddress
+2019.11.15 22:40:43.489	scan finished in 21 ms
+2019.11.15 22:40:43.511	force daf scan due to invalid containers [-1, -1, -1, -1, -1, True]
+2019.11.15 22:40:43.516	scan started [19.11.14.0]
+2019.11.15 22:40:43.804	header load time: 287 (112160/590923)
+2019.11.15 22:40:43.804	ObjectManager found, ingame flag: 1
+2019.11.15 22:40:43.805	LevelArea candidate count: 9
+2019.11.15 22:40:43.805	can't find levelarea
+2019.11.15 22:40:43.826	scan finished in 21 ms
+2019.11.15 22:40:43.826	force daf scan due to invalid containers [-1, -1, -1, -1, -1, True]
+2019.11.15 22:40:43.832	scan started [19.11.14.0]
+2019.11.15 22:40:44.132	header load time: 299 (118260/587102)
+2019.11.15 22:40:44.132	ObjectManager found, ingame flag: 1
+2019.11.15 22:40:44.136	LevelArea candidate count: 8
+2019.11.15 22:40:44.136	can't find levelarea
+2019.11.15 22:40:44.168	scan finished in 35 ms
+2019.11.15 22:40:44.169	force daf scan due to invalid containers [-1, -1, -1, -1, -1, True]
+2019.11.15 22:40:44.175	scan started [19.11.14.0]
+2019.11.15 22:40:44.474	header load time: 298 (124085/573927)
+2019.11.15 22:40:44.474	ObjectManager found, ingame flag: 1
+2019.11.15 22:40:44.476	LevelArea candidate count: 9
+2019.11.15 22:40:44.476	can't find levelarea
+2019.11.15 22:40:44.499	scan finished in 25 ms
+2019.11.15 22:40:48.048	force daf scan due to game jump without leaving to the menu
+2019.11.15 22:40:48.048	force daf scan due to missing LevelAreaAddress
+2019.11.15 22:40:48.048	new run: Barbarian, New Tristram, Difficulty: n
+2019.11.15 22:40:48.167	scan started [19.11.14.0]
+2019.11.15 22:40:48.493	header load time: 326 (133139/582789)
+2019.11.15 22:40:48.493	ObjectManager found, ingame flag: 1
+2019.11.15 22:40:48.519	scan finished in 26 ms
+2019.11.15 22:41:06.525	force daf scan due to invalid containers [-1, 531, 5, 1, 1063, True]
+2019.11.15 22:41:06.542	scan started [19.11.14.0]
+2019.11.15 22:41:06.847	header load time: 305 (137572/582833)
+2019.11.15 22:41:06.847	ObjectManager found, ingame flag: 1
+2019.11.15 22:41:06.870	scan finished in 22 ms
+2019.11.15 22:41:07.274	new area: New Tristram
+2019.11.15 22:41:07.654	new area: Rift Level 01
+2019.11.15 22:43:41.512	force daf scan due to invalid containers [-1, 534, -1, 0, 1069, True]
+2019.11.15 22:43:41.530	scan started [19.11.14.0]
+2019.11.15 22:43:41.865	header load time: 335 (132144/579362)
+2019.11.15 22:43:41.865	ObjectManager found, ingame flag: 1
+2019.11.15 22:43:41.886	scan finished in 21 ms
+2019.11.15 22:43:41.887	force daf scan due to invalid containers [-1, 534, -1, 0, 1069, True]
+2019.11.15 22:43:41.895	scan started [19.11.14.0]
+2019.11.15 22:43:42.192	header load time: 296 (132141/574578)
+2019.11.15 22:43:42.192	ObjectManager found, ingame flag: 1
+2019.11.15 22:43:42.212	scan finished in 20 ms
+2019.11.15 22:43:42.213	force daf scan due to invalid containers [-1, 534, -1, 0, 1069, True]
+2019.11.15 22:43:42.220	scan started [19.11.14.0]
+2019.11.15 22:43:42.519	header load time: 298 (132141/574578)
+2019.11.15 22:43:42.519	ObjectManager found, ingame flag: 1
+2019.11.15 22:43:42.541	scan finished in 22 ms
+2019.11.15 22:43:42.542	force daf scan due to invalid containers [-1, 534, -1, 0, 1069, True]
+2019.11.15 22:43:42.548	scan started [19.11.14.0]
+2019.11.15 22:43:42.842	header load time: 294 (125242/574578)
+2019.11.15 22:43:42.844	ObjectManager candidate count: 3
+2019.11.15 22:43:42.844	can't find object manager
+2019.11.15 22:43:42.850	scan started [19.11.14.0]
+2019.11.15 22:43:43.141	header load time: 291 (115954/550682)
+2019.11.15 22:43:43.143	ObjectManager candidate count: 3
+2019.11.15 22:43:43.143	can't find object manager
+2019.11.15 22:43:43.149	scan started [19.11.14.0]
+2019.11.15 22:43:43.444	header load time: 294 (116214/551481)
+2019.11.15 22:43:43.445	ObjectManager candidate count: 4
+2019.11.15 22:43:43.445	can't find object manager
+2019.11.15 22:43:43.451	scan started [19.11.14.0]
+2019.11.15 22:43:43.773	header load time: 321 (119041/587550)
+2019.11.15 22:43:43.773	ObjectManager found, ingame flag: 0
+2019.11.15 22:43:43.793	changed: GameStateAddress
+2019.11.15 22:43:43.808	changed: RealmAddress
+2019.11.15 22:43:43.808	scan finished in 35 ms
+2019.11.15 22:43:43.833	left the game
+2019.11.15 22:44:26.823	block sanity check triggered [RealmAddress]
+2019.11.15 22:44:26.823	scan started [19.11.14.0]
+2019.11.15 22:44:27.130	header load time: 307 (111725/551898)
+2019.11.15 22:44:27.132	ObjectManager candidate count: 3
+2019.11.15 22:44:27.132	can't find object manager
+2019.11.15 22:44:27.138	scan started [19.11.14.0]
+2019.11.15 22:44:27.415	header load time: 277 (111863/552259)
+2019.11.15 22:44:27.417	ObjectManager candidate count: 4
+2019.11.15 22:44:27.417	can't find object manager
+2019.11.15 22:44:27.422	scan started [19.11.14.0]
+2019.11.15 22:44:27.734	header load time: 311 (112122/555284)
+2019.11.15 22:44:27.734	ObjectManager found, ingame flag: 1
+2019.11.15 22:44:27.736	LevelArea candidate count: 8
+2019.11.15 22:44:27.736	can't find levelarea
+2019.11.15 22:44:27.756	changed: GameStateAddress
+2019.11.15 22:44:27.756	changed: RealmAddress
+2019.11.15 22:44:27.756	scan finished in 22 ms
+2019.11.15 22:44:27.780	force daf scan due to invalid containers [-1, -1, -1, -1, -1, True]
+2019.11.15 22:44:27.786	scan started [19.11.14.0]
+2019.11.15 22:44:28.055	header load time: 269 (113210/597747)
+2019.11.15 22:44:28.055	ObjectManager found, ingame flag: 1
+2019.11.15 22:44:28.057	LevelArea candidate count: 9
+2019.11.15 22:44:28.057	can't find levelarea
+2019.11.15 22:44:28.078	scan finished in 22 ms
+2019.11.15 22:44:28.078	force daf scan due to invalid containers [-1, -1, -1, -1, -1, True]
+2019.11.15 22:44:28.084	scan started [19.11.14.0]
+2019.11.15 22:44:28.382	header load time: 298 (119374/586294)
+2019.11.15 22:44:28.382	ObjectManager found, ingame flag: 1
+2019.11.15 22:44:28.384	LevelArea candidate count: 8
+2019.11.15 22:44:28.384	can't find levelarea
+2019.11.15 22:44:28.406	scan finished in 23 ms
+2019.11.15 22:44:28.407	force daf scan due to invalid containers [-1, -1, -1, -1, -1, True]
+2019.11.15 22:44:28.415	scan started [19.11.14.0]
+2019.11.15 22:44:28.727	header load time: 311 (124786/576456)
+2019.11.15 22:44:28.727	ObjectManager found, ingame flag: 1
+2019.11.15 22:44:28.728	LevelArea candidate count: 9
+2019.11.15 22:44:28.728	can't find levelarea
+2019.11.15 22:44:28.751	scan finished in 24 ms
+2019.11.15 22:44:32.427	force daf scan due to game jump without leaving to the menu
+2019.11.15 22:44:32.427	force daf scan due to missing LevelAreaAddress
+2019.11.15 22:44:32.427	new run: Barbarian, New Tristram, Difficulty: n
+2019.11.15 22:44:32.550	scan started [19.11.14.0]
+2019.11.15 22:44:32.862	header load time: 312 (134285/583344)
+2019.11.15 22:44:32.862	ObjectManager found, ingame flag: 1
+2019.11.15 22:44:32.887	scan finished in 24 ms
+2019.11.15 22:44:50.668	force daf scan due to game jump without leaving to the menu
+2019.11.15 22:44:50.683	scan started [19.11.14.0]
+2019.11.15 22:44:50.977	header load time: 294 (124182/583351)
+2019.11.15 22:44:50.979	ObjectManager candidate count: 3
+2019.11.15 22:44:50.979	can't find object manager
+2019.11.15 22:44:50.986	scan started [19.11.14.0]
+2019.11.15 22:44:51.409	header load time: 423 (101678/551577)
+2019.11.15 22:44:51.411	ObjectManager candidate count: 3
+2019.11.15 22:44:51.411	can't find object manager
+2019.11.16 08:36:23.500	new context [19.11.14.0] [Microsoft Windows NT 6.2.9200.0 / Windows 8]
+2019.11.16 08:36:29.276	scan started [19.11.14.0]
+2019.11.16 08:36:29.403	header load time: 121 (20051/500747)
+2019.11.16 08:36:29.410	ObjectManager found, ingame flag: 1
+2019.11.16 08:36:29.425	CK#1 sanity check triggered
+2019.11.16 08:36:29.439	deduction - world max index: 0
+2019.11.16 08:36:29.439	deduction - scene max index: 14
+2019.11.16 08:36:29.449	deduction - me: 0, 2005139588, 270011 (valid), 454021
+2019.11.16 08:36:29.451	deduction - actor max index: 173, valid: True
+2019.11.16 08:36:29.451	deduction - acd max index: 527, valid: True
+2019.11.16 08:36:29.462	deduction - highest actor dict: *90,*2
+2019.11.16 08:36:29.462	deduction - CK#1: 577757603
+2019.11.16 08:36:29.462	deduction - me pos: 511.92:745.88:2.62
+2019.11.16 08:36:29.462	deduction - CK#2: 40959362
+2019.11.16 08:36:29.462	deduction - A scene#0(311316): no overlap, 240-480, 240-480, CK3: 3974012051, CK4: 1755999577
+2019.11.16 08:36:29.462	deduction - A scene#1(311295): no overlap, 240-480, 480-720, CK3: 3974077586, CK4: 1755999577
+2019.11.16 08:36:29.462	deduction - A scene#2(311307): no overlap, 480-720, 480-720, CK3: 3973880977, CK4: 1755999577
+2019.11.16 08:36:29.462	deduction - A scene#3(311301): no overlap, 240-480, 960-1200, CK3: 3973946512, CK4: 1755999577
+2019.11.16 08:36:29.462	deduction - A scene#4(311298): no overlap, 240-480, 720-960, CK3: 3973225623, CK4: 1755999577
+2019.11.16 08:36:29.465	deduction - A scene#5(311310): 91, 480 - 720, 720 - 960, CK3: 3973291158, CK4: 1755999577
+2019.11.16 08:36:29.465	deduction - CK#3: 3973291158
+2019.11.16 08:36:29.465	deduction - CK#4: 1755999577
+2019.11.16 08:36:29.465	scan finished in 62 ms
+2019.11.16 08:36:29.789	new run: Necromancer, The Survivors' Enclave, Difficulty: t16
