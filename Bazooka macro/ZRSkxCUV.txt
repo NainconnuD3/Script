@@ -1,9 +1,0 @@
-d::
-Send {x}
-Sleep 1100
-Send {RButton Down}
-Sleep 85
-Send {v}
-Send {RButton Up}
-Sleep 50
-end:

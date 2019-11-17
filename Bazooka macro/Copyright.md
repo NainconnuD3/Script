@@ -1,1 +1,0 @@
-All the rights to "dothepe" from Ros-forum https://www.ros-bot.com/forums/wizard/bazooka-macro-ahk-1682670
