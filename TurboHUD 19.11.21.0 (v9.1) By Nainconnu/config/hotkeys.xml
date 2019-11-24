@@ -2,7 +2,7 @@
 <config>
 	<hotkeys>
 		<exit modifier="ctrl" key="End" />
-		<hide_hud modifier="" key="F4" />
+		<hide_hud modifier="ctrl" key="F4" />
 		<reload_pickit modifier="" key="F3" />
 		<capture modifier="alt" key="C" />
 		<capture_with_overlay modifier="ctrl+alt" key="C" />
